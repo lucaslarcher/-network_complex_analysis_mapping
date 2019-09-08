@@ -1,0 +1,317 @@
+@inproceedings{vakilinia2016analysis,
+  title={Analysis and optimization of big-data stream processing},
+  author={Vakilinia, Shahin and Zhang, Xinyao and Qiu, Dongyu},
+  booktitle={2016 IEEE global communications conference (GLOBECOM)},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{lee2017data,
+  title={A data streaming performance evaluation using resource constrained edge device},
+  author={Lee, Hwejoo and Oh, Junghyun and Kim, Kyungrae and Yeon, Hunje},
+  booktitle={2017 International Conference on Information and Communication Technology Convergence (ICTC)},
+  pages={628--633},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{ur2017framework,
+  title={A framework to handle big data for cyber-physical systems},
+  author={ur Rehman, Shafiq and Hark, Andre and Gruhn, Volker},
+  booktitle={2017 8th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)},
+  pages={72--78},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{hesse2017new,
+  title={A new application benchmark for data stream processing architectures in an enterprise context: doctoral symposium},
+  author={Hesse, Guenter and Matthies, Christoph and Reissaus, Benjamin and Uflacker, Matthias},
+  booktitle={Proceedings of the 11th ACM International Conference on Distributed and Event-based Systems},
+  pages={359--362},
+  year={2017},
+  organization={ACM}
+}
+@inproceedings{hanif2017adaptive,
+  title={An adaptive SLA-based data flow mechanism for stream processing engines},
+  author={Hanif, Muhammad and Yoon, Hyungduk and Jang, Sunglim and Lee, Choonhwa},
+  booktitle={2017 International Conference on Information and Communication Technology Convergence (ICTC)},
+  pages={81--86},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{hanif2019benchmarking,
+  title={Benchmarking Tool for Modern Distributed Stream Processing Engines},
+  author={Hanif, Muhammad and Yoon, Hyeongdeok and Lee, Choonhwa},
+  booktitle={2019 International Conference on Information Networking (ICOIN)},
+  pages={393--395},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{ta2016big,
+  title={Big data stream computing in healthcare real-time analytics},
+  author={Ta, Van-Dai and Liu, Chuan-Ming and Nkabinde, Goodwill Wandile},
+  booktitle={2016 IEEE International Conference on Cloud Computing and Big Data Analysis (ICCCBDA)},
+  pages={37--42},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{khan2018big,
+  title={Big IoT Data Stream Analytics with Issues in Privacy and Security},
+  author={Khan, Latifur},
+  booktitle={Proceedings of the Fourth ACM International Workshop on Security and Privacy Analytics},
+  pages={22--22},
+  year={2018},
+  organization={ACM}
+}
+@inproceedings{javed2017characterization,
+  title={Characterization of Big Data Stream Processing Pipeline: A Case Study using Flink and Kafka},
+  author={Javed, M Haseeb and Lu, Xiaoyi and Panda, Dhabaleswar K},
+  booktitle={Proceedings of the Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies},
+  pages={1--10},
+  year={2017},
+  organization={ACM}
+}
+@inproceedings{gupta2012cloud,
+  title={Cloud computing and big data analytics: what is new from databases perspective?},
+  author={Gupta, Rajeev and Gupta, Himanshu and Mohania, Mukesh},
+  booktitle={International Conference on Big Data Analytics},
+  pages={42--61},
+  year={2012},
+  organization={Springer}
+}
+@ARTICLE{Liu201996,
+author={Liu, X. and Zhang, B.},
+title={Construction of integrated management platform of smart pulp and paper enterprises involving “internet plus”},
+journal={Paper Asia},
+year={2019},
+volume={2},
+number={2},
+pages={96-99},
+note={cited By 0},
+url={https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062768503&partnerID=40&md5=6568d643ff5268f905e93a4cc9302f51},
+document_type={Article},
+source={Scopus},
+}
+@article{khan2019cotton,
+  title={Cotton Crop Cultivation Oriented Semantic Framework Based on IoT Smart Farming Application},
+  author={Khan, Fazeel Ahmed and Adamu Abubakar, Marwan Mahmoud and Al-Khasawneh, Mahmoud Ahmad and Alarood, Ala Abdulsalam},
+  journal={International Journal of Engineering and Advanced Technology},
+  volume={8},
+  number={3},
+  pages={480--484},
+  year={2019}
+}
+@inproceedings{poormohammady2017dynamic,
+  title={Dynamic algorithm selection for the logic of tasks in IoT stream processing systems},
+  author={Poormohammady, Ehsan and Reelfs, Jens Helge and Stoffers, Mirko and Wehrle, Klaus and Papageorgiou, Apostolos},
+  booktitle={2017 13th International Conference on Network and Service Management (CNSM)},
+  pages={1--5},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{li2015ehopes,
+  title={EHOPES: Data-centered Fog platform for smart living},
+  author={Li, Jianhua and Jin, Jiong and Yuan, Dong and Palaniswami, Marimuthu and Moessner, Klaus},
+  booktitle={2015 International Telecommunication Networks and Applications Conference (ITNAC)},
+  pages={308--313},
+  year={2015},
+  organization={IEEE}
+}
+@inproceedings{schirmer2016extending,
+  title={Extending enterprise architectures for adopting the internet of things--Lessons learned from the smartPORT projects in Hamburg},
+  author={Schirmer, Ingrid and Drews, Paul and Saxe, Sebastian and Baldauf, Ulrich and Tesse, J{\"o}ran},
+  booktitle={International Conference on Business Information Systems},
+  pages={169--180},
+  year={2016},
+  organization={Springer}
+}
+@inproceedings{Costa2018HeimdallI,
+  title={Heimdall - Internet of Things (IoT) Platform for Data Retrieval},
+  author={Gabriel Martins de Oliveira Costa and Marcos Araujo and Tiago Cruz de França and Claudio Miceli de Farias},
+  booktitle={BiDu-PostersVLDB},
+  year={2018}
+}
+@inproceedings{de2016iot,
+  title={Iot big data stream mining},
+  author={De Francisci Morales, Gianmarco and Bifet, Albert and Khan, Latifur and Gama, Joao and Fan, Wei},
+  booktitle={Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages={2119--2120},
+  year={2016},
+  organization={ACM}
+}
+@article{yang2017iot,
+  title={IoT stream processing and analytics in the fog},
+  author={Yang, Shusen},
+  journal={IEEE Communications Magazine},
+  volume={55},
+  number={8},
+  pages={21--27},
+  year={2017},
+  publisher={IEEE}
+}
+@inproceedings{llora2008meandre,
+  title={Meandre: Semantic-driven data-intensive flows in the clouds},
+  author={Llor{\`a}, Xavier and {\'A}cs, Bernie and Auvil, Loretta S and Capitanu, Boris and Welge, Michael E and Goldberg, David E},
+  booktitle={2008 IEEE Fourth International Conference on eScience},
+  pages={238--245},
+  year={2008},
+  organization={IEEE}
+}
+@inproceedings{bifet2016mining,
+  title={Mining Internet of Things (IoT) Big Data Streams},
+  author={Bifet, Albert},
+  booktitle={SIMBig},
+  pages={15--16},
+  year={2016}
+}
+@incollection{namiot2018data,
+  title={On Data Stream Processing in IoT Applications},
+  author={Namiot, Dmitry and Sneps-Sneppe, Manfred and Pauliks, Romass},
+  booktitle={Internet of Things, Smart Spaces, and Next Generation Networks and Systems},
+  pages={41--51},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{dayal2011optimization,
+  title={Optimization of analytic data flows for next generation business intelligence applications},
+  author={Dayal, Umeshwar and Wilkinson, Kevin and Simitsis, Alkis and Castellanos, Malu and Paz, Lupita},
+  booktitle={Technology Conference on Performance Evaluation and Benchmarking},
+  pages={46--66},
+  year={2011},
+  organization={Springer}
+}
+@inproceedings{osen2017organizing,
+  title={Organizing data from industrial internet of things for maritime operations},
+  author={Osen, Ottar L and Wang, Hao and Hjelmervik, Karina B and Sch, Halvor and others},
+  booktitle={OCEANS 2017-Aberdeen},
+  pages={1--5},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{vandikas2014performance,
+  title={Performance evaluation of an IoT platform},
+  author={Vandikas, Konstantinos and Tsiatsis, Vlasios},
+  booktitle={2014 Eighth International Conference on Next Generation Mobile Apps, Services and Technologies},
+  pages={141--146},
+  year={2014},
+  organization={IEEE}
+}
+@inproceedings{rizwan2016performance,
+  title={Performance improvement of Data analysis of IoT applications using re-storm in big data stream computing platform},
+  author={Rizwan, Patan and Babu, M Rajasekhara},
+  booktitle={International Journal of Engineering Research in Africa},
+  volume={22},
+  pages={141--151},
+  year={2016},
+  organization={Trans Tech Publ}
+}
+@inproceedings{kejela2014predictive,
+  title={Predictive analytics of sensor data using distributed machine learning techniques},
+  author={Kejela, Girma and Esteves, Rui Maximo and Rong, Chunming},
+  booktitle={2014 IEEE 6th International Conference on Cloud Computing Technology and Science},
+  pages={626--631},
+  year={2014},
+  organization={IEEE}
+}
+@inproceedings{bellavista2014priority,
+  title={Priority-based resource scheduling in distributed stream processing systems for big data applications},
+  author={Bellavista, Paolo and Corradi, Antonio and Reale, Andrea and Ticca, Nicola},
+  booktitle={2014 IEEE/ACM 7th International Conference on Utility and Cloud Computing},
+  pages={363--370},
+  year={2014},
+  organization={IEEE}
+}
+@inproceedings{khare2015reactive,
+  title={Reactive stream processing for data-centric publish/subscribe},
+  author={Khare, Shweta and An, Kyoungho and Gokhale, Aniruddha and Tambe, Sumant and Meena, Ashish},
+  booktitle={Proceedings of the 9th ACM International Conference on Distributed Event-Based Systems},
+  pages={234--245},
+  year={2015},
+  organization={ACM}
+}
+@inproceedings{leang2018real,
+  title={Real-Time Transmission of Secured PLCs Sensing Data},
+  author={Leang, Bunrong and Kim, Rock-Won and Yoo, Kwan-Hee},
+  booktitle={2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)},
+  pages={931--932},
+  year={2018},
+  organization={IEEE}
+}
+@article{dayarathna2018recent,
+  title={Recent advancements in event processing},
+  author={Dayarathna, Miyuru and Perera, Srinath},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={51},
+  number={2},
+  pages={33},
+  year={2018},
+  publisher={ACM}
+}
+@inproceedings{zehnder2018representing,
+  title={Representing Industrial Data Streams in Digital Twins using Semantic Labeling},
+  author={Zehnder, Philipp and Riemer, Dominik},
+  booktitle={2018 IEEE International Conference on Big Data (Big Data)},
+  pages={4223--4226},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{han2018rt,
+  title={RT-DAP: A real-time data analytics platform for large-scale industrial process monitoring and control},
+  author={Han, Song and Gong, Tao and Nixon, Mark and Rotvold, Eric and Lam, Kam-Yiu and Ramamritham, Krithi},
+  booktitle={2018 IEEE International Conference on Industrial Internet (ICII)},
+  pages={59--68},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{li2015sparkbench,
+  title={Sparkbench: a comprehensive benchmarking suite for in memory data analytic platform spark},
+  author={Li, Min and Tan, Jian and Wang, Yandong and Zhang, Li and Salapura, Valentina},
+  booktitle={Proceedings of the 12th ACM International Conference on Computing Frontiers},
+  pages={53},
+  year={2015},
+  organization={ACM}
+}
+@inproceedings{kumar2017stream,
+  title={Stream mining a review: Tool and techniques},
+  author={Kumar, Ashish and Singh, Ajmer},
+  booktitle={2017 International conference of Electronics, Communication and Aerospace Technology (ICECA)},
+  volume={2},
+  pages={27--32},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{yang2018streaming,
+  title={Streaming data analysis framework for cyber-physical system of metal machining processes},
+  author={Yang, Chao-Lung and Sutrisno, Hendri and Lo, Nai-Wei and Chen, Zhi-Xuan and Wei, Ching-Chih and Zhang, Han-Wei and Lin, Chin-Teng and Wei, Chen-Lung and Hsieh, Shang-Heng},
+  booktitle={2018 IEEE Industrial Cyber-Physical Systems (ICPS)},
+  pages={546--551},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{ren2017strider,
+  title={Strider: A hybrid adaptive distributed RDF stream processing engine},
+  author={Ren, Xiangnan and Cur{\'e}, Olivier},
+  booktitle={International Semantic Web Conference},
+  pages={559--576},
+  year={2017},
+  organization={Springer}
+}
+@article{ren2017strider,
+  title={Strider: an adaptive, inference-enabled distributed RDF stream processing engine},
+  author={Ren, Xiangnan and Cur{\'e}, Olivier and Ke, Li and Lhez, Jeremy and Belabbess, Badre and Randriamalala, Tendry and Zheng, Yufan and Kepeklian, Gabriel},
+  journal={Proceedings of the VLDB Endowment},
+  volume={10},
+  number={12},
+  pages={1905--1908},
+  year={2017},
+  publisher={VLDB Endowment}
+}
+@inproceedings{zhang2019view,
+  title={View-driven Real-time Sensor Data Processing and Servitization System},
+  author={Zhang, Zhengqi and Yang, Zhongguo and Han, Yanbo and Di, Cheng},
+  booktitle={2019 IEEE 9th International Conference on Electronics Information and Emergency Communication (ICEIEC)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+
+

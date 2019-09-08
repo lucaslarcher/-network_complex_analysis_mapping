@@ -1,0 +1,266 @@
+@inproceedings{salami2018framework,
+  title={A framework for comparing quantitative and qualitative criteria of IoT platforms},
+  author={Salami, Amirfardad and Yari, Alireza},
+  booktitle={2018 4th International Conference on Web Research (ICWR)},
+  pages={34--39},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{al2018survey,
+  title={A survey of Internet of Things and big data integrated solutions for industrie 4.0},
+  author={Al-Gumaei, Khaled and Schuba, Kornelia and Friesen, Andrej and Heymann, Sascha and Pieper, Carsten and Pethig, Florian and Schriegel, Sebastian},
+  booktitle={2018 IEEE 23rd International Conference on Emerging Technologies and Factory Automation (ETFA)},
+  volume={1},
+  pages={1417--1424},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{antonic2017modeling,
+  title={Modeling aggregate input load of interoperable smart city services},
+  author={Antoni{\'c}, Aleksandar and Marjanovi{\'c}, Martina and {\v{Z}}arko, Ivana Podnar},
+  booktitle={Proceedings of the 11th ACM International Conference on Distributed and Event-Based Systems},
+  pages={34--43},
+  year={2017},
+  organization={ACM}
+}
+@phdthesis{nunez2017reactive,
+  title={A reactive microservice architectural model with asynchronous programming and observable streams as an approach to developing iot middleware},
+  author={N{\'u}{\~n}ez, Pedro Manuel Taveras},
+  year={2017},
+  school={Colorado Technical University}
+}
+@article{ahn2018implementation,
+  title={An Implementation of a Dynamic Module Changing Framework of a Self-adaptive System for Smart Home with Changing Environment},
+  author={Ahn, JungHyen and Park, Young B},
+  journal={International Information Institute (Tokyo). Information},
+  volume={21},
+  number={3},
+  pages={987--995},
+  year={2018},
+  publisher={International Information Institute}
+}
+@misc{yu2016quantitative,
+  title={Quantitative Comparison of SensibleThings and ThingsWorx},
+  author={Yu, Yun},
+  year={2016}
+}
+@inproceedings{ismail2018performance,
+  title={Performance Evaluation of Open Source IoT Platforms},
+  author={Ismail, Ahmed A and Hamza, Haitham S and Kotb, Amira M},
+  booktitle={2018 IEEE Global Conference on Internet of Things (GCIoT)},
+  pages={1--5},
+  year={2018},
+  organization={IEEE}
+}
+@article{zamfiroiu2018unit,
+  title={UNIT TESTING FOR INTERNET OF THINGS.},
+  author={Zamfiroiu, Alin and Savu, Daniel and Leonte, Andrei},
+  journal={Journal of Information Systems \& Operations Management},
+  volume={12},
+  number={2},
+  year={2018}
+}
+@article{nicolae2019identifying,
+  title={Identifying Data Dependencies as First Step to Obtain a Proactive Historian: Test Scenario in the Water Industry 4.0},
+  author={Nicolae, Andrei and Korodi, Adrian and Silea, Ioan},
+  journal={Water},
+  volume={11},
+  number={6},
+  pages={1144},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{barrosoexperiment,
+  title={The Experiment on the Effectiveness of ALICE Online-Offline Process Monitoring},
+  author={Barroso, Vasco Chibante and Yamnual, Khanasin}
+}
+@misc{qureshi2018performance,
+  title={Performance evaluation of IoT platforms in green ICT applications},
+  author={Qureshi, Daniyal Akhtar},
+  year={2018}
+}
+@misc{ding2017internet,
+  title={Internet of Things: Quantitative Evaluation on Microsoft Azure IoT Suite},
+  author={Ding, Yuxia},
+  year={2017}
+}
+@incollection{karthick2019internet,
+  title={Internet of Things Testing Framework, Automation, Challenges, Solutions and Practices: A Connected Approach for IoT Applications},
+  author={Karthick, GS and Pankajavalli, PB},
+  booktitle={Integrating the Internet of Things Into Software Engineering Practices},
+  pages={87--124},
+  year={2019},
+  publisher={IGI Global}
+}
+@misc{guan2016connecting,
+  title={Connecting Arduino Sensors to SensibleThings},
+  author={Guan, Xiao},
+  year={2016}
+}
+@inproceedings{reshi2019development,
+  title={Development and Web Performance Evaluation of Internet of Things testbed},
+  author={Reshi, Aijaz Ahmad and Alsaeedi, Abdullah and Shafi, Shabana},
+  booktitle={2019 International Conference on Computer and Information Sciences (ICCIS)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+@inproceedings{ullah2019highlighting,
+  title={Highlighting the Key Factors of an IoT Platform},
+  author={Ullah, M and Smolander, K},
+  booktitle={2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)},
+  pages={901--906},
+  year={2019},
+  organization={IEEE}
+}
+@article{park2019urban,
+  title={Urban Smart Block: An Open IoT Platform for Creating Online-to-Offline Services in Urban Environments},
+  author={Park, Jae Wan and Choi, Seungyeon},
+  journal={International Journal of Embedded and Real-Time Communication Systems (IJERTCS)},
+  volume={10},
+  number={3},
+  pages={21--31},
+  year={2019},
+  publisher={IGI Global}
+}
+@article{amiri2019dynamic,
+  title={Dynamic Data Routing Decisions for Compliant Data Handling in Service-and Cloud-Based Architectures: A Performance Analysis},
+  author={Amiri, Amirali and Krieger, Christoph and Zdun, Uwe and Leymann, Frank},
+  year={2019}
+}
+@article{ahmed2019aspects,
+  title={Aspects of Quality in Internet of Things (IoT) Solutions: A Systematic Mapping Study},
+  author={Ahmed, Bestoun S and Bures, Miroslav and Frajtak, Karel and Cerny, Tomas},
+  journal={IEEE Access},
+  volume={7},
+  pages={13758--13780},
+  year={2019},
+  publisher={IEEE}
+}
+@article{nogueira2018architecture,
+  title={An Architecture for the Scalable Benchmarking of IoT Middleware and Streaming Platforms},
+  author={Nogueira, Lu{\'\i}s Rodrigues Zilh{\~a}o},
+  year={2018}
+}
+@phdthesis{grubitzsch2018intercloud,
+  title={Intercloud-Kommunikation f{\"u}r Mehrwehrtdienste von Cloud-basierten Architekturen im Internet of Things},
+  author={Grubitzsch, Philipp},
+  year={2018},
+  school={Saechsische Landesbibliothek-Staats-und Universitaetsbibliothek Dresden}
+}
+@inproceedings{novo2015capillary,
+  title={Capillary networks-bridging the cellular and iot worlds},
+  author={Novo, Oscar and Beijar, Nicklas and Ocak, Mert and Kj{\"a}llman, Jimmy and Komu, Miika and Kauppinen, Tero},
+  booktitle={2015 IEEE 2nd World Forum on Internet of Things (WF-IoT)},
+  pages={571--578},
+  year={2015},
+  organization={IEEE}
+}
+@article{kim2017evaluating,
+  title={Evaluating energy efficiency of Internet of Things software architecture based on reusable software components},
+  author={Kim, Doohwan and Choi, Jae-Young and Hong, Jang-Eui},
+  journal={International Journal of Distributed Sensor Networks},
+  volume={13},
+  number={1},
+  pages={1550147716682738},
+  year={2017},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+@inproceedings{blazquez2015performance,
+  title={Performance evaluation of openid connect for an iot information marketplace},
+  author={Blazquez, Alberto and Tsiatsis, Vlasios and Vandikas, Konstantinos},
+  booktitle={2015 IEEE 81st Vehicular Technology Conference (VTC Spring)},
+  pages={1--6},
+  year={2015},
+  organization={IEEE}
+}
+@inproceedings{ganguly2016selecting,
+  title={Selecting the right IoT cloud platform},
+  author={Ganguly, Pankaj},
+  booktitle={2016 International Conference on Internet of Things and Applications (IOTA)},
+  pages={316--320},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{cha2016role,
+  title={The role of an IoT platform in the design of real-time recommender systems},
+  author={Cha, Sangwhan and Ruiz, Marta Padilla and Wachowicz, Monica and Tran, Loc Hoang and Cao, Hung and Maduako, Ikechukwu},
+  booktitle={2016 IEEE 3rd world forum on internet of things (WF-iot)},
+  pages={448--453},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{petkovics2015crowdsensing,
+  title={Crowdsensing solutions in smart cities: Introducing a horizontal architecture},
+  author={Petkovics, {\'A}rmin and Simon, Vilmos and G{\'o}dor, Istv{\'a}n and B{\"o}r{\"o}cz, Bence},
+  booktitle={Proceedings of the 13th International Conference on Advances in Mobile Computing and Multimedia},
+  pages={33--37},
+  year={2015},
+  organization={ACM}
+}
+@inproceedings{esquiagola2017performance,
+  title={Performance Testing of an Internet of Things Platform.},
+  author={Esquiagola, John and de Paula Costa, Laisa Caroline and Calcina, Pablo and Fedrecheski, Geovane and Zuffo, Marcelo},
+  booktitle={IoTBDS},
+  pages={309--314},
+  year={2017}
+}
+@article{petkovics2015crowdsensing,
+  title={Crowdsensing solutions in smart cities towards a networked society},
+  author={Petkovics, {\'A}rmin and Simon, Vilmos and G{\'o}dor, Istv{\'a}n and B{\"o}r{\"o}cz, Bence},
+  journal={Endorsed Transactions of Internet of Things},
+  volume={15},
+  number={2015},
+  year={2015}
+}
+@inproceedings{medvedev2016data,
+  title={Data ingestion and storage performance of IoT platforms: study of OpenIoT},
+  author={Medvedev, Alexey and Hassani, Alireza and Zaslavsky, Arkady and Jayaraman, Prem Prakash and Indrawan-Santiago, Maria and Haghighi, Pari Delir and Ling, Sea},
+  booktitle={International Workshop on Interoperability and Open-Source Solutions},
+  pages={141--157},
+  year={2016},
+  organization={Springer}
+}
+@inproceedings{afanasev2017application,
+  title={An application of microservices architecture pattern to create a modular computer numerical control system},
+  author={Afanasev, Maxim Ya and Fedosov, Yuri V and Krylova, Anastasiya A and Shorokhov, Sergey A},
+  booktitle={2017 20th Conference of Open Innovations Association (FRUCT)},
+  pages={10--19},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{pramukantoro2017performance,
+  title={Performance evaluation of IoT middleware for syntactical Interoperability},
+  author={Pramukantoro, Eko Sakti and Yahya, Widhi and Bakhtiar, Fariz Andri},
+  booktitle={2017 International Conference on Advanced Computer Science and Information Systems (ICACSIS)},
+  pages={29--34},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{dang2017evaluating,
+  title={On evaluating iotivity cloud platform},
+  author={Dang, Thien-Binh and Tran, Manh-Hung and Le, Duc-Tai and Choo, Hyunseung},
+  booktitle={International Conference on Computational Science and Its Applications},
+  pages={137--147},
+  year={2017},
+  organization={Springer}
+}
+@inproceedings{duttagupta2016performance,
+  title={Performance prediction of iot application: An experimental analysis},
+  author={Duttagupta, Subhasri and Kumar, Mukund and Ranjan, Ritesh and Nambiar, Manoj},
+  booktitle={Proceedings of the 6th International Conference on the Internet of Things},
+  pages={43--51},
+  year={2016},
+  organization={ACM}
+}
+@article{rozik2016design,
+  title={Design and implementation of the sense egypt platform for real-time analysis of iot data streams},
+  author={Rozik, AS and Tolba, AS and El-Dosuky, MA},
+  journal={Advances in Internet of Things},
+  volume={6},
+  number={04},
+  pages={65},
+  year={2016},
+  publisher={Scientific Research Publishing}
+}
+

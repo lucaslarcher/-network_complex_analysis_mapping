@@ -1,0 +1,28 @@
+@article{stacey2018towards,
+  title={Towards a Digital Earth: using archetypes to enable knowledge interoperability within geo-observational sensor systems design},
+  author={Stacey, Paul and Berry, Damon},
+  journal={Earth Science Informatics},
+  volume={11},
+  number={2},
+  pages={307--323},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{osen2017data,
+  title={Data dimension reduction for visual analytics: A case study of oil-in-water detection},
+  author={Osen, Ottar L and Vagale, Anete and Wang, Hao and Hjelmervik, Karina B and Sch, Halvor and others},
+  booktitle={OCEANS 2017-Anchorage},
+  pages={1--8},
+  year={2017},
+  organization={IEEE}
+}
+@article{farzanegan2019data,
+  title={A data-driven method for optimal control of ship motions for safe crew transfer to offshore wind turbines},
+  author={Farzanegan, Behzad and Esmailian, Ehsan and Menhaj, Mohammad Bagher},
+  journal={Applied Ocean Research},
+  volume={90},
+  pages={101847},
+  year={2019},
+  publisher={Elsevier}
+}
+

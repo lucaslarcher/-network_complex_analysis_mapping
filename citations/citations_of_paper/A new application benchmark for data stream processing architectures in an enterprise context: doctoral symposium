@@ -1,0 +1,24 @@
+@article{hidalgo2018measuring,
+  title={Measuring stream processing systems adaptability under dynamic workloads},
+  author={Hidalgo, Nicolas and Rosas, Erika and Vasquez, Cristobal and Wladdimiro, Daniel},
+  journal={Future Generation Computer Systems},
+  volume={88},
+  pages={413--423},
+  year={2018},
+  publisher={Elsevier}
+}
+@inproceedings{hesse2017senska,
+  title={Senska--Towards an Enterprise Streaming Benchmark},
+  author={Hesse, Guenter and Reissaus, Benjamin and Matthies, Christoph and Lorenz, Martin and Kraus, Milena and Uflacker, Matthias},
+  booktitle={Technology Conference on Performance Evaluation and Benchmarking},
+  pages={25--40},
+  year={2017},
+  organization={Springer}
+}
+@article{hesse2019application,
+  title={Application of Data Stream Processing Technologies in Industry 4.0--What is Missing?},
+  author={Hesse, Guenter and Sinzig, Werner and Matthies, Christoph and Uflacker, Matthias},
+  journal={arXiv preprint arXiv:1907.09387},
+  year={2019}
+}
+

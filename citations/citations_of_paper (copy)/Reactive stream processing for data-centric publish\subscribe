@@ -1,0 +1,77 @@
+@inproceedings{mazak2016towards,
+  title={Towards liquid models: an evolutionary modeling approach},
+  author={Mazak, Alexandra and Wimmer, Manuel},
+  booktitle={2016 IEEE 18th Conference on Business Informatics (CBI)},
+  volume={1},
+  pages={104--112},
+  year={2016},
+  organization={IEEE}
+}
+@article{ceravolo2018big,
+  title={Big data semantics},
+  author={Ceravolo, Paolo and Azzini, Antonia and Angelini, Marco and Catarci, Tiziana and Cudr{\'e}-Mauroux, Philippe and Damiani, Ernesto and Mazak, Alexandra and Van Keulen, Maurice and Jarrar, Mustafa and Santucci, Giuseppe and others},
+  journal={Journal on Data Semantics},
+  volume={7},
+  number={2},
+  pages={65--85},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{zu2016data,
+  title={Data-centric publish-subscribe approach for Distributed Complex Event Processing deployment in smart grid Internet of Things},
+  author={Zu, Xiangrong and Bai, Yan and Yao, Xu},
+  booktitle={2016 7th IEEE International Conference on Software Engineering and Service Science (ICSESS)},
+  pages={710--713},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{kuraj2016exploring,
+  title={Exploring the role of sequential computation in distributed systems: motivating a programming paradigm shift},
+  author={Kuraj, Ivan and Jackson, Daniel},
+  booktitle={Proceedings of the 2016 ACM International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software},
+  pages={145--164},
+  year={2016},
+  organization={ACM}
+}
+@inproceedings{mazak2017reverse,
+  title={Reverse engineering of production processes based on Markov chains},
+  author={Mazak, Alexandra and Wimmer, Manuel and Patsuk-Boesch, Polina},
+  booktitle={2017 13th IEEE Conference on Automation Science and Engineering (CASE)},
+  pages={680--686},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{erich2016cognitive,
+  title={Cognitive robot programming using procedural parameters and complex event processing},
+  author={Erich, Floris and Suzuki, Kenji},
+  booktitle={2016 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR)},
+  pages={61--66},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{lawlor2016weekend,
+  title={The weekend warrior: how to build a genomic supercomputer in your spare time using streams and actors in Scala},
+  author={Lawlor, Brendan and Walsh, Paul},
+  booktitle={2016 Intl IEEE Conferences on Ubiquitous Intelligence \& Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld)},
+  pages={575--580},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{erich2016end,
+  title={End-user software engineering of cognitive robot applications using procedural parameters and complex event processing},
+  author={Erich, Floris},
+  booktitle={Companion Proceedings of the 2016 ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity},
+  pages={47--48},
+  year={2016},
+  organization={ACM}
+}
+@article{dadel2017evolution,
+  title={Evolution of Reactive Streams API for Context-Aware Mobile Applications},
+  author={Dadel, Przemys{\l}aw and Zieli{\'n}ski, Krzysztof},
+  journal={Computing and Informatics},
+  volume={35},
+  number={4},
+  pages={852--869},
+  year={2017}
+}
+

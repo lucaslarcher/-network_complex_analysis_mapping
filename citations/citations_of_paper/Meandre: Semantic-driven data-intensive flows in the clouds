@@ -1,0 +1,534 @@
+@inproceedings{garcia2011assessing,
+  title={Assessing speed-ups in commodity cloud storage services for distributed evolutionary algorithms},
+  author={Garc{\'\i}a-Arenas, Maribel and Merelo, Juan-J and Mora, Antonio M and Castillo, Pedro and Romero, Gustavo and Laredo, JLJ},
+  booktitle={2011 IEEE Congress of Evolutionary Computation (CEC)},
+  pages={304--311},
+  year={2011},
+  organization={IEEE}
+}
+@inproceedings{garcia2011using,
+  title={Using free cloud storage services for distributed evolutionary algorithms},
+  author={Garc{\'\i}a-Arenas, Maribel and Merelo Guerv{\'o}s, Juan Juli{\'a}n and Castillo, Pedro and Laredo, Juan Luis Jim{\'e}nez and Romero, Gustavo and Mora, Antonio M},
+  booktitle={Proceedings of the 13th annual conference on Genetic and evolutionary computation},
+  pages={1603--1610},
+  year={2011},
+  organization={ACM}
+}
+@inproceedings{muralidharan2011wordseer,
+  title={Wordseer: Exploring language use in literary text},
+  author={Muralidharan, Aditi and Hearst, Marti},
+  booktitle={Fifth Workshop on Human-Computer Interaction and Information Retrieval},
+  volume={62},
+  year={2011}
+}
+@article{atkinson2012data,
+  title={Data-intensive architecture for scientific knowledge discovery},
+  author={Atkinson, Malcolm and Liew, Chee Sun and Galea, Michelle and Martin, Paul and Krause, Amrey and Mouat, Adrian and Corcho, Oscar and Snelling, David},
+  journal={Distributed and Parallel Databases},
+  volume={30},
+  number={5-6},
+  pages={307--324},
+  year={2012},
+  publisher={Springer}
+}
+@inproceedings{merelo2012pool,
+  title={Pool-based distributed evolutionary algorithms using an object database},
+  author={Merelo-Guerv{\'o}s, Juan-Juli{\'a}n and Mora, Antonio and Cruz, J Albert and Esparcia, Anna I},
+  booktitle={European Conference on the Applications of Evolutionary Computation},
+  pages={446--455},
+  year={2012},
+  organization={Springer}
+}
+@article{de2010anchors,
+  title={Anchors in shifting sand: the primacy of method in the web of data},
+  author={De Roure, David and Goble, Carole},
+  year={2010}
+}
+@inproceedings{acs2010general,
+  title={A general approach to data-intensive computing using the Meandre component-based framework},
+  author={{\'A}cs, Bernie and Llor{\`a}, Xavier and Auvil, Loretta and Capitanu, Boris and Tcheng, David and Haberman, Mike and Dong, Limin and Wentling, Tim and Welge, Michael},
+  booktitle={Proceedings of the 1st International Workshop on Workflow Approaches to New Data-centric Science},
+  pages={8},
+  year={2010},
+  organization={ACM}
+}
+@inproceedings{merelo2012scaling,
+  title={Scaling in distributed evolutionary algorithms with persistent population},
+  author={Merelo-Guerv{\'o}s, Juan J and Mora, Antonio and Cruz, J Albert and Esparcia-Alc{\'a}zar, Anna I and Cotta, Carlos},
+  booktitle={2012 IEEE Congress on Evolutionary Computation},
+  pages={1--8},
+  year={2012},
+  organization={IEEE}
+}
+@article{yaikhom2011validation,
+  title={Validation and mismatch repair of workflows through typed data streams},
+  author={Yaikhom, Gagarine and Atkinson, Malcolm P and van Hemert, Jano I and Corcho, Oscar and Krause, Amy},
+  journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume={369},
+  number={1949},
+  pages={3285--3299},
+  year={2011},
+  publisher={The Royal Society Publishing}
+}
+@inproceedings{filgueira2015dispel4py,
+  title={dispel4py: An agile framework for data-intensive escience},
+  author={Filgueira, Rosa and Krause, Amrey and Atkinson, Malcolm and Klampanos, Iraklis and Spinuso, Alessandro and Sanchez-Exposito, Susana},
+  booktitle={2015 IEEE 11th International Conference on e-Science},
+  pages={454--464},
+  year={2015},
+  organization={IEEE}
+}
+@inproceedings{filgueira2015dispel4py,
+  title={dispel4py: An agile framework for data-intensive escience},
+  author={Filgueira, Rosa and Krause, Amrey and Atkinson, Malcolm and Klampanos, Iraklis and Spinuso, Alessandro and Sanchez-Exposito, Susana},
+  booktitle={2015 IEEE 11th International Conference on e-Science},
+  pages={454--464},
+  year={2015},
+  organization={IEEE}
+}
+@inproceedings{llora2009data,
+  title={Data-intensive computing for competent genetic algorithms: a pilot study using meandre},
+  author={Llora, Xavier},
+  booktitle={Proceedings of the 11th Annual conference on Genetic and evolutionary computation},
+  pages={1387--1394},
+  year={2009},
+  organization={ACM}
+}
+@inproceedings{liu2012dsdc,
+  title={DSDC: a domain scientific data cloud based on virtual dataspaces},
+  author={Liu, Zhenyu and Hu, Changjun and Li, Yang and Hu, Jingyuan},
+  booktitle={2012 IEEE 26th International Parallel and Distributed Processing Symposium Workshops \& PhD Forum},
+  pages={2176--2182},
+  year={2012},
+  organization={IEEE}
+}
+@article{merelo2013designing,
+  title={Designing and testing a pool-based evolutionary algorithm},
+  author={Merelo, Juan Juli{\'a} and Mora, Antonio Miguel and Fernandes, Carlos M and Esparcia-Alc{\'a}zar, Anna I},
+  journal={Natural Computing},
+  volume={12},
+  number={2},
+  pages={149--162},
+  year={2013},
+  publisher={Springer}
+}
+@inproceedings{weng2010alert,
+  title={Alert Monitoring Cloud: Psychological Health Analysis of Web Text in Cloud},
+  author={Weng, Yu and Hu, Changjun and Zhang, Xiaoming and Li, Huayu},
+  booktitle={2010 Fifth Annual ChinaGrid Conference},
+  pages={152--159},
+  year={2010},
+  organization={IEEE}
+}
+@article{verma2010scaling,
+  title={Scaling simple, compact and extended compact genetic algorithms using mapreduce},
+  author={Verma, Abhishek},
+  year={2010}
+}
+@incollection{middleton2011ecl,
+  title={ECL/HPCC: A unified approach to big data},
+  author={Middleton, Anthony M and Bayliss, David Alan and Halliday, Gavin},
+  booktitle={Handbook of data intensive computing},
+  pages={59--107},
+  year={2011},
+  publisher={Springer}
+}
+@techreport{atkinson2010data,
+  title={Data Intensive Research Theme},
+  author={Atkinson, Malcolm and Kersten, Martin and Szalay, Alexander and van Hemert, Jano},
+  year={2010},
+  institution={NESC Technical Report May}
+}
+@inproceedings{de2011machines,
+  title={Machines, methods and music: On the evolution of e-research},
+  author={De Roure, David},
+  booktitle={2011 International Conference on High Performance Computing \& Simulation},
+  pages={8--13},
+  year={2011},
+  organization={IEEE}
+}
+@phdthesis{shrikumar2013designing,
+  title={Designing an Exploratory Text Analysis Tool for Humanities and Social Sciences Research},
+  author={Shrikumar, Aditi},
+  year={2013},
+  school={UC Berkeley}
+}
+@inproceedings{muralidharan2012sensemaking,
+  title={A sensemaking environment for literature study},
+  author={Muralidharan, Aditi and Hearst, Marti A},
+  booktitle={CHI'12 Extended Abstracts on Human Factors in Computing Systems},
+  pages={1955--1960},
+  year={2012},
+  organization={ACM}
+}
+@inproceedings{dittenbach2009soire,
+  title={Soire: a service-oriented ir evaluation architecture},
+  author={Dittenbach, Michael and Pflugfelder, Bernhard and Pesenhofer, Andreas and Roda, Giovanna and Berger, Helmut},
+  booktitle={Proceedings of the 18th ACM conference on Information and knowledge management},
+  pages={2101--2102},
+  year={2009},
+  organization={ACM}
+}
+@article{liew2012optimisation,
+  title={Optimisation of the enactment of fine-grained distributed data-intensive work flows},
+  author={Liew, Chee Sun},
+  year={2012},
+  publisher={The University of Edinburgh}
+}
+@article{wohrer2014modeling,
+  title={Modeling and optimizing large-scale data flows},
+  author={W{\"o}hrer, Alexander and Brezany, Peter and Janciak, Ivan and Mehofer, Eduard},
+  journal={Future Generation Computer Systems},
+  volume={31},
+  pages={12--27},
+  year={2014},
+  publisher={Elsevier}
+}
+@inproceedings{garcia2009sitio,
+  title={SITIO: semantic business processes based on software-as-a-service and cloud computing},
+  author={Garcia-Sanchez, Francisco and Fernandez-Breis, Eneko and Valencia-Garcia, Rafael and Jimenez, Enrique and Gomez, Juan M and Torres-Ni{\~n}o, Javier and Martinez-Maqueda, Daniel},
+  booktitle={Proceedings of the 8th WSEAS International Conference on E-Activities and information security and privacy},
+  pages={130--135},
+  year={2009},
+  organization={World Scientific and Engineering Academy and Society (WSEAS)}
+}
+@inproceedings{acs2010meandre,
+  title={Meandre data-intensive application infrastructure: extreme scalability for cloud and/or grid computing},
+  author={{\'A}cs, Bernie and Llor{\`a}, Xavier and Capitanu, Boris and Auvil, Loretta and Tcheng, David and Haberman, Mike and Dong, Limin and Wentling, Tim and Welge, Michael},
+  booktitle={JSAI International Symposium on Artificial Intelligence},
+  pages={233--242},
+  year={2010},
+  organization={Springer}
+}
+@inproceedings{hu2009matdc,
+  title={MatDC: Data Cloud Model For Management and Sharing of Material Science Data},
+  author={Hu, Changjun and Ouyang, Chunping and Liu, Zhenyu},
+  booktitle={2009 Eighth International Conference on Grid and Cooperative Computing},
+  pages={225--231},
+  year={2009},
+  organization={IEEE}
+}
+@inproceedings{hu2009matdc,
+  title={MatDC: Data Cloud Model For Management and Sharing of Material Science Data},
+  author={Hu, Changjun and Ouyang, Chunping and Liu, Zhenyu},
+  booktitle={2009 Eighth International Conference on Grid and Cooperative Computing},
+  pages={225--231},
+  year={2009},
+  organization={IEEE}
+}
+@article{fujioka2015arquitetura,
+  title={Uma arquitetura de refer{\^e}ncia para gerenciamento e reuso de ambientes virtuais tridmensionais},
+  author={FUJIOKA, Rodrigo da Cruz},
+  year={2015},
+  publisher={Universidade Federal de Pernambuco}
+}
+@article{atkinson2010admire,
+  title={ADMIRE D1. 6-Report on Progress of Model, Language and Ontology Research},
+  author={Atkinson, M and Brezany, Peter and Aranda, Carlos Buil and Chorcho, O and van Hemert, Jano and Janciak, Ivan and W{\"o}hrer, Alexander and Yaikhom, Gagarine},
+  journal={ADMIRE Internal Project Report},
+  year={2010}
+}
+@article{page2010semantics,
+  title={Semantics for music researchers: How country is my country?},
+  author={Page, Kevin and Fields, Benjamin and Nagel, Bart and O'Neill, Gianni and De Roure, David and Crawford, Tim},
+  year={2010}
+}
+@article{liu2016towards,
+  title={Towards virtual dataspaces for material scientific data cloud},
+  author={Liu, Zhenyu and Hu, Jingyuan and Li, Yang and Huang, Yi},
+  journal={Concurrency and Computation: Practice and Experience},
+  volume={28},
+  number={6},
+  pages={1737--1750},
+  year={2016},
+  publisher={Wiley Online Library}
+}
+@inproceedings{wohrer2010logical,
+  title={Logical Optimization of Dataflows for Data Mining and Integration Processes},
+  author={Wohrer, Alexander and Mehofer, Eduard and Brezany, Peter},
+  booktitle={2010 Sixth IEEE International Conference on e-Science Workshops},
+  pages={117--122},
+  year={2010},
+  organization={IEEE}
+}
+@incollection{middleton2016hpcc,
+  title={The HPCC/ECL Platform for Big Data},
+  author={Middleton, Anthony M and Bayliss, David Alan and Halliday, Gavin and Chala, Arjuna and Furht, Borko},
+  booktitle={Big Data Technologies and Applications},
+  pages={159--183},
+  year={2016},
+  publisher={Springer}
+}
+@article{candela2017hyware,
+  title={HyWare: a HYbrid Workflow lAnguage for Research E-infrastructures},
+  author={Candela, Leonardo and Giannotti, Fosca and Grossi, Valerio and Manghi, Paolo and Trasarti, Roberto},
+  journal={D-Lib Magazine},
+  volume={23},
+  number={1/2},
+  year={2017},
+  publisher={Corporation for National Research Initiatives}
+}
+@article{plale2012hathitrust,
+  title={HathiTrust Research Center: Computational Research on the HathiTrust Repository},
+  author={Plale, Beth A and others},
+  year={2012}
+}
+@article{qiu2013heterogeneous,
+  title={HETEROGENEOUS INFORMATION INTEGRITY FOR CHINESE MINORITIES WITHIN CLOUD COMPUTING PLATFORM},
+  author={QIU, LIRONG},
+  journal={Journal of Theoretical and Applied Information Technology},
+  volume={51},
+  number={3},
+  year={2013}
+}
+@article{garnett2009mworlds,
+  title={mWorlds: Novel Human Interaction with Virtual Worlds},
+  author={Garnett, Guy and McGrath, Robert E and Pietrowicz, Mary},
+  year={2009}
+}
+@article{merelo2011cloud,
+  title={Cloud-based Evolutionary Algorithms: An algorithmic study},
+  author={Merelo, Juan-J and Garc{\'\i}a-Arenas, Maribel and Mora, Antonio M and Castillo, Pedro and Romero, Gustavo and Laredo, JLJ},
+  journal={arXiv preprint arXiv:1105.6205},
+  year={2011}
+}
+@article{motta21cloud,
+  title={Cloud Computing},
+  author={Motta, Gianmario and Sfondrini, Nicola and Sacco, Daniele},
+  journal={networks},
+  volume={21},
+  number={22},
+  pages={23}
+}
+@inproceedings{verma2009scaling,
+  title={Scaling genetic algorithms using mapreduce},
+  author={Verma, Abhishek and Llor{\`a}, Xavier and Goldberg, David E and Campbell, Roy H},
+  booktitle={2009 Ninth International Conference on Intelligent Systems Design and Applications},
+  pages={13--18},
+  year={2009},
+  organization={IEEE}
+}
+@inproceedings{yang2009we,
+  title={Where are we at with cloud computing?: a descriptive literature review},
+  author={Yang, Haibo and Tate, Mary},
+  booktitle={20th Australasian conference on information systems},
+  pages={2--4},
+  year={2009}
+}
+@book{mckay2010automatic,
+  title={Automatic music classification with jMIR},
+  author={McKay, Cory},
+  year={2010},
+  publisher={Citeseer}
+}
+@inproceedings{vuillemot2009s,
+  title={What's being said near “Martha”? Exploring name entities in literary text collections},
+  author={Vuillemot, Romain and Clement, Tanya and Plaisant, Catherine and Kumar, Amit},
+  booktitle={2009 IEEE Symposium on Visual Analytics Science and Technology},
+  pages={107--114},
+  year={2009},
+  organization={IEEE}
+}
+@article{harrowven2005total,
+  title={Total synthesis of cavicularin and riccardin C: Addressing the synthesis of an arene that adopts a boat configuration},
+  author={Harrowven, David C and Woodcock, Timothy and Howes, Peter D},
+  journal={Angewandte Chemie International Edition},
+  volume={44},
+  number={25},
+  pages={3899--3901},
+  year={2005},
+  publisher={Wiley Online Library}
+}
+@article{bacardit2013large,
+  title={Large-scale data mining using genetics-based machine learning},
+  author={Bacardit, Jaume and Llor{\`a}, Xavier},
+  journal={Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  volume={3},
+  number={1},
+  pages={37--61},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+@inproceedings{desell2010analysis,
+  title={An analysis of massively distributed evolutionary algorithms},
+  author={Desell, Travis and Anderson, David P and Magdon-Ismail, Malik and Newberg, Heidi and Szymanski, Boleslaw K and Varela, Carlos A},
+  booktitle={IEEE Congress on Evolutionary Computation},
+  pages={1--8},
+  year={2010},
+  organization={IEEE}
+}
+@article{liew2017scientific,
+  title={Scientific workflows: Moving across paradigms},
+  author={Liew, Chee Sun and Atkinson, Malcolm P and Galea, Michelle and Ang, Tan Fong and Martin, Paul and Hemert, Jano I Van},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={49},
+  number={4},
+  pages={66},
+  year={2017},
+  publisher={ACM}
+}
+@inproceedings{motta2012cloud,
+  title={Cloud computing: An architectural and technological overview},
+  author={Motta, Gianmario and Sfondrini, Nicola and Sacco, Daniele},
+  booktitle={2012 International Joint Conference on Service Sciences},
+  pages={23--27},
+  year={2012},
+  organization={IEEE}
+}
+@inproceedings{de2010evolution,
+  title={The evolution of myexperiment},
+  author={De Roure, David and Goble, Carole and Aleksejevs, Sergejs and Bechhofer, Sean and Bhagat, Jiten and Cruickshank, Don and Fisher, Paul and Kollara, Nandkumar and Michaelides, Danius and Missier, Paolo and others},
+  booktitle={2010 IEEE Sixth International Conference on e-Science},
+  pages={153--160},
+  year={2010},
+  organization={IEEE}
+}
+@article{filguiera2017dispel4py,
+  title={dispel4py: A python framework for data-intensive scientific computing},
+  author={Filguiera, Rosa and Krause, Amrey and Atkinson, Malcolm and Klampanos, Iraklis and Moreno, Alexander},
+  journal={The International Journal of High Performance Computing Applications},
+  volume={31},
+  number={4},
+  pages={316--334},
+  year={2017},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+@article{muralidharan2012supporting,
+  title={Supporting exploratory text analysis in literature study},
+  author={Muralidharan, Aditi and Hearst, Marti A},
+  journal={Literary and linguistic computing},
+  volume={28},
+  number={2},
+  pages={283--295},
+  year={2012},
+  publisher={EADH: The European Association for Digital Humanities}
+}
+@inproceedings{verma2010scaling,
+  title={Scaling eCGA model building via data-intensive computing},
+  author={Verma, Abhishek and Llora, Xavier and Venkataraman, Shivaram and Goldberg, David E and Campbell, Roy H},
+  booktitle={IEEE Congress on Evolutionary Computation},
+  pages={1--8},
+  year={2010},
+  organization={IEEE}
+}
+@incollection{middleton2010data,
+  title={Data-intensive technologies for cloud computing},
+  author={Middleton, Anthony M},
+  booktitle={Handbook of cloud computing},
+  pages={83--136},
+  year={2010},
+  publisher={Springer}
+}
+@inproceedings{page2010semantics,
+  title={Semantics for music analysis through linked data: How country is my country?},
+  author={Page, Kevin R and Fields, Benjamin and Nagel, Bart J and O'Neill, Gianni and De Roure, David C and Crawford, Tim},
+  booktitle={2010 IEEE Sixth International Conference on e-Science},
+  pages={41--48},
+  year={2010},
+  organization={IEEE}
+}
+@article{page2013capturing,
+  title={Capturing the workflows of music information retrieval for repeatability and reuse},
+  author={Page, Kevin R and Fields, Ben and De Roure, David and Crawford, Tim and Downie, J Stephen},
+  journal={Journal of Intelligent Information Systems},
+  volume={41},
+  number={3},
+  pages={435--459},
+  year={2013},
+  publisher={Springer}
+}
+@article{garcia2010adding,
+  title={Adding semantics to software-as-a-service and cloud computing},
+  author={Garcia-Sanchez, Francisco and Fernandez-Breis, Eneko and Valencia-Garcia, Rafael and Jimenez, Enrique and Gomez, J and Torres-Ni{\~n}o, Javier and Martinez-Maqueda, Daniel},
+  journal={WSEAS Transactions on Computers},
+  volume={9},
+  number={2},
+  pages={154--163},
+  year={2010},
+  publisher={World Scientific and Engineering Academy and Society (WSEAS)}
+}
+@article{meri2013cloud,
+  title={Cloud-based evolutionary algorithms: An algorithmic study},
+  author={Meri, K and Arenas, Maribel Garc{\'\i}a and Mora, Antonio Miguel and Merelo, JJ and Castillo, Pedro A and Garc{\'\i}a-S{\'a}nchez, Pablo and Laredo, Juan Luis Jim{\'e}nez},
+  journal={Natural Computing},
+  volume={12},
+  number={2},
+  pages={135--147},
+  year={2013},
+  publisher={Springer}
+}
+@incollection{llora2010huge,
+  title={When huge is routine: scaling genetic algorithms and estimation of distribution algorithms via data-intensive computing},
+  author={Llora, Xavier and Verma, Abhishek and Campbell, Roy H and Goldberg, David E},
+  booktitle={Parallel and Distributed Computational Intelligence},
+  pages={11--41},
+  year={2010},
+  publisher={Springer}
+}
+@article{de2011research,
+  title={An e-research approach to web-scale music analysis},
+  author={De Roure, David and Page, Kevin R and Fields, Benjamin and Crawford, Tim and Downie, J Stephen and Fujinaga, Ichiro},
+  journal={Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+  volume={369},
+  number={1949},
+  pages={3300--3317},
+  year={2011},
+  publisher={The Royal Society Publishing}
+}
+@article{plaisants,
+  title={What’s Being Said Near “Martha”? Exploring Name Entities in Literary Text Collections},
+  author={Plaisant, Romain Vuillemot1 Tanya Clement2 Catherine and Kumar, Amit},
+  publisher={Citeseer}
+}
+@article{atkinson2013data,
+  title={The Data-Intensive Survival Guide},
+  author={Atkinson, Malcolm},
+  journal={The DATA Bonanza: Improving Knowledge Discovery in Science, Engineering, and Business},
+  pages={37--60},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+@inproceedings{da2018evolutionary,
+  title={Evolutionary Scientific Workflows},
+  author={da Cruz, Sergio ManuelSerra and Deoliveira, Anderson and Faria, Fabricio Firminode},
+  booktitle={2018 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{yu2015minzu,
+  title={e-MinZu: A Software Service Architecture Based on Saas for Massive Data Source},
+  author={Yu, Weng},
+  booktitle={2015 IEEE 29th International Conference on Advanced Information Networking and Applications Workshops},
+  pages={246--249},
+  year={2015},
+  organization={IEEE}
+}
+@article{brezany2011admire,
+  title={ADMIRE D1. 9--Final report on the ADMIRE model, language and ontology},
+  author={Brezany, Authorship Peter and Atkinson, Malcolm and Martin, Paul and Corcho, Oscar and Aranda, Carlos Buil and Janciak, Ivan},
+  year={2011}
+}
+@article{krausevalidation,
+  title={Validation and mismatch repair of workflows},
+  author={Krause, Amy and Yaikhom, Gagarine and Atkinson, Malcolm P and van Hemert, Jano I and Corcho, Oscar}
+}
+@article{demyexperiment,
+  title={From myExperiment Jump to: navigation, search},
+  author={De Roure, David and Goble, Carole}
+}
+@article{auvilseasr,
+  title={SEASR Analytics},
+  author={Auvil, Loretta and Capitanu, Boris and Jockers, Matthew and Unviersity, Stanford and Underwood, Ted and Heuser, Ryan}
+}
+@article{guervosusando,
+  title={Usando bases de datos NoSQL para algoritmos evolutivos paralelos},
+  author={Guerv{\'o}s, Juan Juli{\'a}n Merelo and Esparcia, Anna I}
+}
+@phdthesis{saima2017workflow,
+  title={Workflow optimization in distributed computing environment for stream-based data processing model/Saima Gulzar Ahmad},
+  author={Saima Gulzar, Ahmad},
+  year={2017},
+  school={University of Malaya}
+}
+

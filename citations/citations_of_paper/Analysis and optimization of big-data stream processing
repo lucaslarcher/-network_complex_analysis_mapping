@@ -1,0 +1,154 @@
+@article{vakilinia2016energy,
+  title={Energy efficient resource allocation in cloud computing environments},
+  author={Vakilinia, Shahin and Heidarpour, Behdad and Cheriet, Mohamed},
+  journal={IEEE Access},
+  volume={4},
+  pages={8544--8557},
+  year={2016},
+  publisher={IEEE}
+}
+@inproceedings{vakilinia2017privacy,
+  title={Privacy-preserving cybersecurity information exchange mechanism},
+  author={Vakilinia, Iman and Tosh, Deepak K and Sengupta, Shamik},
+  booktitle={2017 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS)},
+  pages={1--7},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{vakilinia20173,
+  title={3-way game model for privacy-preserving cybersecurity information exchange framework},
+  author={Vakilinia, Iman and Tosh, Deepak K and Sengupta, Shamik},
+  booktitle={MILCOM 2017-2017 IEEE Military Communications Conference (MILCOM)},
+  pages={829--834},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{vakilinia2017coalitional,
+  title={A coalitional game theory approach for cybersecurity information sharing},
+  author={Vakilinia, Iman and Sengupta, Shamik},
+  booktitle={MILCOM 2017-2017 IEEE Military Communications Conference (MILCOM)},
+  pages={237--242},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{vakilinia2017attribute,
+  title={Attribute based sharing in cybersecurity information exchange framework},
+  author={Vakilinia, Iman and Tosh, Deepak K and Sengupta, Shamik},
+  booktitle={2017 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+@article{vakilinia2018energy,
+  title={Energy efficient temporal load aware resource allocation in cloud computing datacenters},
+  author={Vakilinia, Shahin},
+  journal={Journal of Cloud Computing},
+  volume={7},
+  number={1},
+  pages={2},
+  year={2018},
+  publisher={SpringerOpen}
+}
+@inproceedings{heidarpour2017volume,
+  title={Volume-based pricing with guaranteed data rate},
+  author={Heidarpour, Behdad and Dziong, Zbigniew and Lau, Wing Cheong},
+  booktitle={2017 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)},
+  pages={659--664},
+  year={2017},
+  organization={IEEE}
+}
+@article{vakilinia2018preemptive,
+  title={Preemptive cloud resource allocation modeling of processing jobs},
+  author={Vakilinia, Shahin and Cheriet, Mohamed},
+  journal={The Journal of Supercomputing},
+  volume={74},
+  number={5},
+  pages={2116--2150},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{kiskani2017popularity,
+  title={Popularity based file categorization and coded caching in 5G networks},
+  author={Kiskani, Mohsen Karimzadeh and Vakilinia, Shahin and Cheriet, Mohamed},
+  booktitle={2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)},
+  pages={1--5},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{vakilinia2017keep,
+  title={Keep Pets and Elephants Away: Dynamic Process Location Management in 5G Zoo},
+  author={Vakilinia, Shahin and Elbizae, Halima and Heidarpour, Behdad},
+  booktitle={2017 IEEE 86th Vehicular Technology Conference (VTC-Fall)},
+  pages={1--7},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{al2018survey,
+  title={A survey on big data stream processing in SDN supported cloud environment},
+  author={Al-Mansoori, Ahmed and Yu, Shui and Xiang, Yong and Sood, Keshav},
+  booktitle={Proceedings of the Australasian computer science week multiconference},
+  pages={12},
+  year={2018},
+  organization={ACM}
+}
+@article{srimachariefficient,
+  title={An Efficient Protocol Framework Solution for Resource--Constraint Mobile Devices Allocation in Cloud Computing Environments},
+  author={Srimachari, P and Anandharaj, G}
+}
+@phdthesis{rakesh2017real,
+  title={Real-time Automated, Scal-able Data Integration Plat-form for Big Data Analytics},
+  author={Rakesh, Theophilus},
+  year={2017},
+  school={School of Computing Science \& Engineering, VIT University Chennai}
+}
+@phdthesis{morattab2017multi,
+  title={Multi-layer quality-aware (MULQA) cloud framework},
+  author={Morattab, Arash},
+  year={2017},
+  school={{\'E}cole de technologie sup{\'e}rieure}
+}
+@inproceedings{yao2012optimal,
+  title={Optimal resource allocation in distributed broadband wireless communication systems},
+  author={Yao, Yao and Mehmet-Ali, Mustafa},
+  booktitle={2012 IEEE 23rd International Symposium on Personal, Indoor and Mobile Radio Communications-(PIMRC)},
+  pages={291--297},
+  year={2012},
+  organization={IEEE}
+}
+@article{sun2019state,
+  title={State and runtime-aware scheduling in elastic stream computing systems},
+  author={Sun, Dawei and Gao, Shang and Liu, Xunyun and Li, Fengyun and Zheng, Xinqi and Buyya, Rajkumar},
+  journal={Future Generation Computer Systems},
+  volume={97},
+  pages={194--209},
+  year={2019},
+  publisher={Elsevier}
+}
+@inproceedings{vakilinia2017green,
+  title={Green process offloading in smart home},
+  author={Vakilinia, Shahin and Vakilinia, Iman and Cheriet, Mohamed},
+  booktitle={2017 IEEE 28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC)},
+  pages={1--5},
+  year={2017},
+  organization={IEEE}
+}
+@article{jean2018optimal,
+  title={Optimal control of admission in service in a queue with impatience and setup costs},
+  author={Jean-Marie, Alain and Hyon, Emmanuel},
+  year={2018}
+}
+@article{alsdn,
+  title={SDN enabled BDSP in public cloud for resource optimization},
+  author={Al-Mansoori, Ahmed and Abawajy, Jemal and Chowdhury, Morshed},
+  journal={Wireless Networks},
+  pages={1--11},
+  publisher={Springer}
+}
+@inproceedings{fu2019edgewise,
+  title={EdgeWise: A Better Stream Processing Engine for the Edge},
+  author={Fu, Xinwei and Ghaffar, Talha and Davis, James C and Lee, Dongyoon},
+  booktitle={2019 $\{$USENIX$\}$ Annual Technical Conference ($\{$USENIX$\}$$\{$ATC$\}$ 19)},
+  pages={929--946},
+  year={2019}
+}
+

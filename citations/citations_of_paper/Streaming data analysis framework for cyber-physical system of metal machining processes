@@ -1,0 +1,18 @@
+@inproceedings{mayr2018electric,
+  title={Electric Motor Production 4.0--Application Potentials of Industry 4.0 Technologies in the Manufacturing of Electric Motors},
+  author={Mayr, Andreas and Weigelt, Michael and von Lindenfels, Johannes and Seefried, Johannes and Ziegler, Marco and Mahr, Alexander and Urban, Nikolaus and K{\"u}hl, Alexander and H{\"u}ttel, Franziska and Franke, J{\"o}rg},
+  booktitle={2018 8th International Electric Drives Production Conference (EDPC)},
+  pages={1--13},
+  year={2018},
+  organization={IEEE}
+}
+@article{khodabakhsh2018multivariate,
+  title={Multivariate sensor data analysis for oil refineries and multi-mode identification of system behavior in real-time},
+  author={Khodabakhsh, Athar and Ar{\'\i}, Isma{\'\i}l and Bak{\'\i}r, Mustafa and Ercan, Al{\'\i} Ozer},
+  journal={IEEE Access},
+  volume={6},
+  pages={64389--64405},
+  year={2018},
+  publisher={IEEE}
+}
+

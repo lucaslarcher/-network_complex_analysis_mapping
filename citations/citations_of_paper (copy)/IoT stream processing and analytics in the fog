@@ -1,0 +1,338 @@
+@inproceedings{omosebi2018dynamic,
+  title={Dynamic Scenario-based Selection of Data Aggregation Techniques},
+  author={Omosebi, Oladotun and Bessis, Nik and Korkontzelos, Yannis and Pournaras, Evangelos and Sun, Quanbin and Sotiriadis, Stelios},
+  booktitle={International Academic, Research, and Industry Association (IARIA) Data Analytics 2018},
+  pages={27--32},
+  year={2018}
+}
+@article{sherlekar2019fog,
+  title={Fog Computing Provisioned Data Distribution for Smart Manufacturing: Design \& Implementation.},
+  author={Sherlekar, Riddhiman and others},
+  year={2019}
+}
+@article{zhao2019energy,
+  title={Energy-Efficient Analytics for Geographically Distributed Big Data},
+  author={Zhao, Peng and Yang, Xinyu and Lin, Jie and Yang, Shusen and Yu, Wei},
+  journal={IEEE Internet Computing},
+  volume={23},
+  number={3},
+  pages={18--29},
+  year={2019},
+  publisher={IEEE}
+}
+@article{luo2019short,
+  title={A short-term energy prediction system based on edge computing for smart city},
+  author={Luo, Haidong and Cai, Hongming and Yu, Han and Sun, Yan and Bi, Zhuming and Jiang, Lihong},
+  journal={Future Generation Computer Systems},
+  year={2019},
+  publisher={Elsevier}
+}
+@inproceedings{ghenai2018multi,
+  title={Multi-user dynamic scheduling-based resource management for Internet of Things applications},
+  author={Ghenai, Afifa and Kabouche, Youcef and Dahmani, Walid},
+  booktitle={2018 International Conference on Internet of Things, Embedded Systems and Communications (IINTEC)},
+  pages={126--131},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{de2017tiled,
+  title={Tiled time delay estimation in mobile cloud computing environments},
+  author={de Frein, Ruairi},
+  booktitle={2017 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT)},
+  pages={282--287},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{nesi2018auditing,
+  title={Auditing and Assessment of Data Traffic Flows in an IoT Architecture},
+  author={Nesi, Paolo and Pantaleo, Gianni and Paolucci, Michela and Zaza, Imad},
+  booktitle={2018 IEEE 4th International Conference on Collaboration and Internet Computing (CIC)},
+  pages={388--391},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{varman2017deep,
+  title={Deep learning and IoT for smart agriculture using WSN},
+  author={Varman, S Aruul Mozhi and Baskaran, Arvind Ram and Aravindh, S and Prabhu, E},
+  booktitle={2017 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{badidi2019fog,
+  title={A Fog Node Architecture for Real-Time Processing of Urban IoT Data Streams},
+  author={Badidi, Elarbi},
+  booktitle={Computer Science On-line Conference},
+  pages={330--341},
+  year={2019},
+  organization={Springer}
+}
+@phdthesis{fernandez2018modularizing,
+  title={Modularizing Flink programs to enable stream analytics in IoT Mashup tools= Modularizaci{\'o}n de programas Flink para el an{\'a}lisis de datos en tiempo real en herramientas de Mashup para IOT},
+  author={Fern{\'a}ndez Moreno, Federico Alonso},
+  year={2018},
+  school={Telecomunicacion}
+}
+@article{nardelli2018qos,
+  title={QoS-aware Deployment and Adaptation of Data Stream Processing Applications in Geo-distributed Environments},
+  author={Nardelli, Matteo},
+  year={2018}
+}
+@article{naeem2019fog,
+  title={Fog computing in internet of things: Practical applications and future directions},
+  author={Naeem, Rida Zojaj and Bashir, Saman and Amjad, Muhammad Faisal and Abbas, Haider and Afzal, Hammad},
+  journal={Peer-to-Peer Networking and Applications},
+  pages={1--27},
+  year={2019},
+  publisher={Springer}
+}
+	@article{marcu2018storage,
+  title={Storage and Ingestion Systems in Support of Stream Processing: A Survey},
+  author={Marcu, Ovidiu-Cristian and Costan, Alexandru and Antoniu, Gabriel and P{\'e}rez-Hern{\'a}ndez, Mar{\'\i}a and Tudoran, Radu and Bortoli, Stefano and Nicolae, Bogdan},
+  year={2018}
+}
+@article{alves2019orchestration,
+  title={Orchestration of machine learning workflows on Internet of Things data},
+  author={Alves, Jose Miguel},
+  year={2019}
+}
+@article{perez2018orchestration,
+  title={Orchestration of distributed ingestion and processing of IoT data for fog platforms},
+  author={P{\'e}rez Rico, Juan Luis},
+  year={2018},
+  publisher={Universitat Polit{\`e}cnica de Catalunya}
+}
+@article{wang2018long,
+  title={Long-Term Event Processing over Data Streams in Cyber-Physical Systems},
+  author={Wang, Ping and Ma, Meng and Chu, Chao-Hsien},
+  journal={ACM Transactions on Cyber-Physical Systems},
+  volume={2},
+  number={2},
+  pages={14},
+  year={2018},
+  publisher={ACM}
+}
+@article{yang2019performance,
+  title={Performance improvement of Apache Storm using InfiniBand RDMA},
+  author={Yang, Seokwoo and Son, Siwoon and Choi, Mi-Jung and Moon, Yang-Sae},
+  journal={The Journal of Supercomputing},
+  pages={1--27},
+  year={2019},
+  publisher={Springer}
+}
+@article{hwang2017design,
+  title={Design of Efficient Edge Computing based on Learning Factors Sharing with Cloud in a Smart Factory Domain},
+  author={Hwang, Zi-on},
+  journal={Journal of the Korea Institute of Information and Communication Engineering},
+  volume={21},
+  number={11},
+  pages={2167--2175},
+  year={2017},
+  publisher={The Korea Institute of Information and Commucation Engineering}
+}
+@article{hiessl2019towards,
+  title={Towards a Framework for Data Stream Processing in the Fog},
+  author={Hie{\ss}l, Thomas and Hochreiner, Christoph and Schulte, Stefan},
+  journal={Informatik Spektrum},
+  pages={1--10},
+  year={2019},
+  publisher={Springer}
+}
+@article{ding2018beef,
+  title={Beef Up the Edge: Spectrum-Aware Placement of Edge Computing Services for the Internet of Things},
+  author={Ding, Haichuan and Guo, Yuanxiong and Li, Xuanheng and Fang, Yuguang},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2018},
+  publisher={IEEE}
+}
+@inproceedings{manujakshi2018novel,
+  title={A Novel Experimental Prototype for Assessing IoT Performance on Real-Time Analytics},
+  author={Manujakshi, BC and Ramesh, KB},
+  booktitle={Computer Science On-line Conference},
+  pages={46--55},
+  year={2018},
+  organization={Springer}
+}
+@inproceedings{sha2018query,
+  title={Query Processing for Streaming RDF Data},
+  author={Sha, Ruchita and Panda, Ami and Bhis, Minal},
+  booktitle={2018 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)},
+  pages={1--4},
+  year={2018},
+  organization={IEEE}
+}
+@article{yousefpour2019all,
+  title={All one needs to know about fog computing and related edge computing paradigms: A complete survey},
+  author={Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P},
+  journal={Journal of Systems Architecture},
+  year={2019},
+  publisher={Elsevier}
+}
+@article{yousefpour2019all,
+  title={All one needs to know about fog computing and related edge computing paradigms: A complete survey},
+  author={Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P},
+  journal={Journal of Systems Architecture},
+  year={2019},
+  publisher={Elsevier}
+}
+@article{yassine2019iot,
+  title={IoT big data analytics for smart homes with fog and cloud computing},
+  author={Yassine, Abdulsalam and Singh, Shailendra and Hossain, M Shamim and Muhammad, Ghulam},
+  journal={Future Generation Computer Systems},
+  volume={91},
+  pages={563--573},
+  year={2019},
+  publisher={Elsevier}
+}
+@article{munoz2018integration,
+  title={Integration of IoT, transport SDN, and edge/cloud computing for dynamic distribution of IoT analytics and efficient use of network resources},
+  author={Mu{\~n}oz, Ra{\"u}l and Vilalta, Ricard and Yoshikane, Noboru and Casellas, Ramon and Mart{\'\i}nez, Ricardo and Tsuritani, Takehiro and Morita, Itsuro},
+  journal={Journal of Lightwave Technology},
+  volume={36},
+  number={7},
+  pages={1420--1428},
+  year={2018},
+  publisher={IEEE}
+}
+@article{dautov2018data,
+  title={Data processing in cyber-physical-social systems through edge computing},
+  author={Dautov, Rustem and Distefano, Salvatore and Bruneo, Dario and Longo, Francesco and Merlino, Giovanni and Puliafito, Antonio},
+  journal={IEEE Access},
+  volume={6},
+  pages={29822--29835},
+  year={2018},
+  publisher={IEEE}
+}
+@article{zhao2017buffer,
+  title={Buffer data-driven adaptation of mobile video streaming over heterogeneous wireless networks},
+  author={Zhao, Peng and Yu, Wei and Yang, Xinyu and Meng, Duolun and Wang, Li},
+  journal={IEEE Internet of Things Journal},
+  volume={5},
+  number={5},
+  pages={3430--3441},
+  year={2017},
+  publisher={IEEE}
+}
+@article{perez2018resilient,
+  title={A resilient and distributed near real-time traffic forecasting application for Fog computing environments},
+  author={P{\'e}rez, Juan Luis and Gutierrez-Torre, Alberto and Berral, Josep Ll and Carrera, David},
+  journal={Future Generation Computer Systems},
+  volume={87},
+  pages={198--212},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{venvckauskas2018lightweight,
+  title={A lightweight protocol for secure video streaming},
+  author={Ven{\v{c}}kauskas, Algimantas and Morkevicius, Nerijus and Bagdonas, Kazimieras and Dama{\v{s}}evi{\v{c}}ius, Robertas and Maskeli{\=u}nas, Rytis},
+  journal={Sensors},
+  volume={18},
+  number={5},
+  pages={1554},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{amadeo2018iot,
+  title={IoT data processing at the edge with named data networking},
+  author={Amadeo, Marica and Campolo, Claudia and Molinaro, Antonella and Ruggeri, Giuseppe},
+  booktitle={European Wireless 2018; 24th European Wireless Conference},
+  pages={1--6},
+  year={2018},
+  organization={VDE}
+}
+w@article{gaber2019internet,
+  title={Internet of Things and data mining: From applications to techniques and systems},
+  author={Gaber, Mohamed Medhat and Aneiba, Adel and Basurra, Shadi and Batty, Oliver and Elmisery, Ahmed M and Kovalchuk, Yevgeniya and Rehman, Muhammad Habib Ur},
+  journal={Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  volume={9},
+  number={3},
+  pages={e1292},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+@article{wang2018adaptive,
+  title={Adaptive Computing Optimization in Software-Defined Network-Based Industrial Internet of Things with Fog Computing},
+  author={Wang, Juan and Li, Di},
+  journal={Sensors},
+  volume={18},
+  number={8},
+  pages={2509},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{georgiou2018streamsight,
+  title={StreamSight: A Query-Driven Framework for Streaming Analytics in Edge Computing},
+  author={Georgiou, Zacharias and Symeonides, Moysis and Trihinas, Demetris and Pallis, George and Dikaiakos, Marios D},
+  booktitle={2018 IEEE/ACM 11th International Conference on Utility and Cloud Computing (UCC)},
+  pages={143--152},
+  year={2018},
+  organization={IEEE}
+}
+@article{luo2018data,
+  title={Data-Driven Design of Fog-Computing-Aided Process Monitoring System for Large-Scale Industrial Processes},
+  author={Luo, Hao and Zhao, Hao and Yin, Shen},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={14},
+  number={10},
+  pages={4631--4641},
+  year={2018},
+  publisher={IEEE}
+}
+@article{chang2018adaptive,
+  title={Adaptive edge process migration for iot in heterogeneous cloud-fog-edge computing environment},
+  author={Chang, Chii and Hadachi, Amnir and Srirama, Satish},
+  journal={arXiv preprint arXiv:1811.10939},
+  year={2018}
+}
+@article{eskandari2018t3,
+  title={T3-Scheduler: A topology and Traffic aware two-level Scheduler for stream processing systems in a heterogeneous cluster},
+  author={Eskandari, Leila and Mair, Jason and Huang, Zhiyi and Eyers, David},
+  journal={Future Generation Computer Systems},
+  volume={89},
+  pages={617--632},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{helmy2018integrating,
+  title={Integrating Fog With Long-Reach PONs From a Dynamic Bandwidth Allocation Perspective},
+  author={Helmy, Ahmed H and Nayak, Amiya},
+  journal={Journal of Lightwave Technology},
+  volume={36},
+  number={22},
+  pages={5276--5284},
+  year={2018},
+  publisher={IEEE}
+}
+@article{helmy2018toward,
+  title={Toward parallel edge computing in long-reach pons},
+  author={Helmy, Ahmed and Nayak, Amiya},
+  journal={IEEE/OSA Journal of Optical Communications and Networking},
+  volume={10},
+  number={9},
+  pages={736--748},
+  year={2018},
+  publisher={IEEE}
+}
+@article{an2019node,
+  title={Node state monitoring scheme in fog radio access networks for intrusion detection},
+  author={An, Xingshuo and L{\"u}, Xing and Yang, Lei and Zhou, Xianwei and Lin, Fuhong},
+  journal={IEEE Access},
+  volume={7},
+  pages={21879--21888},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{singh2018iot,
+  title={IoT Big Data Analytics with Fog Computing for Household Energy Management in Smart Grids},
+  author={Singh, Shailendra and Yassine, Abdulsalam},
+  booktitle={International Conference on Smart Grid and Internet of Things},
+  pages={13--22},
+  year={2018},
+  organization={Springer}
+}
+@article{yousefpour2018all,
+  title={All One Needs to Know about Fog Computing and Related Edge Computing Paradigms},
+  author={Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P},
+  year={2018}
+}
+

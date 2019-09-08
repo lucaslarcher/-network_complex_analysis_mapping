@@ -1,0 +1,338 @@
+@inproceedings{malik2018cloud,
+  title={From cloud computing to fog computing in Healthcare big data},
+  author={Malik, Babur Hayat and Mahmood, Faisal and Shahzad, Sohail and Arif, Muhammad Bilawal and Khan, Waseem Ur Rehman and Ilyas, Sadaf and Hassan, Muhammad},
+  booktitle={MATEC Web of Conferences},
+  volume={189},
+  pages={03011},
+  year={2018},
+  organization={EDP Sciences}
+}
+@inproceedings{sanla2019comparative,
+  title={A Comparative Performance of Real-time Big Data Analytic Architectures},
+  author={Sanla, Apisit and Numnonda, Thanisa},
+  booktitle={2019 IEEE 9th International Conference on Electronics Information and Emergency Communication (ICEIEC)},
+  pages={1--5},
+  year={2019},
+  organization={IEEE}
+}
+@article{shaikh2019big,
+  title={Big data for better Indian healthcare},
+  author={Shaikh, Tawseef Ayoub and Ali, Rashid},
+  journal={International Journal of Information Technology},
+  pages={1--7},
+  year={2019},
+  publisher={Springer}
+}
+@article{kaurnovel,
+  title={A Novel Framework for Cloud Based Bone Age Assessment Integration System: Review and Analysis},
+  author={Kaur, Amandeep and Mann, Kulwinder Singh}
+}
+@phdthesis{el2018transformer,
+  title={Transformer les big social data en pr{\'e}visions-m{\'e}thodes et technologies: Application {\`a} l'analyse de sentiments},
+  author={El Alaoui, Imane},
+  year={2018},
+  school={Angers}
+}
+@inproceedings{suraj2018big,
+  title={Big data Analytics of cyber attacks: a review},
+  author={Suraj, MV and Singh, Nikhil Kumar and Tomar, Deepak Singh},
+  booktitle={2018 IEEE International Conference on System, Computation, Automation and Networking (ICSCA)},
+  pages={1--7},
+  year={2018},
+  organization={IEEE}
+}
+@incollection{zeng2017bicriteria,
+  title={Bicriteria Task Scheduling and Resource Allocation for Streaming Big Data Processing in Geo-Distributed Clouds},
+  author={Zeng, Deze and Hu, Chengyu and Ren, Guo and Gu, Lin},
+  booktitle={Big Data and Computational Intelligence in Networking},
+  pages={125--148},
+  year={2017},
+  publisher={CRC Press}
+}
+@article{nagarajan2019enhanced,
+  title={An Enhanced Hybrid Feature Selection Approach for High Dimensional Data Processing},
+  author={Nagarajan, Suresh Kumar and Lincy, Blessy Trencia},
+  journal={Journal of Testing and Evaluation},
+  volume={47},
+  number={6},
+  year={2019},
+  publisher={ASTM International}
+}
+@article{basha2017predicting,
+  title={PREDICTING THE HIGH-RISK PATIENT USING VIRTUAL PHYSIOLOGICAL HUMAN TECHNIQUE IN BIG DATA HEALTH CARE},
+  author={Basha, A Jameer and Suguna, S and Kowsigan, M and Sureshkumar, A and Roopa, V},
+  journal={Pak. J. Biotechnol. Vol},
+  volume={14},
+  number={4},
+  pages={635--642},
+  year={2017}
+}
+@incollection{lincy2018transforming,
+  title={Transforming Healthcare Via Big Data Analytics},
+  author={Lincy, SS Blessy Trencia and Kumar, N Suresh},
+  booktitle={Computational Intelligence for Multimedia Big Data on the Cloud with Engineering Applications},
+  pages={319--334},
+  year={2018},
+  publisher={Elsevier}
+}
+@incollection{bayrak2019intelligent,
+  title={Intelligent Big Data Analytics in Health},
+  author={Bayrak, Ebru Aydindag and Kirci, Pinar},
+  booktitle={Early Detection of Neurological Disorders Using Machine Learning Systems},
+  pages={252--291},
+  year={2019},
+  publisher={IGI Global}
+}
+@article{taheriot,
+  title={IoT, Cloud Computing and Big Data Techniques for Smarter Healthcare},
+  author={Taher, Nada Chendeb and ImaneMallata, Nazim Agoulmineb and Mawassc, Nour}
+}
+@mastersthesis{giordano2017semantic,
+  title={Semantic stream computing for large data-set analytics},
+  author={Giordano, Andrea},
+  year={2017},
+  school={Universitat Polit{\~A}{\copyright} cnica de Catalunya}
+}
+@inproceedings{bouchut2018ensemble,
+  title={Ensemble One-vs-One SVM Classifier for Smartphone Accelerometer Activity Recognition},
+  author={Bouchut, Quentin and Appiah, Kofi and Lotfi, Ahmad and Dickinson, Patrick},
+  booktitle={2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)},
+  pages={1110--1115},
+  year={2018},
+  organization={IEEE}
+}
+@article{srivastava2019sentiment,
+  title={Sentiment Analysis of Twitter Data: A Hybrid Approach},
+  author={Srivastava, Ankit and Singh, Vijendra and Drall, Gurdeep Singh},
+  journal={International Journal of Healthcare Information Systems and Informatics (IJHISI)},
+  volume={14},
+  number={2},
+  pages={1--16},
+  year={2019},
+  publisher={IGI Global}
+}
+@inproceedings{annappa2018real,
+  title={Real Time Big Data Analytics in Smart City Applications},
+  author={Annappa, B and others},
+  booktitle={2018 International Conference on Communication, Computing and Internet of Things (IC3IoT)},
+  pages={279--284},
+  year={2018},
+  organization={IEEE}
+}
+@article{atat2018big,
+  title={Big data meet cyber-physical systems: A panoramic survey},
+  author={Atat, Rachad and Liu, Lingjia and Wu, Jinsong and Li, Guangyu and Ye, Chunxuan and Yang, Yi},
+  journal={IEEE Access},
+  volume={6},
+  pages={73603--73636},
+  year={2018},
+  publisher={IEEE}
+}
+@incollection{maksimovic2017internet,
+  title={Internet of Things based e-health systems: ideas, expectations and concerns},
+  author={Maksimovi{\'c}, Mirjana and Vujovi{\'c}, Vladimir},
+  booktitle={Handbook of Large-Scale Distributed Computing in Smart Healthcare},
+  pages={241--280},
+  year={2017},
+  publisher={Springer}
+}
+@inproceedings{yadranjiaghdam2016survey,
+  title={A survey on real-time big data analytics: applications and tools},
+  author={Yadranjiaghdam, Babak and Pool, Nathan and Tabrizi, Nasseh},
+  booktitle={2016 International Conference on Computational Science and Computational Intelligence (CSCI)},
+  pages={404--409},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{yadranjiaghdam2017developing,
+  title={Developing a real-time data analytics framework for twitter streaming data},
+  author={Yadranjiaghdam, Babak and Yasrobi, Seyedfaraz and Tabrizi, Nasseh},
+  booktitle={2017 IEEE International Congress on Big Data (BigData Congress)},
+  pages={329--336},
+  year={2017},
+  organization={IEEE}
+}
+@article{atat2017physical,
+  title={A physical layer security scheme for mobile health cyber-physical systems},
+  author={Atat, Rachad and Liu, Lingjia and Ashdown, Jonathan and Medley, Michael J and Matyjas, John D and Yi, Yang},
+  journal={IEEE Internet of Things Journal},
+  volume={5},
+  number={1},
+  pages={295--309},
+  year={2017},
+  publisher={IEEE}
+}
+@article{silva2017terpenoid,
+  title={A terpenoid metabolic network modelled as graph database},
+  author={Silva, Waldeyr Mendes Cordeiro Da and Vilar, Danilo Jos{\'e} and Souza, Daniel Da Silva and Walter, Maria Em{\'\i}lia Machado Telles and Holanda, Maristela Terto De and Br{\'\i}gido, Marcelo De Mac{\^e}do},
+  journal={International Journal of Data Mining and Bioinformatics},
+  volume={18},
+  number={1},
+  pages={74--90},
+  year={2017},
+  publisher={Inderscience Publishers (IEL)}
+}
+@article{cirillo2019big,
+  title={Big data analytics for personalized medicine},
+  author={Cirillo, Davide and Valencia, Alfonso},
+  journal={Current opinion in biotechnology},
+  volume={58},
+  pages={161--167},
+  year={2019},
+  publisher={Elsevier}
+}
+@inproceedings{jatmiko2016review,
+  title={A review of big data analytics in the biomedical field},
+  author={Jatmiko, Wisnu and Arsa, Dewa Made Sri and Wisesa, Hanif and Jati, Grafik and Ma'Sum, M Anwar},
+  booktitle={2016 International Workshop on Big Data and Information Security (IWBIS)},
+  pages={31--41},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{atta2016spatial,
+  title={Spatial-crowd: A big data framework for efficient data visualization},
+  author={Atta, Shahbaz and Sadiq, Bilal and Ahmad, Akhlaq and Saeed, Sheikh Nasir and Felemban, Emad},
+  booktitle={2016 IEEE International Conference on Big Data (Big Data)},
+  pages={2130--2138},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{kaur2018ai,
+  title={AI based healthcare platform for real time, predictive and prescriptive analytics using reactive programming},
+  author={Kaur, Jagreet and Mann, Kulwinder Singh},
+  booktitle={Journal of Physics: Conference Series},
+  volume={933},
+  number={1},
+  pages={012010},
+  year={2018},
+  organization={IOP Publishing}
+}
+@article{nadj2017towards,
+  title={Towards a taxonomy of real-time business intelligence systems},
+  author={Nadj, Mario and Schieder, Christian},
+  year={2017}
+}
+@inproceedings{mahroo2018enabling,
+  title={Enabling the Smart Home Through a Semantic-Based Context-Aware System},
+  author={Mahroo, Atieh and Spoladore, Daniele and Caldarola, Enrico G and Modoni, Gianfranco E and Sacco, Marco},
+  booktitle={2018 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)},
+  pages={543--548},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{xhafa2017performance,
+  title={Performance evaluation of Mahout clustering algorithms using a twitter streaming dataset},
+  author={Xhafa, Fatos and Bogza, Adriana and Caball{\'e}, Santi},
+  booktitle={2017 IEEE 31st International Conference on Advanced Information Networking and Applications (AINA)},
+  pages={1019--1026},
+  year={2017},
+  organization={IEEE}
+}
+@incollection{lee2017recommendation,
+  title={Recommendation systems},
+  author={Lee, Joonseok},
+  booktitle={Big Data and Computational Intelligence in Networking},
+  pages={227--264},
+  year={2017},
+  publisher={CRC Press}
+}
+@article{roehrs2019analyzing,
+  title={Analyzing the performance of a blockchain-based personal health record implementation},
+  author={Roehrs, Alex and da Costa, Cristiano Andr{\'e} and da Rosa Righi, Rodrigo and da Silva, Valter Ferreira and Goldim, Jos{\'e} Roberto and Schmidt, Douglas C},
+  journal={Journal of biomedical informatics},
+  volume={92},
+  pages={103140},
+  year={2019},
+  publisher={Elsevier}
+}
+@phdthesis{atat2017enabling,
+  title={Enabling cyber-physical communication in 5G cellular networks: Challenges, solutions and applications},
+  author={Atat, Rachad},
+  year={2017},
+  school={University of Kansas}
+}
+@article{lawlor2018field,
+  title={Field of genes: using Apache Kafka as a bioinformatic data repository},
+  author={Lawlor, Brendan and Lynch, Richard and Mac Aog{\'a}in, Miche{\'a}l and Walsh, Paul},
+  journal={GigaScience},
+  volume={7},
+  number={4},
+  pages={giy036},
+  year={2018},
+  publisher={Oxford University Press}
+}
+@article{lawlor2018field,
+  title={Field of genes: using Apache Kafka as a bioinformatic data repository},
+  author={Lawlor, Brendan and Lynch, Richard and Mac Aog{\'a}in, Miche{\'a}l and Walsh, Paul},
+  journal={GigaScience},
+  volume={7},
+  number={4},
+  pages={giy036},
+  year={2018},
+  publisher={Oxford University Press}
+}
+@inproceedings{versaci2018kafka,
+  title={Kafka interfaces for composable streaming genomics pipelines},
+  author={Versaci, Francesco and Pireddu, Luca and Zanetti, Gianluigi},
+  booktitle={2018 IEEE EMBS International Conference on Biomedical \& Health Informatics (BHI)},
+  pages={259--262},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{taher2019iot,
+  title={An IoT-Cloud Based Solution for Real-Time and Batch Processing of Big Data: Application in Healthcare},
+  author={Taher, Nada Chendeb and Mallat, Imane and Agoulmine, Nazim and El-Mawass, Nour},
+  booktitle={2019 3rd International Conference on Bio-engineering for Smart Technologies (BioSMART)},
+  pages={1--8},
+  year={2019},
+  organization={IEEE}
+}
+@article{barrenonew,
+  title={A new Software Tool for Analyzing Mental Health Data in a Spanish Region},
+  author={Barreno, Diego Calvo and Alonso, Susel G{\'o}ngora and de la Torre D{\'\i}ez, Isabel and Coronado, Miguel L{\'o}pez and Franco, Manuel}
+}
+@inproceedings{hiraman2018study,
+  title={A Study of Apache Kafka in Big Data Stream Processing},
+  author={Hiraman, Bhole Rahul and Abhijeet, C Karve and others},
+  booktitle={2018 International Conference on Information, Communication, Engineering and Technology (ICICET)},
+  pages={1--3},
+  year={2018},
+  organization={IEEE}
+}
+@article{lan2019clustering,
+  title={A clustering based variable sub-window approach using particle swarm optimisation for biomedical sensor data monitoring},
+  author={Lan, Kun and Fong, Simon and Liu, Lian-Sheng and Wong, Raymond K and Dey, Nilanjan and Millham, Richard C and Wong, Kelvin KL},
+  journal={Enterprise Information Systems},
+  pages={1--21},
+  year={2019},
+  publisher={Taylor \& Francis}
+}
+@inproceedings{el2017big,
+  title={Big Data Analytics: A Comparison of Tools and Applications},
+  author={El Alaoui, Imane and Gahi, Youssef and Messoussi, Rochdi and Todoskoff, Alexis and Kobi, Abdessamad},
+  booktitle={Proceedings of the Mediterranean Symposium on Smart City Applications},
+  pages={587--601},
+  year={2017},
+  organization={Springer}
+}
+@article{alhazmireal,
+  title={Real-Time Big Data Analytics: Investigating Different Application Domains},
+  author={Alhazmi, Eman A and Bajunaid, Walaa A and Alotaibi, Fahd S}
+}
+@phdthesis{mishra2018leveraging,
+  title={Leveraging stream processing engines in support of physiological data processing},
+  author={Mishra, Sitakanta},
+  year={2018},
+  school={Colorado State University. Libraries}
+}
+@article{srivastava2019sentiment,
+  title={Sentiment Analysis of Twitter Data: A Hybrid Approach},
+  author={Srivastava, Ankit and Singh, Vijendra and Drall, Gurdeep Singh},
+  journal={International Journal of Healthcare Information Systems and Informatics (IJHISI)},
+  volume={14},
+  number={2},
+  pages={1--16},
+  year={2019},
+  publisher={IGI Global}
+}
+

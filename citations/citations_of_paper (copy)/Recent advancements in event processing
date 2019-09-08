@@ -1,0 +1,178 @@
+@article{makitalo2018architecting,
+  title={Architecting the Web of Things for the fog computing era},
+  author={M{\"a}kitalo, Niko and Nocera, Francesco and Mongiello, Marina and Bistarelli, Stefano},
+  journal={IET Software},
+  volume={12},
+  number={5},
+  pages={381--389},
+  year={2018},
+  publisher={IET}
+}
+@inproceedings{divan2018fostering,
+  title={Fostering the interoperability of the measurement and evaluation project definitions in PAbMM},
+  author={Div{\'a}n, Mario and Reynoso, Mar{\'\i}a Laura S{\'a}nchez},
+  booktitle={2018 7th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions)(ICRITO)},
+  pages={231--238},
+  year={2018},
+  organization={IEEE}
+}
+@article{fardbastani2019scalable,
+  title={Scalable complex event processing using adaptive load balancing},
+  author={Fardbastani, Mohammad Ali and Sharifi, Mohsen},
+  journal={Journal of Systems and Software},
+  volume={149},
+  pages={305--317},
+  year={2019},
+  publisher={Elsevier}
+}
+@article{volanschi2018language,
+  title={A Language for Online State Processing of Binary Sensors, Applied to Ambient Assisted Living},
+  author={Volanschi, Nic and Serpette, Bernard and Carteron, Adrien and Consel, Charles},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={2},
+  number={4},
+  pages={192},
+  year={2018},
+  publisher={ACM}
+}
+@inproceedings{rodrigo2019privacy,
+  title={Privacy Preserving Elastic Stream Processing with Clouds Using Homomorphic Encryption},
+  author={Rodrigo, Arosha and Dayarathna, Miyuru and Jayasena, Sanath},
+  booktitle={International Conference on Database Systems for Advanced Applications},
+  pages={264--280},
+  year={2019},
+  organization={Springer}
+}
+@article{peng2019optimization,
+  title={Optimization RFID-enabled Retail Store Management with Complex Event Processing},
+  author={Peng, Shang-Lian and Liu, Ci-Jian and He, Jia and Yu, Hong-Nian and Li, Fan},
+  journal={International Journal of Automation and Computing},
+  volume={16},
+  number={1},
+  pages={52--64},
+  year={2019},
+  publisher={Springer}
+}
+@inproceedings{petersen2018unsupervised,
+  title={An Unsupervised Rule Generation Approach for Online Complex Event Processing},
+  author={Petersen, Erick and RLICT, Marco Antonio To and Maag, Stephane and Yamga, Thierry},
+  booktitle={2018 IEEE 17th International Symposium on Network Computing and Applications (NCA)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{papageorgiou2018situation,
+  title={A Situation Detection Mechanism for Pervasive Computing Infrastructures},
+  author={Papageorgiou, Nikos and Apostolou, Dimitris and Verginadis, Yiannis and Tsagkaropoulos, Andreas and Mentzas, Gregoris},
+  booktitle={2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}
+@article{liu2018resource,
+  title={Resource Management and Scheduling in Distributed Stream Processing Systems: A Taxonomy, Review and Future Directions},
+  author={LIU, XUNYUN and BUYYA, RAJKUMAR},
+  journal={ACM Computing Surveys},
+  volume={1},
+  number={1},
+  year={2018}
+}
+@article{almeida2019distributed,
+  title={A distributed event-driven architectural model based on situational awareness applied on internet of things},
+  author={Almeida, Ricardo Borges and Junes, Victor Renan Covalski and da Silva Machado, Roger and da Rosa, Di{\'o}rgenes Yuri Leal and Donato, Lucas Medeiros and Yamin, Adenauer Corr{\^e}a and Pernas, Ana Marilza},
+  journal={Information and Software Technology},
+  volume={111},
+  pages={144--158},
+  year={2019},
+  publisher={Elsevier}
+}
+@phdthesis{dennis2018exploring,
+  title={Exploring Complex Event Processing Rule Error Categorizations to Improve Rule Development},
+  author={Dennis, Alan Lloyd},
+  year={2018},
+  school={Colorado Technical University}
+}
+@article{ramandynamic,
+  title={Dynamic Decision Making for Demand Response through Adaptive Event Stream Monitoring},
+  author={Raman, Gururaghav and Peng, Jimmy Chih-Hsien and Zhao, Bo and Weidlich, Matthias}
+}
+@article{colombo2019access,
+  title={Access control technologies for Big Data management systems: literature review and future trends},
+  author={Colombo, Pietro and Ferrari, Elena},
+  journal={Cybersecurity},
+  volume={2},
+  number={1},
+  pages={3},
+  year={2019},
+  publisher={SpringerOpen}
+}
+@article{sharifiscalable,
+  title={Scalable Complex Event Processing Using Rule Distribution},
+  author={Sharifi, Mohsen and Fardbastani, Mohammad Ali}
+}
+@inproceedings{kehl2019challenges,
+  title={Challenges and architectural approaches for automotive PLM in multi-brand organisations-a discussion paper},
+  author={Kehl, Stefan and Hesselmann, Carsten and Stiefel, Patrick and M{\"u}ller, J{\"o}rg P},
+  booktitle={Proceedings of the Design Society: International Conference on Engineering Design},
+  volume={1},
+  number={1},
+  pages={1095--1104},
+  year={2019},
+  organization={Cambridge University Press}
+}
+@article{mazon2018rules,
+  title={Rules engine and complex event processor in the context of internet of things for precision agriculture},
+  author={Mazon-Olivo, Bertha and Hern{\'a}ndez-Rojas, Dixys and Maza-Salinas, Jos{\'e} and Pan, Alberto},
+  journal={Computers and Electronics in Agriculture},
+  volume={154},
+  pages={347--360},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{korber2019tpstream,
+  title={TPStream: low-latency and high-throughput temporal pattern matching on event streams},
+  author={K{\"o}rber, Michael and Glombiewski, Nikolaus and Morgen, Andreas and Seeger, Bernhard},
+  journal={Distributed and Parallel Databases},
+  pages={1--52},
+  year={2019},
+  publisher={Springer}
+}
+@article{dos2019data,
+  title={Data-centric resource management in edge-cloud systems for the iot},
+  author={dos SantosA, Igor Le{\~a}o and DelicatoB, Fl{\'a}via C and PiresB, Paulo F and AlvesC, Marcelo Pitanga and OliveiraD, Ana and CalmonD, Tiago Salviano},
+  year={2019}
+}
+@article{chen2019event,
+  title={Event modeling and mining: a long journey toward explainable events},
+  author={Chen, Xinhong and Li, Qing},
+  journal={The VLDB Journal},
+  pages={1--24},
+  year={2019},
+  publisher={Springer}
+}
+@inproceedings{volnes2019modeling,
+  title={Modeling the Sofware Execution of CEP in DCEP-Sim},
+  author={Volnes, Espen and Kristiansen, Stein and Plagemann, Thomas and Goebel, Vera and Lindeberg, Morten},
+  booktitle={Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems},
+  pages={244--247},
+  year={2019},
+  organization={ACM}
+}
+@inproceedings{kolchinsky2019real,
+  title={Real-Time Multi-Pattern Detection over Event Streams},
+  author={Kolchinsky, Ilya and Schuster, Assaf},
+  booktitle={Proceedings of the 2019 International Conference on Management of Data},
+  pages={589--606},
+  year={2019},
+  organization={ACM}
+}
+@article{papageorgioud5,
+  title={D5. 1 Situation Detection Mechanism},
+  author={Papageorgiou, Nikos and Tsagkaropoulos, Andreas and Verginadis, Yiannis and Mentzas, Gregoris}
+}
+@article{wanner2019machine,
+  title={Machine Learning und Complex Event Processing: Effiziente Echtzeitauswertung am Beispiel Smart Factory},
+  author={Wanner, Jonas and Wissuchek, Christopher and Janiesch, Christian},
+  year={2019}
+}
+

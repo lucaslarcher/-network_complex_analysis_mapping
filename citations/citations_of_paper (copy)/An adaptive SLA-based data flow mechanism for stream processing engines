@@ -1,0 +1,33 @@
+@article{hanif2019sla,
+  title={SLA-based adaptation schemes in distributed stream processing engines},
+  author={Hanif, Muhammad and Kim, Eunsam and Helal, Sumi and Lee, Choonhwa},
+  journal={Applied Sciences},
+  volume={9},
+  number={6},
+  pages={1045},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{pal2018big,
+  title={Big Data Ingestion and Lifelong Learning Architecture},
+  author={Pal, Gautam and Li, Gangmin and Atkinson, Katie},
+  booktitle={2018 IEEE International Conference on Big Data (Big Data)},
+  pages={5420--5423},
+  year={2018},
+  organization={IEEE}
+}
+@article{pal2018multi,
+  title={Multi-Agent Big-Data Lambda Architecture Model for E-Commerce Analytics},
+  author={Pal, Gautam and Li, Gangmin and Atkinson, Katie},
+  journal={Data},
+  volume={3},
+  number={4},
+  pages={58},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{palbig,
+  title={Big Data Real-Time Clickstream Data Ingestion Paradigm for E-Commerce Analytics},
+  author={Pal, Gautam and Li, Gangmin and Atkinson, Katie and Hou, Fang}
+}
+

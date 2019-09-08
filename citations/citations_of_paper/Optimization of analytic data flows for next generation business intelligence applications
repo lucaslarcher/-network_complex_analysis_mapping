@@ -1,0 +1,36 @@
+@incollection{jovanovic2016unified,
+  title={A unified view of data-intensive flows in business intelligence systems: a survey},
+  author={Jovanovic, Petar and Romero, Oscar and Abell{\'o}, Alberto},
+  booktitle={Transactions on Large-Scale Data-and Knowledge-Centered Systems XXIX},
+  pages={66--107},
+  year={2016},
+  publisher={Springer}
+}
+@inproceedings{nambiar2015reinventing,
+  title={Reinventing the TPC: from traditional to big data to internet of things},
+  author={Nambiar, Raghunath and Poess, Meikel},
+  booktitle={Technology Conference on Performance Evaluation and Benchmarking},
+  pages={1--7},
+  year={2015},
+  organization={Springer}
+}
+@mastersthesis{nakucci2014data,
+  title={Data Generation for the Simulation of Artifact-Centric Processes},
+  author={Naku{\c{c}}i, Emona},
+  year={2014},
+  school={Universitat Polit{\`e}cnica de Catalunya}
+}
+@inproceedings{martin2013analytics,
+  title={Analytics-as-a-service: confluence of big data, cloud computing and software-as-a-service},
+  author={Martin, Patrick and Zulkernine, F and Khalifa, Shady and Eftekhari, Azadeh and Ashtiani, B and Rope, Dan and McRoberts, Mike and Statchuk, Craig},
+  booktitle={Proceedings of the 2013 Conference of the Center for Advanced Studies on Collaborative Research},
+  pages={392--395},
+  year={2013},
+  organization={IBM Corp.}
+}
+@article{grira2014improving,
+  title={Improving knowledge about the risks of inappropriate uses of geospatial data by introducing a collaborative approach in the design of geospatial databases},
+  author={Grira, Jo{\"e}l},
+  year={2014}
+}
+

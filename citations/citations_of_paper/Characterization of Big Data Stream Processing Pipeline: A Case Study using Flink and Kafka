@@ -1,0 +1,26 @@
+@inproceedings{lanza2018modeling,
+  title={Modeling Analytical Streams for Social Business Intelligence},
+  author={Lanza-Cruz, Indira and Berlanga, Rafael and Aramburu, Mar{\'\i}a},
+  booktitle={Informatics},
+  volume={5},
+  number={3},
+  pages={33},
+  year={2018},
+  organization={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{javed2018cutting,
+  title={Cutting the tail: designing high performance message brokers to reduce tail latencies in stream processing},
+  author={Javed, M Haseeb and Lu, Xiaoyi and Panda, Dhabaleswar K},
+  booktitle={2018 IEEE International Conference on Cluster Computing (CLUSTER)},
+  pages={223--233},
+  year={2018},
+  organization={IEEE}
+}
+@article{sun2019can,
+  title={How can big data and machine learning benefit environment and water management: A survey of methods, applications, and future directions},
+  author={Sun, Alexander Y and Scanlon, Bridget R},
+  journal={Environmental Research Letters},
+  year={2019},
+  publisher={IOP Publishing}
+}
+

@@ -1,0 +1,164 @@
+@inproceedings{luo2018strdip,
+  title={StrDip: A Fast Data Stream Clustering Algorithm Using the Dip Test of Unimodality},
+  author={Luo, Yonghong and Zhang, Ying and Ding, Xiaoke and Cai, Xiangrui and Song, Chunyao and Yuan, Xiaojie},
+  booktitle={International Conference on Web Information Systems Engineering},
+  pages={193--208},
+  year={2018},
+  organization={Springer}
+}
+@article{loboaexploiting,
+  title={Exploiting a Stimuli Encoding Scheme of Spiking Neural Networks for Stream Learning},
+  author={Loboa, Jesus L and Oregia, Izaskun and Bifetb, Albert and Del Sera, Javier}
+}
+@article{kaur2017dynamic,
+  title={Dynamic resource allocation for big data streams based on data characteristics (5 V s)},
+  author={Kaur, Navroop and Sood, Sandeep K},
+  journal={International Journal of Network Management},
+  volume={27},
+  number={4},
+  pages={e1978},
+  year={2017},
+  publisher={Wiley Online Library}
+}
+@article{benczur2018online,
+  title={Online machine learning in big data streams},
+  author={Bencz{\'u}r, Andr{\'a}s A and Kocsis, Levente and P{\'a}lovics, R{\'o}bert},
+  journal={arXiv preprint arXiv:1802.05872},
+  year={2018}
+}
+@article{chamikara2018efficient,
+  title={Efficient data perturbation for privacy preserving and accurate data stream mining},
+  author={Chamikara, Mahawaga Arachchige Pathum and Bert{\'o}k, Peter and Liu, D and Camtepe, S and Khalil, Ibrahim},
+  journal={Pervasive and Mobile Computing},
+  volume={48},
+  pages={1--19},
+  year={2018},
+  publisher={Elsevier}
+}
+@inproceedings{borgi2017big,
+  title={Big data for transport and logistics: A review},
+  author={Borgi, Tawfik and Zoghlami, Nesrine and Abed, Mourad},
+  booktitle={2017 International Conference on Advanced Systems and Electric Technologies (IC\_ASET)},
+  pages={44--49},
+  year={2017},
+  organization={IEEE}
+}
+@article{mencagli2018harnessing,
+  title={Harnessing sliding-window execution semantics for parallel stream processing},
+  author={Mencagli, Gabriele and Torquati, Massimo and Lucattini, Fabio and Cuomo, Salvatore and Aldinucci, Marco},
+  journal={Journal of Parallel and Distributed Computing},
+  volume={116},
+  pages={74--88},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{swami2018storing,
+  title={Storing and analyzing streaming data: A big data challenge},
+  author={Swami, Devang and Sahoo, Sampa and Sahoo, Bibhudatta},
+  journal={Big Data Analytics: Tools and Technology for Effective Planning},
+  pages={229--246},
+  year={2018}
+}
+@incollection{appice2018relational,
+  title={Relational data mining in the era of big data},
+  author={Appice, Annalisa and Ceci, Michelangelo and Malerba, Donato},
+  booktitle={A Comprehensive Guide Through the Italian Database Research Over the Last 25 Years},
+  pages={323--339},
+  year={2018},
+  publisher={Springer}
+}
+@article{cao2019edge,
+  title={An Edge-Fog-Cloud Architecture of Streaming Analytics for Internet of Things Applications},
+  author={Cao, Hung and Wachowicz, Monica},
+  journal={Sensors},
+  volume={19},
+  number={16},
+  pages={3594},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+	@article{sun2017novel,
+  title={A Novel Ensemble Classification for Data Streams with Class Imbalance and Concept Drift.},
+  author={Sun, Yange and Wang, Zhihai and Li, Hongtao and Li, Yao},
+  journal={International Journal of Performability Engineering},
+  volume={13},
+  number={6},
+  year={2017}
+}
+@article{chamikara2019efficient,
+  title={An Efficient and Scalable Privacy Preserving Algorithm for Big Data and Data Streams},
+  author={Chamikara, MAP and Bertok, P and Liu, D and Camtepe, S and Khalil, I},
+  journal={Computers \& Security},
+  pages={101570},
+  year={2019},
+  publisher={Elsevier}
+}
+@inproceedings{matsubara2019dynamic,
+  title={Dynamic Modeling and Forecasting of Time-evolving Data Streams},
+  author={Matsubara, Yasuko and Sakurai, Yasushi},
+  booktitle={Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={458--468},
+  year={2019},
+  organization={ACM}
+}
+@article{lobo2019real,
+  title={Real-time Electrical Power Prediction in a Combined Cycle Power Plant},
+  author={Lobo, Jesus L and Ballesteros, Igor and Oregi, Izaskun and Del Ser, Javier},
+  journal={arXiv preprint arXiv:1907.11653},
+  year={2019}
+}
+@phdthesis{liu2018concept,
+  title={Concept drift adaptation for learning with streaming data},
+  author={Liu, Anjin},
+  year={2018}
+}
+@inproceedings{bellur2017semantic,
+  title={A Semantic-Enabled Framework for Future Internet of Things Applications},
+  author={Bellur, Umesh and Patel, Pankesh and Chauhan, Saurabh and Qin, Yongrui},
+  booktitle={2017 IEEE World Congress on Services (SERVICES)},
+  pages={106--113},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{lambachri2018aligning,
+  title={Aligning pattern extraction algorithms for the lambda architecture},
+  author={Lambachri, Tariq and El Hassani, Amir Hajjam and Andres, Emmanuel},
+  booktitle={2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA)},
+  pages={1--5},
+  year={2018},
+  organization={IEEE}
+}
+@incollection{jaafar2019internet,
+  title={Internet of Thing and Smart City: State of the Art and Future Trends},
+  author={Jaafar, Ako A and Sharif, Karzan H and Ghareb, Mazen I and Jawawi, Dayang NA},
+  booktitle={Advances in Computer Communication and Computational Sciences},
+  pages={3--28},
+  year={2019},
+  publisher={Springer}
+}
+@article{moralesscalable,
+  title={Scalable Data Mining},
+  author={Morales, Gianmarco De Francisci}
+}
+@article{howard2019data,
+  title={How Data Science Happens},
+  author={Howard, II and James, P},
+  year={2019}
+}
+@inproceedings{kawabata2018streamscope,
+  title={StreamScope: Automatic Pattern Discovery over Data Streams},
+  author={Kawabata, Kouki and Matsubara, Yasuko and Sakurai, Yasushi},
+  booktitle={Proceedings of the First International Workshop on Exploiting Artificial Intelligence Techniques for Data Management},
+  pages={5},
+  year={2018},
+  organization={ACM}
+}
+@inproceedings{borgi2017big,
+  title={Big Data for Operational Efficiency of Transport and Logistics: A Review},
+  author={Borgi, Tawfik and Zoghlami, Nesrine and Abed, Mourad and Naceur, Mohamed Saber},
+  booktitle={2017 6th IEEE International Conference on Advanced Logistics and Transport (ICALT)},
+  pages={113--120},
+  year={2017},
+  organization={IEEE}
+}
+

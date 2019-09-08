@@ -1,0 +1,129 @@
+@article{landset2015survey,
+  title={A survey of open source tools for machine learning with big data in the Hadoop ecosystem},
+  author={Landset, Sara and Khoshgoftaar, Taghi M and Richter, Aaron N and Hasanin, Tawfiq},
+  journal={Journal of Big Data},
+  volume={2},
+  number={1},
+  pages={24},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+@inproceedings{richter2015multi,
+  title={A multi-dimensional comparison of toolkits for machine learning with big data},
+  author={Richter, Aaron N and Khoshgoftaar, Taghi M and Landset, Sara and Hasanin, Tawfiq},
+  booktitle={2015 IEEE International Conference on Information Reuse and Integration},
+  pages={1--8},
+  year={2015},
+  organization={IEEE}
+}
+@article{nair2018applying,
+  title={Applying spark based machine learning model on streaming big data for health status prediction},
+  author={Nair, Lekha R and Shetty, Sujala D and Shetty, Siddhanth D},
+  journal={Computers \& Electrical Engineering},
+  volume={65},
+  pages={393--399},
+  year={2018},
+  publisher={Elsevier}
+}
+@inproceedings{grolinger2016energy,
+  title={Energy consumption prediction with big data: Balancing prediction accuracy and computational resources},
+  author={Grolinger, Katarina and Capretz, Miriam AM and Seewald, Luke},
+  booktitle={2016 IEEE International Congress on Big Data (BigData Congress)},
+  pages={157--164},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{kameswari2015sensor,
+  title={Sensor data analysis and anomaly detection using predictive analytics for process industries},
+  author={Kameswari, U Surya and Babu, I Ramesh},
+  booktitle={2015 IEEE Workshop on Computational Intelligence: Theories, Applications and Future Directions (WCI)},
+  pages={1--8},
+  year={2015},
+  organization={IEEE}
+}
+@article{harth2018predictive,
+  title={Predictive intelligence to the edge: impact on edge analytics},
+  author={Harth, Natascha and Anagnostopoulos, Christos and Pezaros, Dimitrios},
+  journal={Evolving Systems},
+  volume={9},
+  number={2},
+  pages={95--118},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{cuzzocrea2015cloud,
+  title={Cloud-Based Machine Learning Tools for Enhanced Big Data Applications},
+  author={Cuzzocrea, Alfredo and Mumolo, Enzo and Corona, Pietro},
+  booktitle={2015 15th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing},
+  pages={908--914},
+  year={2015},
+  organization={IEEE}
+}
+@incollection{brecher2016towards,
+  title={Towards optimized machine operations by cloud integrated condition estimation},
+  author={Brecher, Christian and Obdenbusch, Markus and Herfs, Werner},
+  booktitle={Machine Learning for Cyber Physical Systems},
+  pages={23--31},
+  year={2016},
+  publisher={Springer}
+}
+@article{egorov2017distributed,
+  title={Distributed stream processing with the intention of mining},
+  author={Egorov, Alexey},
+  year={2017}
+}
+@inproceedings{hong2015performance,
+  title={Performance Evaluation of Apache Spark According to the Number of Nodes using Principal Component Analysis},
+  author={Hong, Sungjin and Kim, Sangho and Jang, Jongsun and Choi, Chi-hwan and Jung, In-sun and Na, Jonghwa and Cho, Wan-Sup and Chi, Su-young},
+  booktitle={Proceedings of the 2015 International Conference on Big Data Applications and Services},
+  pages={98--103},
+  year={2015},
+  organization={ACM}
+}
+@incollection{harth2018convey,
+  title={Convey intelligence to edge aggregation analytics},
+  author={Harth, Natascha and Delakouridis, Kostas and Anagnostopoulos, Christos},
+  booktitle={New Advances in the Internet of Things},
+  pages={25--44},
+  year={2018},
+  publisher={Springer}
+}
+@phdthesis{damasceno2017business,
+  title={Business intelligence: implanta{\c{c}}{\~a}o no sistema do Instituto Federal do Tri{\^a}ngulo Mineiro},
+  author={Damasceno, Ernani Vinicius},
+  year={2017}
+}
+@phdthesis{mishra2018leveraging,
+  title={Leveraging stream processing engines in support of physiological data processing},
+  author={Mishra, Sitakanta},
+  year={2018},
+  school={Colorado State University. Libraries}
+}
+@article{baum2018applications,
+  title={Applications of Big Data analytics and Related Technologies in Maintenance—Literature-Based Research},
+  author={Baum, Jens and Laroque, Christoph and Oeser, Benjamin and Skoogh, Anders and Subramaniyan, Mukund},
+  journal={Machines},
+  volume={6},
+  number={4},
+  pages={54},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{martinez2018deep,
+  title={Deep Learning Evolutionary Optimization for Regression of Rotorcraft Vibrational Spectra},
+  author={Martinez, Daniel and Brewer, Wesley and Behm, Gregory and Strelzoff, Andrew and Wilson, Andrew and Wade, Daniel},
+  booktitle={2018 IEEE/ACM Machine Learning in HPC Environments (MLHPC)},
+  pages={57--66},
+  year={2018},
+  organization={IEEE}
+}
+@article{kameswarismart,
+  title={Smart Design Pattern and Applicable Model for Fine Tuning of Sensor Data Analysis with Local Data Historian},
+  author={Kameswari, U Surya and Babu, I Ramesh}
+}
+@article{kabugo2018monitoring,
+  title={Monitoring the waste to energy plant using the latest AI methods and tools},
+  author={Kabugo, James and others},
+  year={2018}
+}
+

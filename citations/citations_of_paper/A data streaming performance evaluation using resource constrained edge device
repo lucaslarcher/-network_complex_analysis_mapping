@@ -1,0 +1,23 @@
+@inproceedings{trinks2018edge,
+  title={Edge Computing architecture to support Real Time Analytic applications: A State-of-the-art within the application area of Smart Factory and Industry 4.0},
+  author={Trinks, Sebastian and Felden, Carsten},
+  booktitle={2018 IEEE International Conference on Big Data (Big Data)},
+  pages={2930--2939},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{cheng2018service,
+  title={A Service-Based Fog Execution Environment for the IoT-Aware Business Process Applications},
+  author={Cheng, Yongyang and Zhao, Shuai and Cheng, Bo and Chen, Junliang},
+  booktitle={2018 IEEE International Conference on Web Services (ICWS)},
+  pages={323--326},
+  year={2018},
+  organization={IEEE}
+}
+@article{ahmed2019fog,
+  title={Fog Computing Applications: Taxonomy and Requirements},
+  author={Ahmed, Arif and Arkian, HamidReza and Battulga, Davaadorj and Fahs, Ali J and Farhadi, Mozhdeh and Giouroukis, Dimitrios and Gougeon, Adrien and Gutierrez, Felipe Oliveira and Pierre, Guillaume and Souza Jr, Paulo R and others},
+  journal={arXiv preprint arXiv:1907.11621},
+  year={2019}
+}
+

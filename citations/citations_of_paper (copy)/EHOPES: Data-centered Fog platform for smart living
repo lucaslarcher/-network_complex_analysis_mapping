@@ -1,0 +1,347 @@
+@article{dastjerdi2016fog,
+  title={Fog computing: Helping the Internet of Things realize its potential},
+  author={Dastjerdi, Amir Vahid and Buyya, Rajkumar},
+  journal={Computer},
+  volume={49},
+  number={8},
+  pages={112--116},
+  year={2016},
+  publisher={IEEE}
+}
+@article{mouradian2017comprehensive,
+  title={A comprehensive survey on fog computing: State-of-the-art and research challenges},
+  author={Mouradian, Carla and Naboulsi, Diala and Yangui, Sami and Glitho, Roch H and Morrow, Monique J and Polakos, Paul A},
+  journal={IEEE Communications Surveys \& Tutorials},
+  volume={20},
+  number={1},
+  pages={416--464},
+  year={2017},
+  publisher={IEEE}
+}
+@article{hu2017survey,
+  title={Survey on fog computing: architecture, key technologies, applications and open issues},
+  author={Hu, Pengfei and Dhelim, Sahraoui and Ning, Huansheng and Qiu, Tie},
+  journal={Journal of network and computer applications},
+  volume={98},
+  pages={27--42},
+  year={2017},
+  publisher={Elsevier}
+}
+@article{perera2017fog,
+  title={Fog computing for sustainable smart cities: A survey},
+  author={Perera, Charith and Qin, Yongrui and Estrella, Julio C and Reiff-Marganiec, Stephan and Vasilakos, Athanasios V},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={50},
+  number={3},
+  pages={32},
+  year={2017},
+  publisher={ACM}
+}
+@article{bilal2018potentials,
+  title={Potentials, trends, and prospects in edge technologies: Fog, cloudlet, mobile edge, and micro data centers},
+  author={Bilal, Kashif and Khalid, Osman and Erbad, Aiman and Khan, Samee U},
+  journal={Computer Networks},
+  volume={130},
+  pages={94--120},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{yousefpour2019all,
+  title={All one needs to know about fog computing and related edge computing paradigms: A complete survey},
+  author={Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P},
+  journal={Journal of Systems Architecture},
+  year={2019},
+  publisher={Elsevier}
+}
+@article{zhang2018efficient,
+  title={An efficient access control scheme with outsourcing capability and attribute update for fog computing},
+  author={Zhang, Peng and Chen, Zehong and Liu, Joseph K and Liang, Kaitai and Liu, Hongwei},
+  journal={Future Generation Computer Systems},
+  volume={78},
+  pages={753--762},
+  year={2018},
+  publisher={Elsevier}
+}
+@article{li2017virtual,
+  title={Virtual fog: A virtualization enabled fog computing framework for Internet of Things},
+  author={Li, Jianhua and Jin, Jiong and Yuan, Dong and Zhang, Hongke},
+  journal={IEEE Internet of Things Journal},
+  volume={5},
+  number={1},
+  pages={121--131},
+  year={2017},
+  publisher={IEEE}
+}
+@article{tang2018migration,
+  title={Migration modeling and learning algorithms for containers in fog computing},
+  author={Tang, Zhiqing and Zhou, Xiaojie and Zhang, Fuming and Jia, Weijia and Zhao, Wei},
+  journal={IEEE Transactions on Services Computing},
+  year={2018},
+  publisher={IEEE}
+}
+@incollection{bansal2018enablement,
+  title={Enablement of IoT based context-aware smart home with fog computing},
+  author={Bansal, Maggi and Chana, Inderveer and Clarke, Siobhan},
+  booktitle={Fog Computing: Breakthroughs in Research and Practice},
+  pages={251--263},
+  year={2018},
+  publisher={IGI Global}
+}
+@inproceedings{li2017latency,
+  title={Latency estimation for fog-based internet of things},
+  author={Li, Jianhua and Zhang, Tiehua and Jin, Jiong and Yang, Yingying and Yuan, Dong and Gao, Longxiang},
+  booktitle={2017 27th International Telecommunication Networks and Applications Conference (ITNAC)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{nguyen2017icn,
+  title={ICN-Fog: An information-centric fog-to-fog architecture for data communications},
+  author={Nguyen, Dinh and Shen, Zhishu and Jin, Jiong and Tagami, Atsushi},
+  booktitle={GLOBECOM 2017-2017 IEEE Global Communications Conference},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{seitz2017fog,
+  title={A fog architecture for decentralized decision making in smart buildings},
+  author={Seitz, Andreas and Johanssen, Jan Ole and Bruegge, Bernd and Loftness, Vivian and Hartkopf, Volker and Sturm, Monika},
+  booktitle={Proceedings of the 2nd International Workshop on Science of Smart City Operations and Platforms Engineering},
+  pages={34--39},
+  year={2017},
+  organization={ACM}
+}
+@article{thien2016systematic,
+  title={A systematic literature review of fog computing},
+  author={Thien, An Tran and Colomo-Palacios, Ricardo},
+  journal={NOKOBIT 2016, Bergen, 28--30 Nov. NOKOBIT, Bibsys Open Joumal Systems},
+  volume={24},
+  number={1},
+  year={2016}
+}
+@inproceedings{shen2018network,
+  title={In-network self-learning algorithms for BEMS through a collaborative Fog platform},
+  author={Shen, Zhishu and Yokota, Kenji and Jin, Jiong and Tagami, Atsushi and Higashino, Teruo},
+  booktitle={2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA)},
+  pages={1162--1169},
+  year={2018},
+  organization={IEEE}
+}
+@inproceedings{shaik2018hierarchical,
+  title={Hierarchical and Autonomous Fog Architecture},
+  author={Shaik, Shehenaz and Baskiyar, Sanjeev},
+  booktitle={Proceedings of the 47th International Conference on Parallel Processing Companion},
+  pages={18},
+  year={2018},
+  organization={ACM}
+}
+@inproceedings{dasgupta2017fog,
+  title={Fog computing challenges: a systematic review},
+  author={Dasgupta, Avirup and Gill, Asif Qumer},
+  booktitle={Australasian Conference on Information Systems Dasgupta \& Gil12017},
+  year={2017}
+}
+@inproceedings{zhang2016home,
+  title={Home fog server: Taking back control from the cloud},
+  author={Zhang, Binqi and Li, Wei and Zhou, Bing Bing and Zomaya, Albert Y},
+  booktitle={2016 IEEE Globecom Workshops (GC Wkshps)},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
+@inproceedings{heck2018iot,
+  title={IoT applications in fog and edge computing: Where are we and where are we going?},
+  author={Heck, Melanie and Edinger, Janick and Sch{\"a}fer, Dominik and Becker, Christian},
+  booktitle={2018 27th International Conference on Computer Communication and Networks (ICCCN)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
+@article{tahir2017fog,
+  title={Fog-based healthcare architecture for wearable body area network},
+  author={Tahir, Sabeen and Bakhsh, Sheikh Tahir and Alghamdi, Rayed and Abulkhair, Maysoon},
+  journal={Journal of Medical Imaging and Health Informatics},
+  volume={7},
+  number={6},
+  pages={1409--1418},
+  year={2017},
+  publisher={American Scientific Publishers}
+}
+@article{shaik2019resource,
+  title={Resource and Service Management for Fog Infrastructure as a Service},
+  author={Shaik, Shehenaz and others},
+  year={2019}
+}
+@article{cha2018study,
+  title={A Study on Access Structure Management of CP-ABTD Based Blockchain for Medical Information Monitoring System},
+  author={Cha, Hyun-Jong and Yang, Ho-Kyung and Song, You-Jin},
+  journal={Advanced Science Letters},
+  volume={24},
+  number={3},
+  pages={2026--2030},
+  year={2018},
+  publisher={American Scientific Publishers}
+}
+@inproceedings{kum2018service,
+  title={Service Mediation Gateway for Heterogenous IoT Services Harmonization},
+  author={Kum, Seung Woo and Moon, Jaewon},
+  booktitle={2018 Tenth International Conference on Ubiquitous and Future Networks (ICUFN)},
+  pages={779--781},
+  year={2018},
+  organization={IEEE}
+}
+@article{pinto2019framework,
+  title={A Framework for Analyzing Fog-Cloud Computing Cooperation Applied to Information Processing of UAVs},
+  author={Pinto, Milena F and Marcato, Andr{\'e} LM and Melo, Aur{\'e}lio G and Hon{\'o}rio, Leonardo M and Urdiales, Cristina},
+  journal={Wireless Communications and Mobile Computing},
+  volume={2019},
+  year={2019},
+  publisher={Hindawi}
+}
+@article{constant2017intelligent,
+  title={An Intelligent Fog Centric Network for IoT-Driven Smart Communities},
+  author={Constant, Nicholas},
+  year={2017}
+}
+@article{yousefpour2018all,
+  title={All One Needs to Know about Fog Computing and Related Edge Computing Paradigms},
+  author={Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P},
+  year={2018}
+}
+@article{santos2018multi,
+  title={A Multi-tier fog architecture for video on demand streaming},
+  author={SANTOS, Hugo Leonardo Melo dos and others},
+  year={2018},
+  publisher={Universidade Federal do Par{\'a}}
+}
+@inproceedings{bu2019performance,
+  title={Performance Modeling and Assessment of Unified Video Surveillance System Based on Ubiquitous SG-eIoT},
+  author={Bu, Xiande and others},
+  booktitle={2019 IEEE International Conference on Energy Internet (ICEI)},
+  pages={238--243},
+  year={2019},
+  organization={IEEE}
+}
+@article{bala2019survey,
+  title={Survey of applications, challenges and opportunities in fog computing},
+  author={Bala, Mohammad Irfan and Chishti, Mohammad Ahsan},
+  journal={International Journal of Pervasive Computing and Communications},
+  year={2019},
+  publisher={Emerald Publishing Limited}
+}
+ @article{kum2017implementation,
+  title={Implementation of Fog Computing Architecture for IoT Service on Hybrid Broadcast Environment},
+  author={Kum, Seung Woo and Lim, Tae-Beom and Park, Jong-Il},
+  journal={Journal of Broadcast Engineering},
+  volume={22},
+  number={1},
+  pages={107--117},
+  year={2017},
+  publisher={The Korean Institute of Broadcast and Media Engineers}
+}
+@article{neware2019fog,
+  title={Fog Computing Architecture, Applications and Security Issues: A Survey},
+  author={Neware, Rahul},
+  year={2019},
+  publisher={Preprints}
+}
+@article{seno2019cooperation,
+  title={A Cooperation of Fog Computing and Smart Gateways in a Secure and Efficient Architecture for IoT-Based Smart Homes},
+  author={Seno, Seyed Amin H and Alshammari, Sahar A},
+  journal={Engineering and Technology Journal},
+  volume={37},
+  number={7 A},
+  pages={290--301},
+  year={2019}
+}
+@phdthesis{edinger2019context,
+  title={Context-aware task scheduling in distributed computing systems},
+  author={Edinger, Janick},
+  year={2019}
+}
+@article{nikoui2019data,
+  title={Data Management in Fog Computing},
+  author={Nikoui, Tina Samizadeh and Rahmani, Amir Masoud and Tabarsaied, Hooman},
+  journal={Fog and Edge Computing: Principles and Paradigms},
+  pages={171--190},
+  year={2019},
+  publisher={John Wiley \& Sons, Inc. Hoboken, NJ, USA}
+}
+@incollection{tan2017resources,
+  title={Resources and Practical Factors in Smart Home and City},
+  author={Tan, Bo and Tao, Lili and Zhu, Ni},
+  booktitle={From Internet of Things to Smart Cities},
+  pages={379--397},
+  year={2017},
+  publisher={Chapman and Hall/CRC}
+}
+@inproceedings{zhang2018dynamic,
+  title={A Dynamic Resource Overbooking Mechanism in Fog Computing},
+  author={Zhang, Fuming and Tang, Zhiqing and Chen, Mingcheng and Zhou, Xiaojie and Jia, Weijia},
+  booktitle={2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS)},
+  pages={89--97},
+  year={2018},
+  organization={IEEE}
+}
+@article{coverfog,
+  title={Fog Computing: Helping the Internet of Things Realize its Potential},
+  author={COVER, CLOUD}
+}
+@article{zhao2019edge,
+  title={Edge Computing and Networking: A Survey on Infrastructures and Applications},
+  author={Zhao, Yongli and Wang, Wei and Li, Yajie and Meixner, Carlos Colman and Tornatore, Massimo and Zhang, Jie},
+  journal={IEEE Access},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{chousiadas2018advancing,
+  title={Advancing Quantified-Self Applications Utilizing Visual Data Analytics and the Internet of Things},
+  author={Chousiadas, Dimitris and Menychtas, Andreas and Tsanakas, Panayiotis and Maglogiannis, Ilias},
+  booktitle={IFIP International Conference on Artificial Intelligence Applications and Innovations},
+  pages={263--274},
+  year={2018},
+  organization={Springer}
+}
+@inproceedings{ksentini2018survey,
+  title={Survey on Architectual and Energetic Aspects on Fog Computing Environment},
+  author={Ksentini, Amel and Jebalia, Maha and Tabbane, Sami},
+  booktitle={2018 IEEE 27th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)},
+  pages={30--35},
+  year={2018},
+  organization={IEEE}
+}
+@incollection{moharir2019fog,
+  title={Fog Computing and Networking Architectures},
+  author={Moharir, Minal and Patil, Bharat Rahuldhev},
+  booktitle={The Rise of Fog Computing in the Digital Era},
+  pages={53--67},
+  year={2019},
+  publisher={IGI Global}
+}
+@inproceedings{alshehri2019encryption,
+  title={An Encryption-Based Approach to Protect Fog Federations from Rogue Nodes},
+  author={Alshehri, Mohammed and Panda, Brajendra},
+  booktitle={International Conference on Security, Privacy and Anonymity in Computation, Communication and Storage},
+  pages={225--243},
+  year={2019},
+  organization={Springer}
+}
+@inproceedings{gomes2018real,
+  title={A Real-Time Fog Computing Approach for Healthcare Environment},
+  author={Gomes, Eliza and Dantas, MAR and Plentz, Patricia},
+  booktitle={International Conference on P2P, Parallel, Grid, Cloud and Internet Computing},
+  pages={85--95},
+  year={2018},
+  organization={Springer}
+}
+@article{neagu2018sustainable,
+  title={Sustainable Smart Cities: A Fog Computing Framework for a Smart Urban Transport Network},
+  author={Neagu, Ioan-M{\u{a}}d{\u{a}}lin},
+  journal={Studia Universitatis „Vasile Goldis” Arad--Economics Series},
+  volume={28},
+  number={4},
+  pages={68--80},
+  year={2018},
+  publisher={Sciendo}
+}
+

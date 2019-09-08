@@ -1,0 +1,1275 @@
+@inproceedings{kmiec2017comparison,
+author = {Kmiec, Sebastian and Wong, Jonathon and Jacobsen, Hans-Arno and Others},
+booktitle = {Technology Conference on Performance Evaluation and Benchmarking},
+organization = {Springer},
+pages = {164--184},
+title = {{A Comparison of ARM Against x86 for Distributed Machine Learning Workloads}},
+year = {2017}
+}
+@article{wang2019dependency,
+author = {Wang, Bo and Tang, Jie and Zhang, Rui and Ding, Wei and Qi, Deyu},
+journal = {International Journal of Parallel Programming},
+number = {3},
+pages = {502--519},
+publisher = {Springer},
+title = {{A Dependency-Aware Storage Schema Selection Mechanism for In-Memory Big Data Computing Frameworks}},
+volume = {47},
+year = {2019}
+}
+@article{chao2018gray,
+author = {Chao, Zemin and Shi, Shengfei and Gao, Hong and Luo, Jizhou and Wang, Hongzhi},
+journal = {Future Generation Computer Systems},
+pages = {58--67},
+publisher = {Elsevier},
+title = {{A gray-box performance model for Apache Spark}},
+volume = {89},
+year = {2018}
+}
+@inproceedings{xu2018heterogeneity,
+author = {Xu, Luna and Butt, Ali R and Lim, Seung-Hwan and Kannan, Ramakrishnan},
+booktitle = {2018 IEEE International Conference on Cluster Computing (CLUSTER)},
+organization = {IEEE},
+pages = {245--256},
+title = {{A heterogeneity-aware task scheduler for spark}},
+year = {2018}
+}
+@inproceedings{Liu:2019:MCD:3324320.3324416,
+address = {USA},
+author = {Liu, Haozhen and Liu, Long and Wang, Weiguo and Zhao, Qilong and Jin, Meng and Zhou, Ziqiang and Liu, Zhoubin},
+booktitle = {Proceedings of the 2019 International Conference on Embedded Wireless Systems and Networks},
+isbn = {978-0-9949886-3-8},
+pages = {391--400},
+publisher = {Junction Publishing},
+series = {EWSN '19},
+title = {{A Multi-Sensing Collaborative Diagnosis System for the{\&}{\#}160;Reliability of Industrial IoT}},
+url = {http://dl.acm.org/citation.cfm?id=3324320.3324416},
+year = {2019}
+}
+@inproceedings{alnafessah2018neural,
+author = {Alnafessah, Ahmad and Casale, Giuliano},
+booktitle = {2018 11th International Conference on the Quality of Information and Communications Technology (QUATIC)},
+organization = {IEEE},
+pages = {201--209},
+title = {{A Neural-Network Driven Methodology for Anomaly Detection in Apache Spark}},
+year = {2018}
+}
+@inproceedings{Hesse:2017:NAB:3093742.3093902,
+address = {New York, NY, USA},
+author = {Hesse, Guenter and Matthies, Christoph and Reissaus, Benjamin and Uflacker, Matthias},
+booktitle = {Proceedings of the 11th ACM International Conference on Distributed and Event-based Systems},
+doi = {10.1145/3093742.3093902},
+isbn = {978-1-4503-5065-5},
+keywords = {Benchmark Development,Data Stream Processing,Internet of Things,Performance Benchmarking,Stream Processing},
+pages = {359--362},
+publisher = {ACM},
+series = {DEBS '17},
+title = {{A New Application Benchmark for Data Stream Processing Architectures in an Enterprise Context: Doctoral Symposium}},
+url = {http://doi.acm.org/10.1145/3093742.3093902},
+year = {2017}
+}
+@article{al2018secure,
+author = {Al-Zobbi, Mohammed},
+title = {{A secure access control framework for big data}},
+year = {2018}
+}
+@inproceedings{Torkashvan:2012:SOF:2222444.2222469,
+address = {New York, NY, USA},
+author = {Torkashvan, Milad and Haghighi, Hassan},
+booktitle = {Proceedings of the 3rd International Conference on Information and Communication Systems},
+doi = {10.1145/2222444.2222469},
+isbn = {978-1-4503-1327-8},
+keywords = {cloud computing,event driven architecture,ontology based clouds,service orientation,ultra large scale systems},
+pages = {25:1----25:5},
+publisher = {ACM},
+series = {ICICS '12},
+title = {{A Service Oriented Framework for Cloud Computing}},
+url = {http://doi.acm.org/10.1145/2222444.2222469},
+year = {2012}
+}
+@inproceedings{wang2018speculative,
+author = {Wang, Zhoukai and Zhao, Yinliang},
+booktitle = {2018 IEEE 9th International Conference on Software Engineering and Service Science (ICSESS)},
+organization = {IEEE},
+pages = {84--89},
+title = {{A Speculative Parallel Execution Model for Apache Spark}},
+year = {2018}
+}
+@inproceedings{kachris2016survey,
+author = {Kachris, Christoforos and Soudris, Dimitrios},
+booktitle = {2016 26th International conference on field programmable logic and applications (FPL)},
+organization = {IEEE},
+pages = {1--10},
+title = {{A survey on reconfigurable accelerators for cloud computing}},
+year = {2016}
+}
+@inproceedings{gupta2016workload,
+author = {Gupta, Amit and Xu, Weijia and Ruiz-Juri, Natalia and Perrine, Kenneth},
+booktitle = {2016 IEEE International Conference on Big Data (Big Data)},
+organization = {IEEE},
+pages = {2243--2250},
+title = {{A workload aware model of computational resource selection for big data applications}},
+year = {2016}
+}
+@phdthesis{xu2019workload,
+author = {Xu, Luna},
+school = {Virginia Tech},
+title = {{A Workload-aware Resource Management and Scheduling System for Big Data Analysis}},
+year = {2019}
+}
+@inproceedings{liang2017workload,
+author = {Liang, Yi and Chang, Shilu and Su, Chao},
+booktitle = {2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC)},
+organization = {IEEE},
+pages = {486--490},
+title = {{A Workload-Specific Memory Capacity Configuration Approach for In-Memory Data Analytic Platforms}},
+year = {2017}
+}
+@inproceedings{liu2018accelerating,
+author = {Liu, Bing and Liu, Fang and Xiao, Nong and Chen, Zhiguang},
+booktitle = {2018 IEEE International Conference on Networking, Architecture and Storage (NAS)},
+organization = {IEEE},
+pages = {1--7},
+title = {{Accelerating Spark Shuffle with RDMA}},
+year = {2018}
+}
+@article{zhang2017adaptive,
+author = {Zhang, Quan},
+title = {{Adaptive Block And Batch Sizing Forbatched Stream Processing System}},
+year = {2017}
+}
+@inproceedings{ivanov2018adding,
+author = {Ivanov, Todor and Bedu{\'{e}}, Patrick and Ghazal, Ahmad and Zicari, Roberto V},
+booktitle = {Proceedings of the Workshop on Testing Database Systems},
+organization = {ACM},
+pages = {6},
+title = {{Adding Velocity to BigBench}},
+year = {2018}
+}
+@inproceedings{wang2019addressing,
+author = {Wang, Shaoqi and Chen, Wei and Zhou, Xiaobo and Chang, Sang-Yoon and Ji, Mike},
+booktitle = {IEEE INFOCOM 2019-IEEE Conference on Computer Communications},
+organization = {IEEE},
+pages = {1261--1269},
+title = {{Addressing Skewness in Iterative ML Jobs with Parameter Partition}},
+year = {2019}
+}
+@inproceedings{wang2019addressing,
+author = {Wang, Shaoqi and Chen, Wei and Zhou, Xiaobo and Chang, Sang-Yoon and Ji, Mike},
+booktitle = {IEEE INFOCOM 2019-IEEE Conference on Computer Communications},
+organization = {IEEE},
+pages = {1261--1269},
+title = {{Addressing Skewness in Iterative ML Jobs with Parameter Partition}},
+year = {2019}
+}
+@inproceedings{wang2018aggressive,
+author = {Wang, Shaoqi and Chen, Wei and Pi, Aidi and Zhou, Xiaobo},
+booktitle = {Proceedings of the 19th International Middleware Conference},
+organization = {ACM},
+pages = {253--265},
+title = {{Aggressive synchronization with partial processing for iterative ml jobs on clusters}},
+year = {2018}
+}
+@article{venkatesan2017analysis,
+author = {Venkatesan, Nikitha Johnsirani and Nam, Choon Sung and Kim, Earl and Shin, Dong Ryeol},
+journal = {Journal of Advances in Technology and Engineering Research},
+number = {4},
+pages = {108--116},
+title = {{Analysis of real-time data with spark streaming}},
+volume = {3},
+year = {2017}
+}
+@inproceedings{poess2017analysis,
+author = {Poess, Meikel and Rabl, Tilmann and Jacobsen, Hans-Arno},
+booktitle = {Proceedings of the 2017 Symposium on Cloud Computing},
+organization = {ACM},
+pages = {573--585},
+title = {{Analysis of TPC-DS: the first standard benchmark for SQL-based big data systems}},
+year = {2017}
+}
+@inproceedings{ishizaki2019analyzing,
+author = {Ishizaki, Kazuaki},
+booktitle = {Proceedings of the 2019 ACM/SPEC International Conference on Performance Engineering},
+organization = {ACM},
+pages = {91--102},
+title = {{Analyzing and Optimizing Java Code Generation for Apache Spark Query Plan}},
+year = {2019}
+}
+@inproceedings{Chakrabarti:2014:ASD:2634074.2634126,
+address = {Philadelphia, PA, USA},
+author = {Chakrabarti, Amit and Cormode, Graham and Goyal, Navin and Thaler, Justin},
+booktitle = {Proceedings of the Twenty-fifth Annual ACM-SIAM Symposium on Discrete Algorithms},
+isbn = {978-1-611973-38-9},
+pages = {687--706},
+publisher = {Society for Industrial and Applied Mathematics},
+series = {SODA '14},
+title = {{Annotations for Sparse Data Streams}},
+url = {http://dl.acm.org/citation.cfm?id=2634074.2634126},
+year = {2014}
+}
+@inproceedings{chung2016application,
+author = {Chung, I-Hsin and Costa, Carlos H A and Grinberg, Leopold and Wen, Hui-Fang},
+booktitle = {2016 IEEE International Conference on Computer and Information Technology (CIT)},
+organization = {IEEE},
+pages = {18--25},
+title = {{Application Characterization Assisted System Design}},
+year = {2016}
+}
+@article{fritz2019asap,
+author = {Fritz, Manuel and Muazzen, Osama and Behringer, Michael and Schwarz, Holger},
+journal = {SICS Software-Intensive Cyber-Physical Systems},
+pages = {1--13},
+publisher = {Springer},
+title = {{ASAP-DM: a framework for automatic selection of analytic platforms for data mining}},
+year = {2019}
+}
+@inproceedings{jia2016auto,
+author = {Jia, Zhen and Xue, Chao and Chen, Guancheng and Zhan, Jianfeng and Zhang, Lixin and Lin, Yonghua and Hofstee, Peter},
+booktitle = {2016 International Conference on Parallel Architecture and Compilation Techniques (PACT)},
+organization = {IEEE},
+pages = {387--400},
+title = {{Auto-tuning Spark big data workloads on POWER8: Prediction-based dynamic SMT threading}},
+year = {2016}
+}
+@inproceedings{Cho:2015:ASD:2753476.2753484,
+address = {New York, NY, USA},
+author = {Cho, Hyunjeong and An, Jihoon and Hong, Intaek and Lee, Younghee},
+booktitle = {Proceedings of the 2015 Workshop on IoT Challenges in Mobile and Industrial Systems},
+doi = {10.1145/2753476.2753484},
+isbn = {978-1-4503-3502-7},
+keywords = {activity prediction,automatic data stream segmentation,internet of things,jaro-winkler distance.},
+pages = {13--18},
+publisher = {ACM},
+series = {IoT-Sys '15},
+title = {{Automatic Sensor Data Stream Segmentation for Real-time Activity Prediction in Smart Spaces}},
+url = {http://doi.acm.org/10.1145/2753476.2753484},
+year = {2015}
+}
+@inproceedings{walker2017benchmarking,
+author = {Walker, Brenton},
+booktitle = {2017 IFIP Networking Conference (IFIP Networking) and Workshops},
+organization = {IEEE},
+pages = {1--6},
+title = {{Benchmarking and simulating the fundamental scaling behaviors of a MapReduce engine}},
+year = {2017}
+}
+@article{han2017benchmarking,
+author = {Han, Rui and John, Lizy Kurian and Zhan, Jianfeng},
+journal = {IEEE Transactions on Services Computing},
+number = {3},
+pages = {580--597},
+publisher = {IEEE},
+title = {{Benchmarking big data systems: A review}},
+volume = {11},
+year = {2017}
+}
+@inproceedings{karimov2018benchmarking,
+author = {Karimov, Jeyhun and Rabl, Tilmann and Katsifodimos, Asterios and Samarev, Roman and Heiskanen, Henri and Markl, Volker},
+booktitle = {2018 IEEE 34th International Conference on Data Engineering (ICDE)},
+organization = {IEEE},
+pages = {1507--1518},
+title = {{Benchmarking distributed stream data processing systems}},
+year = {2018}
+}
+@incollection{simmhan2015benchmarking,
+author = {Simmhan, Yogesh and Shukla, Anshu and Verma, Arun},
+booktitle = {Big Data Benchmarking},
+pages = {21--39},
+publisher = {Springer},
+title = {{Benchmarking fast-data platforms for the aadhaar biometric database}},
+year = {2015}
+}
+@article{nghiem2018best,
+author = {Nghiem, Peter},
+journal = {Algorithms},
+number = {12},
+pages = {190},
+publisher = {Multidisciplinary Digital Publishing Institute},
+title = {{Best Trade-Off Point Method for Efficient Resource Provisioning in Spark}},
+volume = {11},
+year = {2018}
+}
+@misc{nghiem2017best,
+annote = {US Patent App. 15/418,859},
+author = {Nghiem, Peter P},
+publisher = {Google Patents},
+title = {{Best trade-off point on an elbow curve for optimal resource provisioning and performance efficiency}},
+year = {2017}
+}
+@book{sakr2016big,
+author = {Sakr, Sherif},
+publisher = {Springer},
+title = {{Big data 2.0 processing systems: a survey}},
+year = {2016}
+}
+@inproceedings{ivanov2015big,
+author = {Ivanov, Todor and Rabl, Tilmann and Poess, Meikel and Queralt, Anna and Poelman, John and Poggi, Nicolas and Buell, Jeffrey},
+booktitle = {Technology Conference on Performance Evaluation and Benchmarking},
+organization = {Springer},
+pages = {135--155},
+title = {{Big data benchmark compendium}},
+year = {2015}
+}
+@inproceedings{zhang2016big,
+author = {Zhang, Rui and Wang, Hongzhi and Tewari, Renu and Schmidt, Gero and Kakrania, Deepika},
+booktitle = {2016 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
+organization = {IEEE},
+pages = {1660--1664},
+title = {{Big data for medical image analysis: A performance study}},
+year = {2016}
+}
+@inproceedings{aziz2018big,
+author = {Aziz, Khadija and Zaidouni, Dounia and Bellafkih, Mostafa},
+booktitle = {International Conference on Big Data, Cloud and Applications},
+organization = {Springer},
+pages = {29--40},
+title = {{Big Data Optimisation Among RDDs Persistence in Apache Spark}},
+year = {2018}
+}
+@inproceedings{aziz2018big,
+author = {Aziz, Khadija and Zaidouni, Dounia and Bellafkih, Mostafa},
+booktitle = {Proceedings of the 12th International Conference on Intelligent Systems: Theories and Applications},
+organization = {ACM},
+pages = {25},
+title = {{Big Data Processing using Machine Learning algorithms: MLlib and Mahout Use Case}},
+year = {2018}
+}
+@inproceedings{Khan:2018:BID:3180445.3180455,
+address = {New York, NY, USA},
+author = {Khan, Latifur},
+booktitle = {Proceedings of the Fourth ACM International Workshop on Security and Privacy Analytics},
+doi = {10.1145/3180445.3180455},
+isbn = {978-1-4503-5634-3},
+keywords = {IoT,data analytics,security and privacy,stream data},
+pages = {22},
+publisher = {ACM},
+series = {IWSPA '18},
+title = {{Big IoT Data Stream Analytics with Issues in Privacy and Security}},
+url = {http://doi.acm.org/10.1145/3180445.3180455},
+year = {2018}
+}
+@inproceedings{ghazal2017bigbench,
+author = {Ghazal, Ahmad and Ivanov, Todor and Kostamaa, Pekka and Crolotte, Alain and Voong, Ryan and Al-Kateb, Mohammed and Ghazal, Waleed and Zicari, Roberto V},
+booktitle = {2017 IEEE 33rd International Conference on Data Engineering (ICDE)},
+organization = {IEEE},
+pages = {1225--1236},
+title = {{Bigbench V2: the new and improved bigbench}},
+year = {2017}
+}
+@proceedings{Fan:2013:2501221,
+address = {New York, NY, USA},
+isbn = {978-1-4503-2324-6},
+publisher = {ACM},
+title = {{BigMine '13: Proceedings of the 2Nd International Workshop on Big Data, Streams and Heterogeneous Source Mining: Algorithms, Systems, Programming Models and Applications}},
+year = {2013}
+}
+@inproceedings{Javed:2017:CBD:3148055.3148068,
+address = {New York, NY, USA},
+author = {Javed, M Haseeb and Lu, Xiaoyi and Panda, Dhabaleswar K (DK)},
+booktitle = {Proceedings of the Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies},
+doi = {10.1145/3148055.3148068},
+isbn = {978-1-4503-5549-0},
+keywords = {big data,hpc clusters,message queue,profiling,real time,stream processing},
+pages = {1--10},
+publisher = {ACM},
+series = {BDCAT '17},
+title = {{Characterization of Big Data Stream Processing Pipeline: A Case Study Using Flink and Kafka}},
+url = {http://doi.acm.org/10.1145/3148055.3148068},
+year = {2017}
+}
+@inproceedings{paul2016chopper,
+author = {Paul, Arnab Kumar and Zhuang, Wenjie and Xu, Luna and Li, Min and Rafique, M Mustafa and Butt, Ali R},
+booktitle = {2016 IEEE International Conference on Cluster Computing (CLUSTER)},
+organization = {IEEE},
+pages = {110--119},
+title = {{Chopper: Optimizing data partitioning for in-memory data analytics frameworks}},
+year = {2016}
+}
+@article{timecluster,
+author = {Time, SRPT Shortest Remaining Processing},
+title = {{Cluster Frameworks for Efficient Scheduling and Resource Allocation in Data Center Networks: A Survey}}
+}
+@article{wang2018cluster,
+author = {Wang, Kun and Zhou, Qihua and Guo, Song and Luo, Jiangtao},
+journal = {IEEE Communications Surveys {\&} Tutorials},
+number = {4},
+pages = {3560--3580},
+publisher = {IEEE},
+title = {{Cluster frameworks for efficient scheduling and resource allocation in data center networks: A survey}},
+volume = {20},
+year = {2018}
+}
+@article{bei2018configuring,
+author = {Bei, Zhendong and Yu, Zhibin and Luo, Ni and Jiang, Chuntao and Xu, Chengzhong and Feng, Shengzhong},
+journal = {Future Generation Computer Systems},
+pages = {1--15},
+publisher = {Elsevier},
+title = {{Configuring in-memory cluster computing using random forest}},
+volume = {79},
+year = {2018}
+}
+@inproceedings{Lutfiyya:2014:CPI:2735522.2735564,
+address = {Riverton, NJ, USA},
+author = {Lutfiyya, Hanan and Oteafy, Sharief},
+booktitle = {Proceedings of 24th Annual International Conference on Computer Science and Software Engineering},
+pages = {299--300},
+publisher = {IBM Corp.},
+series = {CASCON '14},
+title = {{Convergent Paradigms in the Internet of Things (CT-IoT)}},
+url = {http://dl.acm.org/citation.cfm?id=2735522.2735564},
+year = {2014}
+}
+@inproceedings{matri2017could,
+author = {Matri, Pierre and Alforov, Yevhen and Brandon, Alvaro and Kuhn, Michael and Carns, Philip and Ludwig, Thomas},
+booktitle = {2017 IEEE International Conference on Cluster Computing (CLUSTER)},
+organization = {IEEE},
+pages = {81--86},
+title = {{Could blobs fuel storage-based convergence between HPC and big data?}},
+year = {2017}
+}
+@phdthesis{xu2019data,
+author = {Xu, Guoyao},
+school = {Wayne State University},
+title = {{Data-Driven Intelligent Scheduling for Long Running Workloads in Large-Scale Datacenters}},
+year = {2019}
+}
+@article{boehm2016declarative,
+author = {Boehm, Matthias and Evfimievski, Alexandre V and Pansare, Niketan and Reinwald, Berthold},
+journal = {arXiv preprint arXiv:1605.05826},
+title = {{Declarative machine learning-a classification of basic properties and types}},
+year = {2016}
+}
+@article{wang2018dependency,
+author = {Wang, Shaoqi and Chen, Wei and Zhou, Xiaobo and Zhang, Liqiang and Wang, Yin},
+journal = {IEEE Transactions on Parallel and Distributed Systems},
+number = {3},
+pages = {515--529},
+publisher = {IEEE},
+title = {{Dependency-aware network adaptive scheduling of data-intensive parallel jobs}},
+volume = {30},
+year = {2018}
+}
+@inproceedings{Hansch:2019:DIS:3327961.3329528,
+address = {New York, NY, USA},
+author = {Hansch, Gerhard and Schneider, Peter and Brost, Gerd Stefan},
+booktitle = {Proceedings of the 5th on Cyber-Physical System Security Workshop},
+doi = {10.1145/3327961.3329528},
+isbn = {978-1-4503-6787-5},
+keywords = {IIoT,cyber-physical system security,modeling,network monitoring,protection measures,requirement prioritization,security measure monitoring,security objective relevance},
+pages = {37--45},
+publisher = {ACM},
+series = {CPSS '19},
+title = {{Deriving Impact-driven Security Requirements and Monitoring Measures for Industrial IoT}},
+url = {http://doi.acm.org/10.1145/3327961.3329528},
+year = {2019}
+}
+@inproceedings{li2017design,
+author = {Li, Yuqian and Li, Peng and Zhu, Feng and Wang, Ruchuan},
+booktitle = {2017 12th International Conference on Computer Science and Education (ICCSE)},
+organization = {IEEE},
+pages = {337--342},
+title = {{Design of higher education quality monitoring and evaluation platform based on big data}},
+year = {2017}
+}
+@inproceedings{zhou2018doppio,
+author = {Zhou, Peipei and Ruan, Zhenyuan and Fang, Zhenman and Shand, Megan and Roazen, David and Cong, Jason},
+booktitle = {2018 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+organization = {IEEE},
+pages = {22--32},
+title = {{Doppio: I/O-aware performance analysis, modeling and optimization for in-memory computing framework}},
+year = {2018}
+}
+@inproceedings{cao2018dynamic,
+author = {Cao, Wenqi and Liu, Ling},
+booktitle = {2018 IEEE International Conference on Big Data (Big Data)},
+organization = {IEEE},
+pages = {191--200},
+title = {{Dynamic and Transparent Memory Sharing for Accelerating Big Data Analytics Workloads in Virtualized Cloud}},
+year = {2018}
+}
+@article{dan2017dynamic,
+author = {Dan, Eva Zhou},
+title = {{DYNAMIC SPARK OPTIMIZER}},
+year = {2017}
+}
+@article{ziheng2017dynamic,
+author = {Ziheng, Greg Liao and Dan, Eva Zhou},
+title = {{DYNAMIC SPARK OPTIMIZER}},
+year = {2017}
+}
+@article{duan2017energy,
+author = {Duan, Kairong and Fong, Simon and Song, Wei and Vasilakos, Athanasios and Wong, Raymond},
+journal = {Sustainability},
+number = {12},
+pages = {2357},
+publisher = {Multidisciplinary Digital Publishing Institute},
+title = {{Energy-Aware Cluster Reconfiguration Algorithm for the Big Data Analytics Platform Spark}},
+volume = {9},
+year = {2017}
+}
+@inproceedings{Correndo:2016:EMI:2993318.2993330,
+address = {New York, NY, USA},
+author = {Correndo, Gianluca and Crowle, Simon and Papay, Juri and Boniface, Michael},
+booktitle = {Proceedings of the 12th International Conference on Semantic Systems},
+doi = {10.1145/2993318.2993330},
+isbn = {978-1-4503-4752-5},
+keywords = {IoT,Marine industry,data value chain,linked data},
+pages = {161--168},
+publisher = {ACM},
+series = {SEMANTiCS 2016},
+title = {{Enhancing Marine Industry Risk Management Through Semantic Reconciliation of Underwater IoT Data Streams}},
+url = {http://doi.acm.org/10.1145/2993318.2993330},
+year = {2016}
+}
+@inproceedings{Agarwal:2016:EML:2996890.3007861,
+address = {New York, NY, USA},
+author = {Agarwal, Bikash and Chakravorty, Antorweep and Wiktorski, Tomasz and Rong, Chunming},
+booktitle = {Proceedings of the 9th International Conference on Utility and Cloud Computing},
+doi = {10.1145/2996890.3007861},
+isbn = {978-1-4503-4616-0},
+keywords = {aging in place (AIP),ensemble learning,internet of things (IOT),machine learning,smart homes},
+pages = {196--201},
+publisher = {ACM},
+series = {UCC '16},
+title = {{Enrichment of Machine Learning Based Activity Classification in Smart Homes Using Ensemble Learning}},
+url = {http://doi.acm.org/10.1145/2996890.3007861},
+year = {2016}
+}
+@inproceedings{tian2015evolution,
+author = {Tian, Xinhui and Lu, Gang and Zhou, Xiexuan and Li, Jingwei},
+booktitle = {BPOE},
+organization = {Springer},
+pages = {67--80},
+title = {{Evolution from Shark to Spark SQL: Preliminary Analysis and Qualitative Evaluation}},
+year = {2015}
+}
+@article{al2018experimenting,
+author = {Al-Zobbi, Mohammed and Shahrestani, Seyed and Ruan, Chun},
+journal = {Journal of Big Data},
+number = {1},
+pages = {38},
+publisher = {Springer},
+title = {{Experimenting sensitivity-based anonymization framework in apache spark}},
+volume = {5},
+year = {2018}
+}
+@article{brito2016faster,
+author = {Brito, Jaqueline Joice and Mosqueiro, Thiago and Ciferri, Ricardo Rodrigues and {de Aguiar Ciferri}, Cristina Dutra},
+journal = {Procedia Computer Science},
+pages = {74--85},
+publisher = {Elsevier},
+title = {{Faster cloud star joins with reduced disk spill and network communication}},
+volume = {80},
+year = {2016}
+}
+@article{paakkonen2016feasibility,
+author = {P{\"{a}}{\"{a}}kk{\"{o}}nen, Pekka},
+journal = {Journal of Big Data},
+number = {1},
+pages = {6},
+publisher = {Nature Publishing Group},
+title = {{Feasibility analysis of AsterixDB and Spark streaming with Cassandra for stream-based processing}},
+volume = {3},
+year = {2016}
+}
+@inproceedings{Kiciman:2010:FSI:1807128.1807147,
+address = {New York, NY, USA},
+author = {Kiciman, Emre and Livshits, Benjamin and Musuvathi, Madanlal and Webb, Kevin C},
+booktitle = {Proceedings of the 1st ACM Symposium on Cloud Computing},
+doi = {10.1145/1807128.1807147},
+isbn = {978-1-4503-0036-0},
+keywords = {compiler optimizations,languages for datacenter programming},
+pages = {107--118},
+publisher = {ACM},
+series = {SoCC '10},
+title = {{Fluxo: A System for Internet Service Programming by Non-expert Developers}},
+url = {http://doi.acm.org/10.1145/1807128.1807147},
+year = {2010}
+}
+@mastersthesis{muazzen2018framework,
+author = {Muazzen, Osama},
+title = {{Framework for automatic selection of analytic platforms for data mining tasks}},
+year = {2018}
+}
+@phdthesis{costan2019big,
+author = {Costan, Alexandru},
+title = {{From Big Data to Fast Data: Efficient Stream Data Management}},
+year = {2019}
+}
+@inproceedings{cao2016bigbench,
+author = {Cao, Paul and Gowda, Bhaskar and Lakshmi, Seetha and Narasimhadevara, Chinmayi and Nguyen, Patrick and Poelman, John and Poess, Meikel and Rabl, Tilmann},
+booktitle = {Technology Conference on Performance Evaluation and Benchmarking},
+organization = {Springer},
+pages = {24--44},
+title = {{From bigbench to TPCx-BB: Standardization of a big data benchmark}},
+year = {2016}
+}
+@inproceedings{janakiram2018gas,
+author = {Janakiram, Dharanipragada and Balaji, S J and Dhumal, Akshay and Garg, Nishank and Kulkarni, Ganesh},
+booktitle = {Proceedings of the 47th International Conference on Parallel Processing Companion},
+organization = {ACM},
+pages = {47},
+title = {{GAS: GPU Assisted Process Scheduling for Multicore Systems}},
+year = {2018}
+}
+@inproceedings{erb2018graphtides,
+author = {Erb, Benjamin and Mei{\ss}ner, Dominik and Kargl, Frank and Steer, Benjamin A and Cuadrado, Felix and Margan, Domagoj and Pietzuch, Peter},
+booktitle = {Proceedings of the 1st ACM SIGMOD Joint International Workshop on Graph Data Management Experiences {\&} Systems (GRADES) and Network Data Analytics (NDA)},
+organization = {ACM},
+pages = {3},
+title = {{Graphtides: a framework for evaluating stream-based graph processing platforms}},
+year = {2018}
+}
+@misc{gureev2018hive,
+author = {Gureev, Nikita},
+title = {{Hive, Spark, Presto for Interactive Queries on Big Data}},
+year = {2018}
+}
+@inproceedings{wu2018hw3c,
+author = {Wu, Yuewen and Wu, Heng and Zhang, Wenbo and Xu, Yuanjia and Wei, Jun and Zhong, Hua},
+booktitle = {Proceedings of the Tenth Asia-Pacific Symposium on Internetware},
+organization = {ACM},
+pages = {8},
+title = {{HW3C: A Heuristic based Workload Classification and Cloud Configuration Approach for Big Data Analytics}},
+year = {2018}
+}
+@phdthesis{cheng2016improving,
+author = {Cheng, Dazhao},
+school = {University of Colorado Colorado Springs. Kraemer Family Library},
+title = {{Improving performance and sustainability in Big Data Clouds}},
+year = {2016}
+}
+@inproceedings{marco2017improving,
+author = {Marco, Vicent Sanz and Taylor, Ben and Porter, Barry and Wang, Zheng},
+booktitle = {Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference},
+organization = {ACM},
+pages = {95--108},
+title = {{Improving spark application throughput via memory aware task co-location: a mixture of experts approach}},
+year = {2017}
+}
+@article{chen2016integrating,
+author = {Chen, Ting-Li and Chang, Dawei D and Huang, Su-Yun and Chen, Hung and Lin, Chienyao and Wang, Weichung},
+journal = {arXiv preprint arXiv:1608.08285},
+title = {{Integrating multiple random sketches for singular value decomposition}},
+year = {2016}
+}
+@inproceedings{DeFrancisciMorales:2016:IBD:2939672.2945385,
+address = {New York, NY, USA},
+author = {{De Francisci Morales}, Gianmarco and Bifet, Albert and Khan, Latifur and Gama, Joao and Fan, Wei},
+booktitle = {Proceedings of the 22Nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+doi = {10.1145/2939672.2945385},
+isbn = {978-1-4503-4232-2},
+keywords = {IoT,big data,data science,data streams},
+pages = {2119--2120},
+publisher = {ACM},
+series = {KDD '16},
+title = {{IoT Big Data Stream Mining}},
+url = {http://doi.acm.org/10.1145/2939672.2945385},
+year = {2016}
+}
+@inproceedings{Kleinelanghorst:2017:JSR:3018896.3025155,
+address = {New York, NY, USA},
+author = {Kleinelanghorst, Martin J and Zhou, Li and Sikorski, Janusz and Shyh, Eddy Foo Yi and Aditya, Kevin and Mosbach, Sebastian and Karimi, Iftekhar and Lau, Raymond and Kraft, Markus},
+booktitle = {Proceedings of the Second International Conference on Internet of Things, Data and Cloud Computing},
+doi = {10.1145/3018896.3025155},
+isbn = {978-1-4503-4774-7},
+keywords = {cross-domain ontology,eco-industrial park,industry 4.0,internet of things,ontoCAPE,semantic web,surrogate model},
+pages = {107:1----107:10},
+publisher = {ACM},
+series = {ICC '17},
+title = {{J-park Simulator: Roadmap to Smart Eco-industrial Parks}},
+url = {http://doi.acm.org/10.1145/3018896.3025155},
+year = {2017}
+}
+@inproceedings{bae2017jointly,
+author = {Bae, Jonghyun and Jang, Hakbeom and Jin, Wenjing and Heo, Jun and Jang, Jaeyoung and Hwang, Joo-Young and Cho, Sangyeun and Lee, Jae W},
+booktitle = {2017 IEEE International Conference on Big Data (Big Data)},
+organization = {IEEE},
+pages = {130--140},
+title = {{Jointly optimizing task granularity and concurrency for in-memory mapreduce frameworks}},
+year = {2017}
+}
+@inproceedings{Persson:2017:KSI:3154847.3154853,
+address = {New York, NY, USA},
+author = {Persson, Per and Angelsmark, Ola},
+booktitle = {Proceedings of the 2Nd International Workshop on Serverless Computing},
+doi = {10.1145/3154847.3154853},
+isbn = {978-1-4503-5434-9},
+keywords = {FaaS,IoT,actor model,cloud computing,data flow,serverless},
+pages = {16--21},
+publisher = {ACM},
+series = {WoSC '17},
+title = {{Kappa: Serverless IoT Deployment}},
+url = {http://doi.acm.org/10.1145/3154847.3154853},
+year = {2017}
+}
+@article{kim2017kill,
+author = {Kim, Jinchun and Teran, Elvira and Gratz, Paul V and Jim{\'{e}}nez, Daniel A and Pugsley, Seth H and Wilkerson, Chris},
+journal = {ACM SIGARCH Computer Architecture News},
+number = {1},
+pages = {737--749},
+publisher = {ACM},
+title = {{Kill the program counter: Reconstructing program behavior in the processor cache hierarchy}},
+volume = {45},
+year = {2017}
+}
+@inproceedings{van2018latency,
+author = {van Dongen, Giselle and Steurtewagen, Bram and den Poel, Dirk},
+booktitle = {2018 IEEE International Congress on Big Data (BigData Congress)},
+organization = {IEEE},
+pages = {247--250},
+title = {{Latency Measurement of Fine-Grained Operations in Benchmarking Distributed Stream Processing Frameworks}},
+year = {2018}
+}
+@inproceedings{wang2018lcrc,
+author = {Wang, Bo and Tang, Jie and Zhang, Rui and Ding, Wei and Qi, Deyu},
+booktitle = {2018 IEEE Intl Conf on Parallel {\&} Distributed Processing with Applications, Ubiquitous Computing {\&} Communications, Big Data {\&} Cloud Computing, Social Computing {\&} Networking, Sustainable Computing {\&} Communications (ISPA/IUCC/BDCloud/SocialCom/SustainCom)},
+organization = {IEEE},
+pages = {956--963},
+title = {{LCRC: A Dependency-Aware Cache Management Policy for Spark}},
+year = {2018}
+}
+@inproceedings{lu2017log,
+author = {Lu, Siyang and Rao, BingBing and Wei, Xiang and Tak, Byungchul and Wang, Long and Wang, Liqiang},
+booktitle = {2017 IEEE International Conference on Web Services (ICWS)},
+organization = {IEEE},
+pages = {389--396},
+title = {{Log-based abnormal task detection and root cause analysis for spark}},
+year = {2017}
+}
+@inproceedings{yu2017lrc,
+author = {Yu, Yinghao and Wang, Wei and Zhang, Jun and Letaief, Khaled Ben},
+booktitle = {IEEE INFOCOM 2017-IEEE Conference on Computer Communications},
+organization = {IEEE},
+pages = {1--9},
+title = {{LRC: Dependency-aware cache management for data analytics clusters}},
+year = {2017}
+}
+@incollection{heilig2017managing,
+author = {Heilig, Leonard and Vo{\ss}, Stefan},
+booktitle = {Big Data Management},
+pages = {29--45},
+publisher = {Springer},
+title = {{Managing Cloud-Based Big Data Platforms: A Reference Architecture and Cost Perspective}},
+year = {2017}
+}
+@article{abumegos,
+author = {Abu-Dbai, Abed and Ahmed, Khalid and Breitgand, David and Gershinsky, Gidon and Glikson, Alex},
+title = {{Megos: Enterprise Resource Management in Mesos Clusters}}
+}
+@phdthesis{fedorov2016memory,
+author = {FEDOROV, VIACHESLAV},
+school = {Texas A{\&}M University},
+title = {{MEMORY MANAGEMENT FOR EMERGING MEMORY TECHNOLOGIES}},
+year = {2016}
+}
+@inproceedings{xu2016memtune,
+author = {Xu, Luna and Li, Min and Zhang, Li and Butt, Ali R and Wang, Yandong and Hu, Zane Zhenhua},
+booktitle = {2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS)},
+organization = {IEEE},
+pages = {383--392},
+title = {{Memtune: Dynamic memory management for in-memory data analytic platforms}},
+year = {2016}
+}
+@phdthesis{poss2017methodologies,
+author = {P{\"{o}}ss, Meikel},
+school = {Technische Universit{\"{a}}t M{\"{u}}nchen},
+title = {{Methodologies for a Comprehensive Approach to Measuring the Performance of Decision Support Systems}},
+year = {2017}
+}
+@phdthesis{vasilyev2015migration,
+author = {Vasilyev, Leonid},
+school = {Dublin, National College of Ireland},
+title = {{Migration of batch log-processing job from Apache Hadoop Map-Reduce to Apache Spark in the public cloud}},
+year = {2015}
+}
+@inproceedings{Jiang:2017:MPD:3148055.3148082,
+address = {New York, NY, USA},
+author = {Jiang, Jun and Zhao, Xinghui and Wallace, Scott and Cotilla-Sanchez, Eduardo and Bass, Robert},
+booktitle = {Proceedings of the Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies},
+doi = {10.1145/3148055.3148082},
+isbn = {978-1-4503-5549-0},
+keywords = {artificial neural network (ann),cyber security,data analytics,machine learning,phasor measurement unit (pmu),smart grid,support vector machine (svm),tensorflow},
+pages = {95--102},
+publisher = {ACM},
+series = {BDCAT '17},
+title = {{Mining PMU Data Streams to Improve Electric Power System Resilience}},
+url = {http://doi.acm.org/10.1145/3148055.3148082},
+year = {2017}
+}
+@article{matri2018mission,
+author = {Matri, Pierre and Alforov, Yevhen and Brandon, Alvaro and P{\'{e}}rez, Mar$\backslash$'$\backslash$ia S and Costan, Alexandru and Antoniu, Gabriel and Kuhn, Michael and Carns, Philip and Ludwig, Thomas},
+journal = {Future Generation Computer Systems},
+publisher = {Elsevier},
+title = {{Mission possible: Unify HPC and Big Data stacks towards application-defined blobs at the storage layer}},
+year = {2018}
+}
+@phdthesis{zhou2019modeling,
+author = {Zhou, Peipei},
+school = {UCLA},
+title = {{Modeling and Optimization for Customized Computing: Performance, Energy and Cost Perspective}},
+year = {2019}
+}
+@inproceedings{Al-Ali:2018:MDT:3241403.3241450,
+address = {New York, NY, USA},
+author = {Al-Ali, Rima and Heinrich, Robert and Hnetynka, Petr and Juan-Verdejo, Adrian and Seifermann, Stephan and Walter, Maximilian},
+booktitle = {Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings},
+doi = {10.1145/3241403.3241450},
+isbn = {978-1-4503-6483-6},
+keywords = {confidentiality,industry 4.0,security enforcement},
+pages = {45:1----45:4},
+publisher = {ACM},
+series = {ECSA '18},
+title = {{Modeling of Dynamic Trust Contracts for Industry 4.0 Systems}},
+url = {http://doi.acm.org/10.1145/3241403.3241450},
+year = {2018}
+}
+@inproceedings{vogler2016non,
+author = {V{\"{o}}gler, Michael and Schleicher, Johannes M and Inzinger, Christian and Nickel, Bernhard and Dustdar, Schahram},
+booktitle = {2016 IEEE Symposium on Service-Oriented System Engineering (SOSE)},
+organization = {IEEE},
+pages = {162--171},
+title = {{Non-intrusive monitoring of stream processing applications}},
+year = {2016}
+}
+@inproceedings{taneja2016optimization,
+author = {Taneja, Rohit and Krishnamurthy, Rajaram B and Liu, Gang},
+booktitle = {Proceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA)},
+organization = {The Steering Committee of The World Congress in Computer Science, Computer{\~{}}{\ldots}},
+pages = {163},
+title = {{Optimization of Machine Learning on Apache Spark}},
+year = {2016}
+}
+@inproceedings{feng2016optimization,
+author = {Feng, Yunping and Chen, Haopeng},
+booktitle = {2016 International Conference on Progress in Informatics and Computing (PIC)},
+organization = {IEEE},
+pages = {473--478},
+title = {{Optimization of spark storage solutions}},
+year = {2016}
+}
+@article{sakr2018origins,
+author = {Sakr, S and Zomaya, A},
+title = {{Origins and CPU-Oriented Benchmarks}},
+year = {2018}
+}
+@article{lopez2017overcrowding,
+author = {Lopez-Novoa, Unai and Aguilera, Unai and Emaldi, Mikel and L{\'{o}}pez-De-Ipi{\~{n}}a, Diego and P{\'{e}}rez-De-Albeniz, Iker and Valerdi, David and Iturricha, Ibai and Arza, Eneko},
+journal = {Personal and Ubiquitous Computing},
+number = {3},
+pages = {507--519},
+publisher = {Springer},
+title = {{Overcrowding detection in indoor events using scalable technologies}},
+volume = {21},
+year = {2017}
+}
+@inproceedings{que2016performance,
+author = {Que, Xinyu and Schneidenbach, Lars and Checconi, Fabio and Costa, Carlos H {\~{A}} and Buono, Daniele},
+booktitle = {International Conference on High Performance Computing},
+organization = {Springer},
+pages = {268--285},
+title = {{Performance Analysis of Spark/GraphX on POWER8 Cluster}},
+year = {2016}
+}
+@inproceedings{amaral2018performance,
+author = {Amaral, Marcelo and Polo, Jord{\`{a}} and Carrera, David and Others},
+booktitle = {2018 IEEE Fourth International Conference on Big Data Computing Service and Applications (BigDataService)},
+organization = {IEEE},
+pages = {41--48},
+title = {{Performance characterization of spark workloads on shared NUMA Systems}},
+year = {2018}
+}
+@phdthesis{sabiu2018performance,
+author = {Sabiu, Habib Ado},
+school = {University of Saskatchewan},
+title = {{Performance Evaluation of Job Scheduling and Resource Allocation in Apache Spark}},
+year = {2018}
+}
+@inproceedings{lama2018performance,
+author = {Lama, Palden and Wang, Shaoqi and Zhou, Xiaobo and Cheng, Dazhao},
+booktitle = {2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS)},
+organization = {IEEE},
+pages = {85--94},
+title = {{Performance isolation of data-intensive scale-out applications in a multi-tenant cloud}},
+year = {2018}
+}
+@article{gianniti2018performance,
+author = {Gianniti, Eugenio},
+publisher = {Italy},
+title = {{Performance models, design and run time management of big data applications}},
+year = {2018}
+}
+@inproceedings{dong2017performance,
+author = {Dong, Lu and Li, Peng and Xu, He and Luo, Baozhou and Mi, Yu},
+booktitle = {International Symposium on Parallel Architecture, Algorithm and Programming},
+organization = {Springer},
+pages = {70--81},
+title = {{Performance Prediction of Spark Based on the Multiple Linear Regression Analysis}},
+year = {2017}
+}
+@inproceedings{chen2018performance,
+author = {Chen, Chen and Wang, Wei and Li, Bo},
+booktitle = {IEEE INFOCOM 2018-IEEE Conference on Computer Communications},
+organization = {IEEE},
+pages = {504--512},
+title = {{Performance-aware fair scheduling: Exploiting demand elasticity of data analytics jobs}},
+year = {2018}
+}
+@inproceedings{zervakis2016performance,
+author = {Zervakis, Georgios and Xydis, Sotirios and Soudris, Dimitrios},
+booktitle = {2016 International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)},
+organization = {IEEE},
+pages = {312--319},
+title = {{Performance-power exploration of software-defined big data analytics: The aegle cloud backend}},
+year = {2016}
+}
+@inproceedings{Bellavista:2014:PRS:2759989.2760069,
+address = {Washington, DC, USA},
+author = {Bellavista, Paolo and Corradi, Antonio and Reale, Andrea and Ticca, Nicola},
+booktitle = {Proceedings of the 2014 IEEE/ACM 7th International Conference on Utility and Cloud Computing},
+doi = {10.1109/UCC.2014.46},
+isbn = {978-1-4799-7881-6},
+keywords = {Application-level and Application-specific Schedu,Big Data,Cloud Computing Optimization,Distributed Stream Processing,Priority-based Resource Scheduling,Vehicular Traffic Analysis},
+pages = {363--370},
+publisher = {IEEE Computer Society},
+series = {UCC '14},
+title = {{Priority-Based Resource Scheduling in Distributed Stream Processing Systems for Big Data Applications}},
+url = {http://dx.doi.org/10.1109/UCC.2014.46},
+year = {2014}
+}
+@inproceedings{xu2016prophet,
+author = {Xu, Guoyao and Xu, Cheng-Zhong and Jiang, Song},
+booktitle = {2016 IEEE International Conference on Autonomic Computing (ICAC)},
+organization = {IEEE},
+pages = {45--54},
+title = {{Prophet: Scheduling executors with time-varying resource demands on data-parallel computation frameworks}},
+year = {2016}
+}
+@article{thomas2018pushing,
+author = {Thomas, Anthony and Guo, Yunhui and Kim, Yeseong and Aksanli, Baris and Kumar, Arun and Rosing, Tajana S},
+title = {{Pushing Down Machine Learning Inference to the Edge in Heterogeneous Internet of Things Applications}},
+year = {2018}
+}
+@inproceedings{yan2016r3s,
+author = {Yan, Xinan and Wong, Bernard and Choy, Sharon},
+booktitle = {Proceedings of the 15th International Workshop on Adaptive and Reflective Middleware},
+organization = {ACM},
+pages = {4},
+title = {{R3S: RDMA-based RDD Remote Storage for Spark}},
+year = {2016}
+}
+@inproceedings{Khare:2015:RSP:2675743.2771880,
+address = {New York, NY, USA},
+author = {Khare, Shweta and An, Kyoungho and Gokhale, Aniruddha and Tambe, Sumant and Meena, Ashish},
+booktitle = {Proceedings of the 9th ACM International Conference on Distributed Event-Based Systems},
+doi = {10.1145/2675743.2771880},
+isbn = {978-1-4503-3286-6},
+keywords = {data distribution service (DDS),publish/subscribe,reactive extensions (Rx),reactive programming,stream processing},
+pages = {234--245},
+publisher = {ACM},
+series = {DEBS '15},
+title = {{Reactive Stream Processing for Data-centric Publish/Subscribe}},
+url = {http://doi.acm.org/10.1145/2675743.2771880},
+year = {2015}
+}
+@article{Kejariwal:2015:RTA:2824032.2824132,
+author = {Kejariwal, Arun and Kulkarni, Sanjeev and Ramasamy, Karthik},
+doi = {10.14778/2824032.2824132},
+issn = {2150-8097},
+journal = {Proc. VLDB Endow.},
+number = {12},
+pages = {2040--2041},
+publisher = {VLDB Endowment},
+title = {{Real Time Analytics: Algorithms and Systems}},
+url = {http://dx.doi.org/10.14778/2824032.2824132},
+volume = {8},
+year = {2015}
+}
+@article{Dayarathna:2018:RAE:3186333.3170432,
+address = {New York, NY, USA},
+author = {Dayarathna, Miyuru and Perera, Srinath},
+doi = {10.1145/3170432},
+issn = {0360-0300},
+journal = {ACM Comput. Surv.},
+keywords = {Event processing,complex event processing,data stream processing},
+number = {2},
+pages = {33:1----33:36},
+publisher = {ACM},
+title = {{Recent Advancements in Event Processing}},
+url = {http://doi.acm.org/10.1145/3170432},
+volume = {51},
+year = {2018}
+}
+@phdthesis{kim2017reference,
+author = {Kim, Jinchun},
+title = {{Reference Speculation-driven Memory Management}},
+year = {2017}
+}
+@inproceedings{perez2018reference,
+author = {Perez, Tiago B G and Zhou, Xiaobo and Cheng, Dazhao},
+booktitle = {Proceedings of the 47th International Conference on Parallel Processing},
+organization = {ACM},
+pages = {88},
+title = {{Reference-distance eviction and prefetching for cache management in spark}},
+year = {2018}
+}
+@article{manotas2015resource,
+author = {Manotas, Irene and Zhang, Rui and Li, Min and Tewari, Renu and Hildebrand, Dean},
+journal = {Proc. ACM Supercomputing (SC15)},
+title = {{Resource Usage Characterization for Social Networks Analytics on Spark}},
+year = {2015}
+}
+@phdthesis{malgazhdarov2018scalable,
+author = {Malgazhdarov, Timur},
+title = {{Scalable Collaborative Caching and Storage Platform for Data Analytics}},
+year = {2018}
+}
+@article{yang2016scheduling,
+author = {Yang, Hu and Lin, Su},
+journal = {DEStech Transactions on Social Science, Education and Human Science},
+number = {asshm},
+title = {{Scheduling Executors with Time-varying Resource Demands on Data-Parallel Computation Frameworks}},
+year = {2016}
+}
+@inproceedings{Vakali:2014:SCD:2611040.2611094,
+address = {New York, NY, USA},
+author = {Vakali, Athena and Anthopoulos, Leonidas and Krco, Srdjan},
+booktitle = {Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics (WIMS14)},
+doi = {10.1145/2611040.2611094},
+isbn = {978-1-4503-2538-7},
+keywords = {Data Management,Data Modeling,Smart City,Smart Government,Smart People,Visualization},
+pages = {60:1----60:5},
+publisher = {ACM},
+series = {WIMS '14},
+title = {{Smart Cities Data Streams Integration: Experimenting with Internet of Things and Social Data Flows}},
+url = {http://doi.acm.org/10.1145/2611040.2611094},
+year = {2014}
+}
+@article{westphal2019sml,
+author = {Westphal, Patrick and B{\"{u}}hmann, Lorenz and Bin, Simon and Jabeen, Hajira and Lehmann, Jens},
+journal = {Semantic Web},
+number = {Preprint},
+pages = {1--15},
+publisher = {IOS Press},
+title = {{SML-Bench--A benchmarking framework for structured machine learning}},
+year = {2019}
+}
+@article{li2018spark,
+author = {Li, Peng and Dong, Lu and Xu, He and Lau, Ting Fung},
+journal = {Journal of High Speed Networks},
+number = {1},
+pages = {49--62},
+publisher = {IOS Press},
+title = {{Spark's operation time predictive in cloud computing environment based on SRC-WSVR}},
+volume = {24},
+year = {2018}
+}
+@inproceedings{agrawal2015sparkbench,
+author = {Agrawal, Dakshi and Butt, Ali and Doshi, Kshitij and Larriba-Pey, Josep-L and Li, Min and Reiss, Frederick R and Raab, Francois and Schiefer, Berni and Suzumura, Toyotaro and Xia, Yinglong},
+booktitle = {Technology Conference on Performance Evaluation and Benchmarking},
+organization = {Springer},
+pages = {26--44},
+title = {{SparkBench--a spark performance testing suite}},
+year = {2015}
+}
+@inproceedings{Li:2015:SCB:2742854.2747283,
+address = {New York, NY, USA},
+author = {Li, Min and Tan, Jian and Wang, Yandong and Zhang, Li and Salapura, Valentina},
+booktitle = {Proceedings of the 12th ACM International Conference on Computing Frontiers},
+doi = {10.1145/2742854.2747283},
+isbn = {978-1-4503-3358-0},
+keywords = {benchmarking,cloud computing,evaluation,in memory data analytics,spark},
+pages = {53:1----53:8},
+publisher = {ACM},
+series = {CF '15},
+title = {{SparkBench: A Comprehensive Benchmarking Suite for in Memory Data Analytic Platform Spark}},
+url = {http://doi.acm.org/10.1145/2742854.2747283},
+year = {2015}
+}
+@article{li2017sparkbench,
+author = {Li, Min and Tan, Jian and Wang, Yandong and Zhang, Li and Salapura, Valentina},
+journal = {Cluster Computing},
+number = {3},
+pages = {2575--2589},
+publisher = {Springer},
+title = {{SparkBench: a spark benchmarking suite characterizing large-scale in-memory data analytics}},
+volume = {20},
+year = {2017}
+}
+@inproceedings{garg2018sparker,
+author = {Garg, Nishank and Janakiram, Dharanipragada},
+booktitle = {2018 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)},
+organization = {IEEE},
+pages = {1--8},
+title = {{Sparker: Optimizing Spark for Heterogeneous Clusters}},
+year = {2018}
+}
+@inproceedings{fedorov2017speculative,
+author = {Fedorov, Viacheslav and Kim, Jinchun and Qin, Mian and Gratz, Paul V and Reddy, A L},
+booktitle = {Proceedings of the International Symposium on Memory Systems},
+organization = {ACM},
+pages = {399--410},
+title = {{Speculative paging for future NVM storage}},
+year = {2017}
+}
+@inproceedings{chen2017speculative,
+author = {Chen, Chen and Wang, Wei and Li, Bo},
+booktitle = {2017 IEEE 37th International Conference on Distributed Computing Systems (ICDCS)},
+organization = {IEEE},
+pages = {549--559},
+title = {{Speculative slot reservation: Enforcing service isolation for dependent data-parallel computations}},
+year = {2017}
+}
+@inproceedings{gibilisco2016stage,
+author = {Gibilisco, Giovanni Paolo and Li, Min and Zhang, Li and Ardagna, Danilo},
+booktitle = {2016 IEEE 9th International Conference on Cloud Computing (CLOUD)},
+organization = {IEEE},
+pages = {188--195},
+title = {{Stage aware performance modeling of DAG based in memory analytic platforms}},
+year = {2016}
+}
+@article{Ren:2017:SAI:3137765.3137805,
+author = {Ren, Xiangnan and Cur{\'{e}}, Olivier and Ke, Li and Lhez, Jeremy and Belabbess, Badre and Randriamalala, Tendry and Zheng, Yufan and Kepeklian, Gabriel},
+doi = {10.14778/3137765.3137805},
+issn = {2150-8097},
+journal = {Proc. VLDB Endow.},
+number = {12},
+pages = {1905--1908},
+publisher = {VLDB Endowment},
+title = {{Strider: An Adaptive, Inference-enabled Distributed RDF Stream Processing Engine}},
+url = {https://doi.org/10.14778/3137765.3137805},
+volume = {10},
+year = {2017}
+}
+@article{Yan:2018:SMR:3291264.3308986,
+author = {Yan, Yizhou and Cao, Lei and Madden, Samuel and Rundensteiner, Elke A},
+doi = {10.14778/3291264.3291271},
+issn = {2150-8097},
+journal = {Proc. VLDB Endow.},
+number = {3},
+pages = {265--277},
+publisher = {VLDB Endowment},
+title = {{SWIFT: Mining Representative Patterns from Large Event Streams}},
+url = {https://doi.org/10.14778/3291264.3291271},
+volume = {12},
+year = {2018}
+}
+@inproceedings{matri2018tyrfs,
+author = {Matri, Pierre and P{\'{e}}rez, Mar$\backslash$'$\backslash$ia S and Costan, Alexandru and Antoniu, Gabriel},
+booktitle = {Proceedings of the 18th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing},
+organization = {IEEE Press},
+pages = {452--461},
+title = {{T{\{}$\backslash$`y{\}}rFS: increasing small files access performance with dynamic metadata replication}},
+year = {2018}
+}
+@inproceedings{Dong:2011:TDM:2064085.2064095,
+address = {New York, NY, USA},
+author = {Dong, Yuxiao and Ke, Qing and Cai, Yanan and Wu, Bin and Wang, Bai},
+booktitle = {Proceedings of the Third International Workshop on Cloud Data Management},
+doi = {10.1145/2064085.2064095},
+isbn = {978-1-4503-0956-1},
+keywords = {cloud computing,data mining,mapreduce,social network analysis,statistics analysis,telecommunication},
+pages = {41--48},
+publisher = {ACM},
+series = {CloudDB '11},
+title = {{TeleDatA: Data Mining, Social Network Analysis and Statistics Analysis System Based on Cloud Computing in Telecommunication Industry}},
+url = {http://doi.acm.org/10.1145/2064085.2064095},
+year = {2011}
+}
+@article{lee2018tensorlightning,
+author = {Lee, Seil and Kim, Hanjoo and Park, Jaehong and Jang, Jaehee and Jeong, Chang-Sung and Yoon, Sungroh},
+journal = {IEEE Access},
+pages = {27671--27680},
+publisher = {IEEE},
+title = {{TensorLightning: A traffic-efficient distributed deep learning on commodity spark clusters}},
+volume = {6},
+year = {2018}
+}
+@article{Michahelles:2015:TWS:2872292.2845163,
+address = {New York, NY, USA},
+author = {Michahelles, Florian and Mayer, Simon},
+doi = {10.1145/2845163},
+issn = {1528-4972},
+journal = {XRDS},
+number = {2},
+pages = {62--67},
+publisher = {ACM},
+title = {{Toward a Web of Systems}},
+url = {http://doi.acm.org/10.1145/2845163},
+volume = {22},
+year = {2015}
+}
+@inproceedings{Sinaeepourfard:2016:TCD:3006299.3006311,
+address = {New York, NY, USA},
+author = {Sinaeepourfard, Amir and Garcia, Jordi and Masip-Bruin, Xavier and Mar$\backslash$'$\backslash$in-Torder, Eva},
+booktitle = {Proceedings of the 3rd IEEE/ACM International Conference on Big Data Computing, Applications and Technologies},
+doi = {10.1145/3006299.3006311},
+isbn = {978-1-4503-4617-7},
+keywords = {big data,data complexity,data lifecycle,data management,data organization,vs challenges},
+pages = {100--106},
+publisher = {ACM},
+series = {BDCAT '16},
+title = {{Towards a Comprehensive Data Lifecycle Model for Big Data Environments}},
+url = {http://doi.acm.org/10.1145/3006299.3006311},
+year = {2016}
+}
+@inproceedings{nguyen2018towards,
+author = {Nguyen, Nhan and Khan, Mohammad Maifi Hasan and Wang, Kewen},
+booktitle = {2018 IEEE 11th International Conference on Cloud Computing (CLOUD)},
+organization = {IEEE},
+pages = {417--425},
+title = {{Towards automatic tuning of apache spark configuration}},
+year = {2018}
+}
+@article{nghiem2016towards,
+author = {Nghiem, Peter P and Figueira, Silvia M},
+journal = {Journal of Parallel and Distributed Computing},
+pages = {29--41},
+publisher = {Elsevier},
+title = {{Towards efficient resource provisioning in MapReduce}},
+volume = {95},
+year = {2016}
+}
+@phdthesis{zhang2018tuning,
+author = {Zhang, Jenne},
+title = {{Tuning Spark Performance}},
+year = {2018}
+}
+@inproceedings{wang2016understanding,
+author = {Wang, Li and Xu, Tianni and Wang, Jing and Zhang, Weigong and Sui, Xiufeng and Bao, Yungang},
+booktitle = {Proceedings of the Posters and Demos Session of the 17th International Middleware Conference},
+organization = {ACM},
+pages = {1--2},
+title = {{Understanding the behavior of spark workloads from linux kernel parameters perspective}},
+year = {2016}
+}
+@inproceedings{nguyen2017understanding,
+author = {Nguyen, Nhan and Khan, Mohammad Maifi Hasan and Albayram, Yusuf and Wang, Kewen},
+booktitle = {2017 IEEE 10th International Conference on Cloud Computing (CLOUD)},
+organization = {IEEE},
+pages = {802--807},
+title = {{Understanding the influence of configuration settings: An execution model-driven framework for apache spark platform}},
+year = {2017}
+}
+@article{hernandez2018using,
+author = {Hern{\'{a}}ndez, {\'{A}}lvaro Brand{\'{o}}n and Perez, Mar$\backslash$'$\backslash$ia S and Gupta, Smrati and Munt{\'{e}}s-Mulero, Victor},
+journal = {Future Generation Computer Systems},
+pages = {1076--1092},
+publisher = {Elsevier},
+title = {{Using machine learning to optimize parallelism in big data applications}},
+volume = {86},
+year = {2018}
+}
+@inproceedings{chiba2016workload,
+author = {Chiba, Tatsuhiro and Onodera, Tamiya},
+booktitle = {2016 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)},
+organization = {IEEE},
+pages = {112--121},
+title = {{Workload characterization and optimization of tpc-h queries on apache spark}},
+year = {2016}
+}
+@article{ripamonti2017x,
+author = {RIPAMONTI, SIMONE},
+publisher = {Italy},
+title = {{X-Spark: managing concurrent QoS-constrained big data applications through dynamic resource provisioning}},
+year = {2017}
+}

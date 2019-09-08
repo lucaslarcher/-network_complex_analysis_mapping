@@ -1,0 +1,548 @@
+@article{graupner2014business,
+  title={Business Intelligence \& Analytics for Processes-A Visibility Requirements Evaluation},
+  author={Graupner, Enrico and Berner, Martin and Maedche, Alexander and Jegadeesan, Harshavardhan},
+  journal={MKWI},
+  volume={2014},
+  pages={26},
+  year={2014}
+}
+@article{xing2014challenges,
+  title={The challenges of image segmentation in big remotely sensed imagery data},
+  author={Xing, Jin and Sieber, Ren{\'e}e and Kalacska, Margaret},
+  journal={Annals of GIS},
+  volume={20},
+  number={4},
+  pages={233--244},
+  year={2014},
+  publisher={Taylor \& Francis}
+}
+@incollection{chebbi2015big,
+  title={Big data: Concepts, challenges and applications},
+  author={Chebbi, Imen and Boulila, Wadii and Farah, Imed Riadh},
+  booktitle={Computational Collective Intelligence},
+  pages={638--647},
+  year={2015},
+  publisher={Springer}
+}
+@article{el2017big,
+  title={Big Data and Cloud Computing: Trends and Challenges.},
+  author={El-Seoud, Samir A and El-Sofany, Hosam F and Abdelfattah, Mohamed and Mohamed, Reham},
+  journal={International Journal of Interactive Mobile Technologies},
+  volume={11},
+  number={2},
+  year={2017}
+}
+@inproceedings{berrahal2016cooperative,
+  title={Cooperative sensor-clouds for public safety services in infrastructure-less areas},
+  author={Berrahal, Sarra and Boudriga, Noureddine and Bagula, Antoine},
+  booktitle={2016 22nd Asia-Pacific Conference on Communications (APCC)},
+  pages={222--229},
+  year={2016},
+  organization={IEEE}
+}
+@article{kumar2015big,
+  title={Big data and analytics: issues, challenges, and opportunities},
+  author={Kumar, Akshay and Kumar, TV Vijay},
+  journal={International Journal of Data Science},
+  volume={1},
+  number={2},
+  pages={118--138},
+  year={2015},
+  publisher={Inderscience Publishers (IEL)}
+}
+@incollection{darrel2015benefits,
+  title={The benefits of big data analytics in the healthcare sector: What are they and who benefits?},
+  author={Darrel, Andrea and Hume, Margee and Hardie, Timothy and Soar, Jeffery},
+  booktitle={Big data analytics in bioinformatics and healthcare},
+  pages={406--439},
+  year={2015},
+  publisher={IGI Global}
+}
+@book{kache2015dealing,
+  title={Dealing with digital information richness in supply chain management: A review and a Big Data Analytics approach},
+  author={Kache, Florian},
+  volume={8},
+  year={2015},
+  publisher={kassel university press GmbH}
+}
+@article{abbes2018mongodb,
+  title={MongoDB-Based Modular Ontology Building for Big Data Integration},
+  author={Abbes, Hanen and Gargouri, Faiez},
+  journal={Journal on Data Semantics},
+  volume={7},
+  number={1},
+  pages={1--27},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{jelonek2017big,
+  title={Big Data Analytics in the Management of Business},
+  author={Jelonek, Dorota},
+  booktitle={MATEC Web of Conferences},
+  volume={125},
+  pages={04021},
+  year={2017},
+  organization={EDP Sciences}
+}
+@article{wang2015gaining,
+  title={Gaining competitive intelligence from social media data},
+  author={Wang, Xiaojun and White, Leroy and Chen, Xu and He, Wu and Shen, Jiancheng and Tian, Xin and Li, Yaohang and Akula, Vasudeva and Yan, Gongjun and Tao, Ran},
+  journal={Industrial Management \& Data Systems},
+  year={2015},
+  publisher={Emerald Group Publishing Limited}
+}
+@inproceedings{pokorny2017big,
+  title={Big data storage and management: challenges and opportunities},
+  author={Pokorn{\`y}, Jaroslav},
+  booktitle={International Symposium on Environmental Software Systems},
+  pages={28--38},
+  year={2017},
+  organization={Springer}
+}
+@incollection{ebadati2016hybrid,
+  title={A hybrid clustering technique to improve big data accessibility based on machine learning approaches},
+  author={Ebadati, E Omid Mahdi and Tabrizi, Mohammad Mortazavi},
+  booktitle={Information Systems Design and Intelligent Applications},
+  pages={413--423},
+  year={2016},
+  publisher={Springer}
+}
+@article{li2015big,
+  title={Big data in product lifecycle management},
+  author={Li, Jingran and Tao, Fei and Cheng, Ying and Zhao, Liangjin},
+  journal={The International Journal of Advanced Manufacturing Technology},
+  volume={81},
+  number={1-4},
+  pages={667--684},
+  year={2015},
+  publisher={Springer}
+}
+@article{del2014use,
+  title={On the use of MapReduce for imbalanced big data using Random Forest},
+  author={Del R{\'\i}o, Sara and L{\'o}pez, Victoria and Ben{\'\i}tez, Jos{\'e} Manuel and Herrera, Francisco},
+  journal={Information Sciences},
+  volume={285},
+  pages={112--137},
+  year={2014},
+  publisher={Elsevier}
+}
+@article{fernandez2014big,
+  title={Big Data with Cloud Computing: an insight on the computing environment, MapReduce, and programming frameworks},
+  author={Fern{\'a}ndez, Alberto and del R{\'\i}o, Sara and L{\'o}pez, Victoria and Bawakid, Abdullah and del Jesus, Mar{\'\i}a J and Ben{\'\i}tez, Jos{\'e} M and Herrera, Francisco},
+  journal={Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  volume={4},
+  number={5},
+  pages={380--409},
+  year={2014},
+  publisher={Wiley Online Library}
+}
+@article{lopez2015cost,
+  title={Cost-sensitive linguistic fuzzy rule based classification systems under the MapReduce framework for imbalanced big data},
+  author={L{\'o}pez, Victoria and Del R{\'\i}o, Sara and Ben{\'\i}tez, Jos{\'e} Manuel and Herrera, Francisco},
+  journal={Fuzzy Sets and Systems},
+  volume={258},
+  pages={5--38},
+  year={2015},
+  publisher={Elsevier}
+}
+@article{zhou2016understanding,
+  title={Understanding household energy consumption behavior: The contribution of energy big data analytics},
+  author={Zhou, Kaile and Yang, Shanlin},
+  journal={Renewable and Sustainable Energy Reviews},
+  volume={56},
+  pages={810--819},
+  year={2016},
+  publisher={Elsevier}
+}
+@article{kache2017challenges,
+  title={Challenges and opportunities of digital information at the intersection of Big Data Analytics and supply chain management},
+  author={Kache, Florian and Seuring, Stefan},
+  journal={International Journal of Operations \& Production Management},
+  volume={37},
+  number={1},
+  pages={10--36},
+  year={2017},
+  publisher={Emerald Publishing Limited}
+}
+@article{amoore2015life,
+  title={Life beyond big data: Governing with little analytics},
+  author={Amoore, Louise and Piotukh, Volha},
+  journal={Economy and Society},
+  volume={44},
+  number={3},
+  pages={341--366},
+  year={2015},
+  publisher={Taylor \& Francis}
+}
+@article{he2015gaining,
+  title={Gaining competitive intelligence from social media data: Evidence from two largest retail chains in the world},
+  author={He, Wu and Shen, Jiancheng and Tian, Xin and Li, Yaohang and Akula, Vasudeva and Yan, Gongjun and Tao, Ran},
+  journal={Industrial Management \& Data Systems},
+  volume={115},
+  number={9},
+  pages={1622--1636},
+  year={2015},
+  publisher={Emerald Group Publishing Limited}
+}
+@article{kamal2016mapreduce,
+  title={A MapReduce approach to diminish imbalance parameters for big deoxyribonucleic acid dataset},
+  author={Kamal, Sarwar and Ripon, Shamim Hasnat and Dey, Nilanjan and Ashour, Amira S and Santhi, V},
+  journal={Computer methods and programs in biomedicine},
+  volume={131},
+  pages={191--206},
+  year={2016},
+  publisher={Elsevier}
+}
+@article{trovati2016influence,
+  title={An influence assessment method based on co-occurrence for topologically reduced big data sets},
+  author={Trovati, Marcello and Bessis, Nik},
+  journal={Soft computing},
+  volume={20},
+  number={5},
+  pages={2021--2030},
+  year={2016},
+  publisher={Springer}
+}
+@inproceedings{golzer2015data,
+  title={Data Processing Requirements of Industry 4.0-Use Cases for Big Data Applications.},
+  author={G{\"o}lzer, Philipp and Cato, Patrick and Amberg, Michael},
+  booktitle={ECIS},
+  year={2015}
+}
+@inproceedings{kim2013attribute,
+  title={Attribute relationship evaluation methodology for big data security},
+  author={Kim, Sung-Hwan and Kim, Nam-Uk and Chung, Tai-Myoung},
+  booktitle={2013 International conference on IT convergence and security (ICITCS)},
+  pages={1--4},
+  year={2013},
+  organization={IEEE}
+}
+@article{maier2013towards,
+  title={Towards a big data reference architecture},
+  author={Maier, Markus and Serebrenik, A and Vanderfeesten, ITP},
+  journal={University of Eindhoven},
+  year={2013}
+}
+@article{he2017managing,
+  title={Managing extracted knowledge from big social media data for business decision making},
+  author={He, Wu and Wang, Feng-Kwei and Akula, Vasudeva},
+  journal={Journal of Knowledge Management},
+  volume={21},
+  number={2},
+  pages={275--294},
+  year={2017},
+  publisher={Emerald Publishing Limited}
+}
+@article{lau2016big,
+  title={Big data commerce},
+  author={Lau, Raymond YK and Zhao, J Leon and Chen, Guoqing and Guo, Xunhua},
+  journal={Information and Management},
+  volume={53},
+  number={8},
+  pages={929--933},
+  year={2016},
+  publisher={ELSEVIER SCIENCE BV}
+}
+@article{golzer2015designing,
+  title={Designing global manufacturing networks using Big Data},
+  author={G{\"o}lzer, Philipp and Simon, Lothar and Cato, Patrick and Amberg, Michael},
+  journal={Procedia CIRP},
+  volume={33},
+  pages={191--196},
+  year={2015},
+  publisher={Elsevier}
+}
+@article{esposito2016recent,
+  title={Recent developments on security and reliability in large-scale data processing with mapreduce},
+  author={Esposito, Christian and Ficco, Massimo},
+  journal={International Journal of Data Warehousing and Mining (IJDWM)},
+  volume={12},
+  number={1},
+  pages={49--68},
+  year={2016},
+  publisher={IGI Global}
+}
+@inproceedings{kim2013big,
+  title={Big data security hardening methodology using attributes relationship},
+  author={Kim, Sung-Hwan and Eom, Jung-Ho and Chung, Tai-Myoung},
+  booktitle={2013 International Conference on Information Science and Applications (ICISA)},
+  pages={1--2},
+  year={2013},
+  organization={IEEE}
+}
+@article{golzer2017data,
+  title={Data-driven operations management: organisational implications of the digital transformation in industrial practice},
+  author={G{\"o}lzer, Philipp and Fritzsche, Albrecht},
+  journal={Production Planning \& Control},
+  volume={28},
+  number={16},
+  pages={1332--1343},
+  year={2017},
+  publisher={Taylor \& Francis}
+}
+@article{shen2017forecast,
+  title={Forecast information sharing for managing supply chains in the big data era: Recent development and future research},
+  author={Shen, Bin and Chan, Hau-Ling},
+  journal={Asia-Pacific Journal of Operational Research},
+  volume={34},
+  number={01},
+  pages={1740001},
+  year={2017},
+  publisher={World Scientific}
+}
+@article{abbes2016big,
+  title={Big data integration: A MongoDB database and modular ontologies based approach},
+  author={Abbes, Hanen and Gargouri, Faiez},
+  journal={Procedia Computer Science},
+  volume={96},
+  pages={446--455},
+  year={2016},
+  publisher={Elsevier}
+}
+@inproceedings{cato2015investigation,
+  title={An investigation into the implementation factors affecting the success of big data systems},
+  author={Cato, Patrick and G{\"o}lzer, Philipp and Demmelhuber, Walter},
+  booktitle={2015 11th International Conference on Innovations in Information Technology (IIT)},
+  pages={134--139},
+  year={2015},
+  organization={IEEE}
+}
+@article{grolinger2015collaborative,
+  title={Collaborative knowledge as a service applied to the disaster management domain},
+  author={Grolinger, Katarina and Mezghani, Emna and Capretz, Miriam AM and Exposito, Ernesto},
+  journal={International Journal of Cloud Computing},
+  volume={4},
+  number={1},
+  pages={5},
+  year={2015}
+}
+@incollection{florin2017big,
+  title={Big Data in the parking lot},
+  author={Florin, Ryan and Abolghasemi, Syedmeysam and Zadeh, Aida Ghazi and Olariu, Stephan},
+  booktitle={Big data management and processing},
+  pages={425--450},
+  year={2017},
+  publisher={Chapman and Hall/CRC}
+}
+@article{song2017spoilers,
+  title={Who are the spoilers in social media marketing? Incremental learning of latent semantics for social spam detection},
+  author={Song, Long and Lau, Raymond Yiu Keung and Kwok, Ron Chi-Wai and Mirkovski, Kristijan and Dou, Wenyu},
+  journal={Electronic commerce research},
+  volume={17},
+  number={1},
+  pages={51--81},
+  year={2017},
+  publisher={Springer}
+}
+@incollection{sarowar2019internet,
+  title={Internet of Things and Its Impacts in Computing Intelligence: A Comprehensive Review--IoT Application for Big Data},
+  author={Sarowar, Md Golam and Kamal, Md Sarwar and Dey, Nilanjan},
+  booktitle={Big Data Analytics for Smart and Connected Cities},
+  pages={103--136},
+  year={2019},
+  publisher={IGI Global}
+}
+@article{sangeetha2017survey,
+  title={A survey on big data mining techniques},
+  author={Sangeetha, J and Prakash, V Sinthu Janita},
+  journal={International Journal of Computer Science and Information Security},
+  volume={15},
+  number={1},
+  pages={482},
+  year={2017},
+  publisher={LJS Publishing}
+}
+@article{golzer2017big,
+  title={Big Data in Industrie 4.0-Eine strukturierte Aufarbeitung von Anforderungen, Anwendungsf{\"a}llen und deren Umsetzung},
+  author={G{\"o}lzer, Philipp},
+  year={2017}
+}
+@article{ray2018rise,
+  title={The Rise of Big Data Science: A Survey of Techniques, Methods and Approaches in the Field of Natural Language Processing and Network Theory},
+  author={Ray, Jeffrey and Johnny, Olayinka and Trovati, Marcello and Sotiriadis, Stelios and Bessis, Nik},
+  journal={Big Data and Cognitive Computing},
+  volume={2},
+  number={3},
+  pages={22},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@inproceedings{paiva2016big,
+  title={Big Data and Transparency: Using MapReduce functions to increase Public Expenditure transparency},
+  author={Paiva, Eduardo and Revoredo, Kate},
+  booktitle={Proceedings of the XII Brazilian Symposium on Information Systems on Brazilian Symposium on Information Systems: Information Systems in the Cloud Computing Era-Volume 1},
+  pages={4},
+  year={2016},
+  organization={Brazilian Computer Society}
+}
+@inproceedings{de2016big,
+  title={Big Data e Transpar{\^e}ncia: Utilizando Fun{\c{c}}{\~o}es de Mapreduce para incrementar a transpar{\^e}ncia dos Gastos P{\'u}blicos},
+  author={de Paiva, Eduardo and Revoredo, Kate},
+  booktitle={Anais do XII Simp{\'o}sio Brasileiro de Sistemas de Informa{\c{c}}{\~a}o},
+  pages={025--032},
+  year={2016},
+  organization={SBC}
+}
+@inproceedings{berrahal2016reacting,
+  title={Reacting to Fire Incidents in Infrastructure-less Zones: A WBAN-Cloud based Approach},
+  author={Berrahal, Sarra and Boudriga, Noureddine and Bagula, Atoine},
+  booktitle={Proceedings of the 4th international Conference on Advances in Computing and Information Techniques (CCIT), Birmingham, United Kingdom},
+  year={2016}
+}
+@incollection{ansari2015importance,
+  title={Importance of big data},
+  author={Ansari, Seema and Mohanlal, Radha and Poncela, Javier and Ansari, Adeel and Mohanlal, Komal},
+  booktitle={Handbook of research on trends and future directions in big data and web intelligence},
+  pages={1--19},
+  year={2015},
+  publisher={IGI Global}
+}
+@inproceedings{wu2016implementation,
+  title={Implementation of massive data processing architecture for electric enterprise groups},
+  author={Wu, Linli and Shen, Zhangyi and Feng, Xiang},
+  booktitle={2016 IEEE/ACIS 15th International Conference on Computer and Information Science (ICIS)},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
+@article{hassani2017framework,
+  title={A framework for Business Process Data Management based on Big Data Approach},
+  author={Hassani, Asma and Gahnouchi, Sonia Ayachi},
+  journal={Procedia computer science},
+  volume={121},
+  pages={740--747},
+  year={2017},
+  publisher={Elsevier}
+}
+@article{bohrarole,
+  title={Role of Biometrics and Forensic Science in Big Data Projects},
+  author={Bohra, Brahmdutt and Yadav, Surendra and Sharma, Manish}
+}
+@article{tiangaining,
+  title={Gaining competitive intelligence from social media data: Evidence from two largest retail chains in the world},
+  author={Tian, Wu He Jiancheng Shen Xin and Yan, Yaohang Li Vasudeva Akula Gongjun and Tao, Ran}
+}
+@phdthesis{berrahal2016doctor,
+  title={Doctor},
+  author={Berrahal, Sarra},
+  year={2016},
+  school={University of Carthage}
+}
+@phdthesis{vela2017employees,
+  title={The employees’ perception on the adoption of big data analytics by selected medical aid organisations in Durban.},
+  author={Vela, Vela and others},
+  year={2017}
+}
+@incollection{gungor2019industry,
+  title={Industry 4.0 Technologies Used in Project Management},
+  author={G{\"u}ng{\"o}r, Dilek {\"O}zdemir},
+  booktitle={Agile Approaches for Successfully Managing and Executing Projects in the Fourth Industrial Revolution},
+  pages={40--63},
+  year={2019},
+  publisher={IGI Global}
+}
+@article{lopez20143,
+  title={3. A study on the Scalability of FRBCSs for Imbalanced Datasets in the Big Data Scenario},
+  author={L{\'o}pez, V and del R{\i}o, S and Ben{\i}tez, JM and Herrera, F and Based, Cost-Sensitive Linguistic Fuzzy Rule},
+  journal={Sistemas de Clasificaci{\'o}n Basados en Reglas Difusas para Problemas no Balanceados. Aproximaciones y Uso de Nuevas Estrategias para Resolver Problemas Intr{\i}nsecos a los Datos no Balanceados},
+  pages={131},
+  year={2014}
+}
+@inproceedings{maheshwari2017data,
+  title={Data analytics using cloud computing},
+  author={Maheshwari, Prakhar and Singhal, Alankar and Qadeer, Mohammed A},
+  booktitle={2017 9th International Conference on Computational Intelligence and Communication Networks (CICN)},
+  pages={82--87},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{huang2015study,
+  title={Study on Cloud Storage based on the MapReduce for Big Data},
+  author={Huang, Yi and Ma, Xinqiang and Zhang, Yongdang and Liu, Youyuan},
+  booktitle={2015 International Conference on Mechatronics, Electronic, Industrial and Control Engineering (MEIC-15)},
+  year={2015},
+  organization={Atlantis Press}
+}
+@article{haqiqproposed,
+  title={Proposed Platform IPHCS for Predictive Analysis in Healthcare System by Using Big Data Techniques},
+  author={Haqiq, Abdelkrim},
+  journal={Feature Engineering in Hybrid Recommender Systems},
+  pages={74}
+}
+@article{senthil2017optimal,
+  title={Optimal Query Anatomization for Distributed Cloud Server Applications},
+  author={Senthil, K and Chitra, P},
+  journal={Journal of Computational and Theoretical Nanoscience},
+  volume={14},
+  number={11},
+  pages={5386--5395},
+  year={2017},
+  publisher={American Scientific Publishers}
+}
+@phdthesis{mfungo2017performance,
+  title={Performance evaluation of NoSQL databases on streaming data},
+  author={Mfungo, Dani},
+  year={2017},
+  school={The University of Dodoma}
+}
+@inproceedings{xu2017innovation,
+  title={Innovation Model Analysis of Data Flow Calculation and Storage Technology based on Cloud Computing},
+  author={Xu, Hongsheng and Li, Ke and Fan, Ganglong},
+  booktitle={7th International Conference on Management, Education, Information and Control (MEICI 2017)},
+  year={2017},
+  organization={Atlantis Press}
+}
+@article{ghofrani2018survey,
+  title={Survey of Big Data Role in Smart Grids: Definitions, Applications, Challenges, and Solutions},
+  author={Ghofrani, Mahmoud and Steeble, Andrew and Barrett, Christopher and Daneshnia, Iman},
+  journal={The Open Electrical \& Electronic Engineering Journal},
+  volume={12},
+  number={1},
+  year={2018}
+}
+@phdthesis{sousaanalytics,
+  title={Analytics: critical success factors on implementation in organizations.},
+  author={Sousa, Leandro Rodrigues},
+  school={Universidade de S{\~a}o Paulo}
+}
+@inproceedings{abbes2017managing,
+  title={Managing Modular Ontology Evolution Under Big Data Integration},
+  author={Abbes, Hanen and Gargouri, Faiez},
+  booktitle={European, Mediterranean, and Middle Eastern Conference on Information Systems},
+  pages={17--28},
+  year={2017},
+  organization={Springer}
+}
+@incollection{ali2018two,
+  title={Two-Step Verifications for Multi-instance Features Selection: A Machine Learning Approach},
+  author={Ali, MNY and Nimmy, SF},
+  booktitle={Classification in BioApps},
+  pages={173--198},
+  year={2018},
+  publisher={Springer}
+}
+@inproceedings{ye2018officer,
+  title={Officer Profile Management System Using by Cloud Computing Services},
+  author={Ye, Kyaw Zaw and Htun, Kyaw Myo and Htet, Zaw and Maung, Soe Myint},
+  booktitle={Conference on Complex, Intelligent, and Software Intensive Systems},
+  pages={832--841},
+  year={2018},
+  organization={Springer}
+}
+@article{alam2016big,
+  title={Big Data Analytics in Cloud environment using Hadoop},
+  author={Alam, Mansaf and Shakil, Kashish Ara},
+  journal={arXiv preprint arXiv:1610.04572},
+  year={2016}
+}
+@article{mahesar2017integrating,
+  title={INTEGRATING CUSTOMER RELATIONSHIP MANAGEMENT WITH BIG DATA ANALYTICS IN RETAIL STORES: A CASE OF HYPER-STAR AND METRO},
+  author={Mahesar, Hakim Ali and Chaudhry, Naveed Iqbal and Tariq, Usman},
+  journal={Journal of Business Strategies},
+  volume={11},
+  number={2},
+  pages={141--158},
+  year={2017},
+  publisher={AsiaNet Pakistan (Pvt) Ltd.}
+}
+

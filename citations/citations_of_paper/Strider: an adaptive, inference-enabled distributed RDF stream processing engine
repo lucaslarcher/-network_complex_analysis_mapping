@@ -1,0 +1,60 @@
+@inproceedings{szarnyas2018incremental,
+  title={Incremental View Maintenance for Property Graph Queries},
+  author={Sz{\'a}rnyas, G{\'a}bor},
+  booktitle={Proceedings of the 2018 International Conference on Management of Data},
+  pages={1843--1845},
+  year={2018},
+  organization={ACM}
+}
+@article{szarnyas2019query,
+  title={Query, analysis, and benchmarking techniques for evolving property graphs of software systems},
+  author={Sz{\'a}rnyas, G{\'a}bor},
+  year={2019},
+  publisher={Informatikai Tudom{\'a}nyok Doktori Iskola}
+}
+@article{chun2019planning,
+  title={Planning operators of concurrent RDF stream processing queries},
+  author={Chun, Sejin and Yoon, Seungjun and Jung, Jooik and Lee, Kyong-Ho},
+  journal={International Journal of Web and Grid Services},
+  volume={15},
+  number={1},
+  pages={93--117},
+  year={2019},
+  publisher={Inderscience Publishers (IEL)}
+}
+@article{trackstream,
+  title={Stream Reasoning Agents},
+  author={Track, Blue Sky Ideas and Tommasini, Riccardo and Calvaresi, Davide and Calbimonte, Jean-Paul}
+}
+@article{xiangnanscalable,
+  title={Scalable RDF Stream Reasoning in the Cloud},
+  author={Xiangnan, Ren and Olivier, Cur{\'e} and Hubert, Naacke and Li, Ke}
+}
+@misc{le2019semantic,
+  title={Semantic Stream Processing.},
+  author={Le Phuoc, Danh and Hauswirth, Manfred},
+  year={2019}
+}
+@inproceedings{rao2018prspr,
+  title={PRSPR: An Adaptive Framework for Massive RDF Stream Reasoning},
+  author={Rao, Guozheng and Zhao, Bo and Zhang, Xiaowang and Feng, Zhiyong and Xiao, Guohui},
+  booktitle={Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data},
+  pages={440--448},
+  year={2018},
+  organization={Springer}
+}
+@inproceedings{tommasini2019stream,
+  title={Stream Reasoning Agents: Blue Sky Ideas Track},
+  author={Tommasini, Riccardo and Calvaresi, Davide and Calbimonte, Jean-Paul},
+  booktitle={Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems},
+  pages={1664--1680},
+  year={2019},
+  organization={International Foundation for Autonomous Agents and Multiagent Systems}
+}
+@phdthesis{lhez2018filtrage,
+  title={Filtrage, stockage et raisonnement sur de grands volumes de triplets RDF ordonnanc{\'e}s},
+  author={Lhez, Jérémy},
+  year={2018},
+  school={Paris Est}
+}
+

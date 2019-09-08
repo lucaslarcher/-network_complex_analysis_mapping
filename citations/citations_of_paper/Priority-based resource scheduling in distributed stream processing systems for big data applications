@@ -1,0 +1,128 @@
+@phdthesis{du2016new,
+  title={New techniques to lower the tail latency in stream processing systems},
+  author={Du, Guangxiang},
+  year={2016}
+}
+@phdthesis{eskandari2019task,
+  title={Task Scheduling in Data Stream Processing Systems},
+  author={Eskandari, Leila},
+  year={2019},
+  school={University of Otago}
+}
+@phdthesis{liu2018robust,
+  title={Robust resource management in distributed stream processing systems},
+  author={Liu, Xunyun},
+  year={2018}
+}
+@article{alsdn,
+  title={SDN enabled BDSP in public cloud for resource optimization},
+  author={Al-Mansoori, Ahmed and Abawajy, Jemal and Chowdhury, Morshed},
+  journal={Wireless Networks},
+  pages={1--11},
+  publisher={Springer}
+}
+@inproceedings{ajila2018data,
+  title={Data Driven Priority Scheduling on Spark Based Stream Processing},
+  author={Ajila, Tobi and Majumdar, Shikaresh},
+  booktitle={2018 IEEE/ACM 5th International Conference on Big Data Computing Applications and Technologies (BDCAT)},
+  pages={208--210},
+  year={2018},
+  organization={IEEE}
+}
+@article{bittencourt2018computer,
+  title={Computer Science Review},
+  author={Bittencourt, Luiz F and Goldman, Alfredo and Madeira, Edmundo RM},
+  year={2018}
+}
+@article{perwejjournal,
+  title={Journal Homepage:-www. journalijar. com},
+  author={Perwej, Asif}
+}
+@article{li2016performance,
+  title={Performance modeling and predictive scheduling for distributed stream data processing},
+  author={Li, Teng and Tang, Jian and Xu, Jielong},
+  journal={IEEE Transactions on Big Data},
+  volume={2},
+  number={4},
+  pages={353--364},
+  year={2016},
+  publisher={IEEE}
+}
+@inproceedings{li2015predictive,
+  title={A predictive scheduling framework for fast and distributed stream data processing},
+  author={Li, Teng and Tang, Jian and Xu, Jielong},
+  booktitle={2015 IEEE International Conference on Big Data (Big Data)},
+  pages={333--338},
+  year={2015},
+  organization={IEEE}
+}
+@article{liu2018stepwise,
+  title={A stepwise auto-profiling method for performance optimization of streaming applications},
+  author={Liu, Xunyun and Dastjerdi, Amir Vahid and Calheiros, Rodrigo N and Qu, Chenhao and Buyya, Rajkumar},
+  journal={ACM Transactions on Autonomous and Adaptive Systems (TAAS)},
+  volume={12},
+  number={4},
+  pages={24},
+  year={2018},
+  publisher={ACM}
+}
+@article{li2018model,
+  title={Model-free control for distributed stream data processing using deep reinforcement learning},
+  author={Li, Teng and Xu, Zhiyuan and Tang, Jian and Wang, Yanzhi},
+  journal={Proceedings of the VLDB Endowment},
+  volume={11},
+  number={6},
+  pages={705--718},
+  year={2018},
+  publisher={VLDB Endowment}
+}
+@article{bittencourt2018scheduling,
+  title={Scheduling in distributed systems: A cloud computing perspective},
+  author={Bittencourt, Luiz F and Goldman, Alfredo and Madeira, Edmundo RM and da Fonseca, Nelson LS and Sakellariou, Rizos},
+  journal={Computer Science Review},
+  volume={30},
+  pages={31--54},
+  year={2018},
+  publisher={Elsevier}
+}
+@inproceedings{mohamed2016hadoop,
+  title={Hadoop-MapReduce job scheduling algorithms survey},
+  author={Mohamed, Ehab and Hong, Zheng},
+  booktitle={2016 7th International Conference on Cloud Computing and Big Data (CCBD)},
+  pages={237--242},
+  year={2016},
+  organization={IEEE}
+}
+@article{sheng2016k,
+  title={k-degree layer-wise network for geo-distributed computing between cloud and IoT},
+  author={Sheng, Yiqiang and Wang, Jinlin and Deng, Haojiang and Li, Chaopeng},
+  journal={IEICE Transactions on Communications},
+  volume={99},
+  number={2},
+  pages={307--314},
+  year={2016},
+  publisher={The Institute of Electronics, Information and Communication Engineers}
+}
+@inproceedings{chakraborty2017priority,
+  title={Priority based resource scheduling techniques for a resource constrained stream processing system},
+  author={Chakraborty, Rudraneel and Majumdar, Shikharesh},
+  booktitle={Proceedings of the Fourth IEEE/ACM International Conference on Big Data Computing, Applications and Technologies},
+  pages={21--31},
+  year={2017},
+  organization={ACM}
+}
+@phdthesis{chakraborty2017priority,
+  title={Priority-Based Scheduling Techniques for a Multitenant Stream Processing Platform},
+  author={Chakraborty, Rudraneel},
+  year={2017},
+  school={Carleton University}
+}
+@inproceedings{chakraborty2016priority,
+  title={A priority based resource scheduling technique for multitenant storm clusters},
+  author={Chakraborty, Rudraneel and Majumdar, Shikharesh},
+  booktitle={2016 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS)},
+  pages={1--6},
+  year={2016},
+  organization={IEEE}
+}
+

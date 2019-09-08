@@ -1,0 +1,103 @@
+@inproceedings{gao2018stream,
+  title={Stream WatDiv: A streaming RDF benchmark},
+  author={Gao, Libo and Golab, Lukasz and {\"O}zsu, M Tamer and Alu{\c{c}}, G{\"u}ne{\c{s}}},
+  booktitle={Proceedings of the International Workshop on Semantic Big Data},
+  pages={3},
+  year={2018},
+  organization={ACM}
+}
+@inproceedings{yang2018query,
+  title={Query for streaming information: dynamic processing and adaptive incremental maintenance of RDF stream},
+  author={Yang, Xuanxing},
+  booktitle={Companion Proceedings of the The Web Conference 2018},
+  pages={843--847},
+  year={2018},
+  organization={International World Wide Web Conferences Steering Committee}
+}
+@inproceedings{van2018model,
+  title={A model for data enrichment over IoT streams at edges of internet},
+  author={Van Hille, Reinout and Xhafa, Fatos and Hellinckx, Peter},
+  booktitle={International Conference on P2P, Parallel, Grid, Cloud and Internet Computing},
+  pages={128--136},
+  year={2018},
+  organization={Springer}
+}
+@phdthesis{ren2018traitement,
+  title={Traitement et raisonnement distribu{\'e}s des flux RDF},
+  author={Ren, Xiangnan},
+  year={2018},
+  school={Paris Est}
+}
+@mastersthesis{brink2017orchestrating,
+  title={Orchestrating Similar Stream Processing Jobs to Merge Equivalent Subjobs},
+  author={Brink, B},
+  year={2017},
+  school={University of Twente}
+}
+@article{ren2018bigsr,
+  title={BigSR: an empirical study of real-time expressive RDF stream reasoning on modern Big Data platforms},
+  author={Ren, Xiangnan and Cur{\'e}, Olivier and Naacke, Hubert and Xiao, Guohui},
+  journal={arXiv preprint arXiv:1804.04367},
+  year={2018}
+}
+@inproceedings{bonte2019c,
+  title={C-Sprite: Efficient Hierarchical Reasoning for Rapid RDF Stream Processing},
+  author={Bonte, Pieter and Tommasini, Riccardo and De Turck, Filip and Ongenae, Femke and Valle, Emanuele Della},
+  booktitle={Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems},
+  pages={103--114},
+  year={2019},
+  organization={ACM}
+}
+@article{fang2019united,
+  title={A United Framework for Large-Scale Resource Description Framework Stream Processing},
+  author={Fang, Hong and Zhao, Bo and Zhang, Xiao-Wang and Yang, Xuan-Xing},
+  journal={Journal of Computer Science and Technology},
+  volume={34},
+  number={4},
+  pages={762--774},
+  year={2019},
+  publisher={Springer}
+}
+@article{galkin2019strategies,
+  title={Strategies for Managing Linked Enterprise Data},
+  author={Galkin, Mikhail},
+  year={2019}
+}
+@article{xiangnanscalable,
+  title={Scalable RDF Stream Reasoning in the Cloud},
+  author={Xiangnan, Ren and Olivier, Cur{\'e} and Hubert, Naacke and Li, Ke}
+}
+@phdthesis{ren2018distributed,
+  title={Distributed RDF stream processing and reasoning},
+  author={Ren, Xiangnan},
+  year={2018},
+  school={Universit{\'e} Paris-Est}
+}
+@inproceedings{pernischova2018stream,
+  title={Stream Processing: The Matrix Revolutions.},
+  author={Pernischov{\'a}, Romana and Ruosch, Florian and Dell'Aglio, Daniele and Bernstein, Abraham},
+  booktitle={SSWS@ ISWC},
+  pages={15--27},
+  year={2018}
+}
+@inproceedings{zehnder2017streamconnect,
+  title={StreamConnect: Ingesting Historic and Real-Time Data into Unified Streaming Architectures},
+  author={Zehnder, Philipp and Riemer, Dominik},
+  booktitle={Workshop: WSP ISWC2017},
+  year={2017}
+}
+@inproceedings{ren2018bigsr,
+  title={BigSR: real-time expressive RDF stream reasoning on modern Big Data platforms},
+  author={Ren, Xiangnan and Cur{\'e}, Olivier and Naacke, Hubert and Xiao, Guohui},
+  booktitle={2018 IEEE International Conference on Big Data (Big Data)},
+  pages={811--820},
+  year={2018},
+  organization={IEEE}
+}
+@article{balduini2019continuous,
+  title={On the continuous and reactive analysis of a variety of spatio-temporal data},
+  author={Balduini, Marco},
+  year={2019},
+  publisher={Italy}
+}
+

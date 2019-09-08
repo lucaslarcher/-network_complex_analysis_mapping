@@ -1,0 +1,19 @@
+@article{tesse2018supporting,
+  title={Supporting diffusion of iot solutions exemplified by the chainport initiative},
+  author={Tesse, J{\~A} and Schirmer, Ingrid and Drews, Paul and Saxe, Sebastian and Baldauf, Ulrich and others},
+  year={2018}
+}
+@inproceedings{aldea2018enterprise,
+  title={Enterprise Architecture 4.0--A vision, an approach and software tool support},
+  author={Aldea, Adina and Iacob, Maria-Eugenia and Wombacher, Andreas and Hiralal, Marlon and Franck, Thijs},
+  booktitle={2018 IEEE 22nd International Enterprise Distributed Object Computing Conference (EDOC)},
+  pages={1--10},
+  year={2018},
+  organization={IEEE}
+}
+@article{drews2017internet,
+  title={Internet of Things-Specific Challenges for Enterprise Architectures: A Cross-Case Comparison of Explorative Projects from the smartPORT Initiative},
+  author={Drews, Paul and Schirmer, Ingrid and Tesse, J{\"o}ran and Saxe, Sebastian and Baldauf, Ulrich},
+  year={2017}
+}
+
